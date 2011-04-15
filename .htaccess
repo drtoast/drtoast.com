@@ -1,0 +1,184 @@
+DirectoryIndex index.php
+
+# need these so wordpress's mod_rewrite rules don't screw up apache's Basic-Auth
+ErrorDocument 401 /home/drtoast/drtoast.com/error.html
+ErrorDocument 403 /home/drtoast/drtoast.com/error.html
+
+# redirect specific weird dreams to toasthaiku.net
+Redirect 301 /crumbs/104 http://toasthaiku.net/2005/11/23/the-cats-snowflakes/
+Redirect 301 /crumbs/103 http://toasthaiku.net/2005/05/28/red-birds/
+Redirect 301 /crumbs/87 http://toasthaiku.net/1996/01/22/meat-loaf-recipes-of-the-old-west/
+Redirect 301 /crumbs/80 http://toasthaiku.net/1997/01/24/michael-douglas-and-tofu/
+Redirect 301 /crumbs/79 http://toasthaiku.net/1997/02/22/abalone-fisherwoman/
+Redirect 301 /crumbs/76 http://toasthaiku.net/1997/05/22/bananas-and-spielberg/
+Redirect 301 /crumbs/75 http://toasthaiku.net/1998/10/23/soup-in-the-south/
+Redirect 301 /crumbs/73 http://toasthaiku.net/2000/10/18/lucid-dreaming/
+
+# redirect deleted weird dreams
+Redirect 301 /departments/weird-dreams http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/86 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/85 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/84 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/83 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/82 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/81 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/78 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/77 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/74 http://toasthaiku.net/category/weird-dreams/
+Redirect 301 /crumbs/72 http://toasthaiku.net/category/weird-dreams/
+
+# redirect old pages to wordpress
+Redirect 301 /adt_04_addictionhtml http://www.drtoast.com/crumbs/29
+Redirect 301 /index.html http://www.drtoast.com
+Redirect 301 /default.html http://www.drtoast.com
+Redirect 301 /adt_01_oneslice.html http://www.drtoast.com/crumbs/2
+Redirect 301 /adt_02_evil.html http://www.drtoast.com/crumbs/9
+Redirect 301 /adt_03_origins.html http://www.drtoast.com/crumbs/11
+Redirect 301 /adt_04_addiction.html http://www.drtoast.com/crumbs/29
+Redirect 301 /adt_05_shrine.html http://www.drtoast.com/crumbs/30
+Redirect 301 /adt_06_einstein.html http://www.drtoast.com/crumbs/31
+Redirect 301 /adt_07_toobig.html http://www.drtoast.com/crumbs/32
+Redirect 301 /adt_08_burnt.html http://www.drtoast.com/crumbs/33
+Redirect 301 /adt_10_bolivia.html http://www.drtoast.com/crumbs/34
+Redirect 301 /adt_11_condiment.html http://www.drtoast.com/crumbs/35
+Redirect 301 /adt_12_pay.html http://www.drtoast.com/crumbs/36
+Redirect 301 /adt_13_alive.html http://www.drtoast.com/crumbs/37
+Redirect 301 /adt_14_genetic.html http://www.drtoast.com/crumbs/38
+Redirect 301 /adt_15_perfect.html http://www.drtoast.com/crumbs/39
+Redirect 301 /adt_16_eject.html http://www.drtoast.com/crumbs/40
+Redirect 301 /adt_17_notoast.html http://www.drtoast.com/crumbs/41
+Redirect 301 /adt_18_cult.html http://www.drtoast.com
+Redirect 301 /adt_19_raisins.html http://www.drtoast.com/crumbs/42
+Redirect 301 /adt_20_ihatetoast.html http://www.drtoast.com/crumbs/43
+Redirect 301 /badtoastlinks.html http://www.drtoast.com/departments/toast-links/
+Redirect 301 /bookstore.html http://www.drtoast.com
+Redirect 301 /burdick.html http://www.drtoast.com/crumbs/66
+Redirect 301 /carroll.html http://www.drtoast.com/crumbs/91
+Redirect 301 /condor1.html http://www.drtoast.com/crumbs/68
+Redirect 301 /condor2.html http://www.drtoast.com/crumbs/67
+Redirect 301 /dream_01_meatloaf.html http://www.drtoast.com/crumbs/87
+Redirect 301 /dream_02_tire.html http://www.drtoast.com/crumbs/86
+Redirect 301 /dream_03_airport.html http://www.drtoast.com/crumbs/85
+Redirect 301 /dream_04_fork.html http://www.drtoast.com/crumbs/84
+Redirect 301 /dream_05_auto.html http://www.drtoast.com/crumbs/83
+Redirect 301 /dream_06_restaurant.html http://www.drtoast.com/crumbs/82
+Redirect 301 /dream_07_salsa.html http://www.drtoast.com/crumbs/81
+Redirect 301 /dream_08_douglas.html http://www.drtoast.com/crumbs/80
+Redirect 301 /dream_09_abalone.html http://www.drtoast.com/crumbs/79
+Redirect 301 /dream_10_contacts.html http://www.drtoast.com/crumbs/78
+Redirect 301 /dream_11_bath.html http://www.drtoast.com/crumbs/77
+Redirect 301 /dream_12_bananas.html http://www.drtoast.com/crumbs/76
+Redirect 301 /dream_13_soup.html http://www.drtoast.com/crumbs/75
+Redirect 301 /dream_14_hairpiece.html http://www.drtoast.com/crumbs/74
+Redirect 301 /dream_15_lucid.html http://www.drtoast.com/crumbs/73
+Redirect 301 /dream_16_dressed.html http://www.drtoast.com/crumbs/72
+Redirect 301 /history.html http://www.drtoast.com/crumbs/71
+Redirect 301 /index.html http://www.drtoast.com
+Redirect 301 /insipid.html http://www.drtoast.com/crumbs/70
+Redirect 301 /left.html http://www.drtoast.com
+Redirect 301 /music.html http://www.drtoast.com/music/
+Redirect 301 /philosophy.html http://www.drtoast.com/departments/ask-dr-toast/
+Redirect 301 /readerhaiku.html http://www.drtoast.com/departments/toast-haiku/
+Redirect 301 /realhistory.html http://www.drtoast.com/crumbs/8
+Redirect 301 /recipe_001_classic.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_002_surreal.html http://www.drtoast.com/crumbs/56
+Redirect 301 /recipe_003_spicycheese.html http://www.drtoast.com/crumbs/45
+Redirect 301 /recipe_004_cardamom.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_005_cheeseonion.html http://www.drtoast.com/crumbs/46
+Redirect 301 /recipe_006_paulcheese.html http://www.drtoast.com/crumbs/47
+Redirect 301 /recipe_007_staves.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_008_banana.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_009_cinnamon.html http://www.drtoast.com/crumbs/44
+Redirect 301 /recipe_010_rabanadas.html http://www.drtoast.com/crumbs/49
+Redirect 301 /recipe_011_weightwatchers.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_012_garlic.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_013_tonga.html http://www.drtoast.com/crumbs/50
+Redirect 301 /recipe_014_creamedeggs.html http://www.drtoast.com/crumbs/55
+Redirect 301 /recipe_015_bruschetta.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_016_asparagus.html http://www.drtoast.com/crumbs/52
+Redirect 301 /recipe_017_cucumber.html http://www.drtoast.com/crumbs/51
+Redirect 301 /recipe_018_paneer.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_019_beans.html http://www.drtoast.com/crumbs/54
+Redirect 301 /recipe_020_frenzy.html http://www.drtoast.com/crumbs/58
+Redirect 301 /recipe_021_cheesedream.html http://www.drtoast.com/crumbs/48
+Redirect 301 /recipe_022_dietcheese.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_023_bachelor.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /recipe_024_garlictomato.html http://www.drtoast.com/crumbs/53
+Redirect 301 /recipe_025_toastsandwich.html http://www.drtoast.com/crumbs/57
+Redirect 301 /recipe_026_toastspread.html http://www.drtoast.com/crumbs/59
+Redirect 301 /recipe_027_toastespresso.html http://www.drtoast.com/crumbs/60
+Redirect 301 /recipe_028_toastburger.html http://www.drtoast.com/crumbs/61
+Redirect 301 /recipes.html http://www.drtoast.com/departments/toast-recipes/
+Redirect 301 /thankyou.html http://www.drtoast.com
+Redirect 301 /toasthaiku.html http://www.drtoast.com/departments/toast-haiku/
+Redirect 301 /toastlinks.html http://www.drtoast.com/departments/toast-links/
+Redirect 301 /toastrace.html http://www.drtoast.com/crumbs/69
+Redirect 301 /weirddreams.html http://www.drtoast.com/departments/weird-dreams/
+Redirect 301 /music http://www.drtoast.com/departments/music
+
+
+# BEGIN NOT-WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} ^/judit/(.*)$ [OR]
+RewriteCond %{REQUEST_URI} ^/stats/(.*)$ [OR]
+RewriteCond %{REQUEST_URI} ^/failed_auth.html$
+RewriteRule ^.*$ - [L]
+</IfModule>
+# END NOT-WordPress
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [S=40]
+RewriteRule ^(music)/trackback/?$ /index.php?pagename=$1&tb=1 [QSA,L]
+RewriteRule ^(music)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
+RewriteRule ^(music)/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
+RewriteRule ^(music)/page/?([0-9]{1,})/?$ /index.php?pagename=$1&paged=$2 [QSA,L]
+RewriteRule ^(music)(/[0-9]+)?/?$ /index.php?pagename=$1&page=$2 [QSA,L]
+RewriteRule ^(contact)/trackback/?$ /index.php?pagename=$1&tb=1 [QSA,L]
+RewriteRule ^(contact)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
+RewriteRule ^(contact)/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
+RewriteRule ^(contact)/page/?([0-9]{1,})/?$ /index.php?pagename=$1&paged=$2 [QSA,L]
+RewriteRule ^(contact)(/[0-9]+)?/?$ /index.php?pagename=$1&page=$2 [QSA,L]
+RewriteRule ^feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1 [QSA,L]
+RewriteRule ^(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1 [QSA,L]
+RewriteRule ^page/?([0-9]{1,})/?$ /index.php?&paged=$1 [QSA,L]
+RewriteRule ^comments/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1&withcomments=1 [QSA,L]
+RewriteRule ^comments/(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1&withcomments=1 [QSA,L]
+RewriteRule ^comments/page/?([0-9]{1,})/?$ /index.php?&paged=$1 [QSA,L]
+RewriteRule ^search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?s=$1&feed=$2 [QSA,L]
+RewriteRule ^search/(.+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?s=$1&feed=$2 [QSA,L]
+RewriteRule ^search/(.+)/page/?([0-9]{1,})/?$ /index.php?s=$1&paged=$2 [QSA,L]
+RewriteRule ^search/(.+)/?$ /index.php?s=$1 [QSA,L]
+RewriteRule ^departments/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?category_name=$1&feed=$2 [QSA,L]
+RewriteRule ^departments/(.+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?category_name=$1&feed=$2 [QSA,L]
+RewriteRule ^departments/(.+)/page/?([0-9]{1,})/?$ /index.php?category_name=$1&paged=$2 [QSA,L]
+RewriteRule ^departments/(.+)/?$ /index.php?category_name=$1 [QSA,L]
+RewriteRule ^crumbs/author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?author_name=$1&feed=$2 [QSA,L]
+RewriteRule ^crumbs/author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?author_name=$1&feed=$2 [QSA,L]
+RewriteRule ^crumbs/author/([^/]+)/page/?([0-9]{1,})/?$ /index.php?author_name=$1&paged=$2 [QSA,L]
+RewriteRule ^crumbs/author/([^/]+)/?$ /index.php?author_name=$1 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&day=$3&feed=$4 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&day=$3&feed=$4 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$ /index.php?year=$1&monthnum=$2&day=$3&paged=$4 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$ /index.php?year=$1&monthnum=$2&day=$3 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&feed=$3 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&feed=$3 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$ /index.php?year=$1&monthnum=$2&paged=$3 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/?$ /index.php?year=$1&monthnum=$2 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&feed=$2 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&feed=$2 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/page/?([0-9]{1,})/?$ /index.php?year=$1&paged=$2 [QSA,L]
+RewriteRule ^crumbs/date/([0-9]{4})/?$ /index.php?year=$1 [QSA,L]
+RewriteRule ^crumbs/([0-9]+)/trackback/?$ /index.php?p=$1&tb=1 [QSA,L]
+RewriteRule ^crumbs/([0-9]+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?p=$1&feed=$2 [QSA,L]
+RewriteRule ^crumbs/([0-9]+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?p=$1&feed=$2 [QSA,L]
+RewriteRule ^crumbs/([0-9]+)/page/?([0-9]{1,})/?$ /index.php?p=$1&paged=$2 [QSA,L]
+RewriteRule ^crumbs/([0-9]+)(/[0-9]+)?/?$ /index.php?p=$1&page=$2 [QSA,L]
+</IfModule>
