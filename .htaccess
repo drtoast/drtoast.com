@@ -114,15 +114,15 @@ Redirect 301 /toasthaiku.html http://www.drtoast.com/departments/toast-haiku/
 Redirect 301 /toastlinks.html http://www.drtoast.com/departments/toast-links/
 Redirect 301 /toastrace.html http://www.drtoast.com/crumbs/69
 Redirect 301 /weirddreams.html http://www.drtoast.com/departments/weird-dreams/
-Redirect 301 /music http://www.drtoast.com/departments/music
+Redirect /music http://www.drtoast.com/departments/music
 
 
 # BEGIN NOT-WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
-RewriteCond %{REQUEST_URI} ^/judit/(.*)$ [OR]
 RewriteCond %{REQUEST_URI} ^/stats/(.*)$ [OR]
+RewriteCond %{REQUEST_URI} ^/audio/(.*)$ [OR]
 RewriteCond %{REQUEST_URI} ^/failed_auth.html$
 RewriteRule ^.*$ - [L]
 </IfModule>
