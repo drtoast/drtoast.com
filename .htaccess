@@ -129,56 +129,15 @@ RewriteRule ^.*$ - [L]
 # END NOT-WordPress
 
 
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^.*$ - [S=40]
-RewriteRule ^(music)/trackback/?$ /index.php?pagename=$1&tb=1 [QSA,L]
-RewriteRule ^(music)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
-RewriteRule ^(music)/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
-RewriteRule ^(music)/page/?([0-9]{1,})/?$ /index.php?pagename=$1&paged=$2 [QSA,L]
-RewriteRule ^(music)(/[0-9]+)?/?$ /index.php?pagename=$1&page=$2 [QSA,L]
-RewriteRule ^(contact)/trackback/?$ /index.php?pagename=$1&tb=1 [QSA,L]
-RewriteRule ^(contact)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
-RewriteRule ^(contact)/(feed|rdf|rss|rss2|atom)/?$ /index.php?pagename=$1&feed=$2 [QSA,L]
-RewriteRule ^(contact)/page/?([0-9]{1,})/?$ /index.php?pagename=$1&paged=$2 [QSA,L]
-RewriteRule ^(contact)(/[0-9]+)?/?$ /index.php?pagename=$1&page=$2 [QSA,L]
-RewriteRule ^feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1 [QSA,L]
-RewriteRule ^(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1 [QSA,L]
-RewriteRule ^page/?([0-9]{1,})/?$ /index.php?&paged=$1 [QSA,L]
-RewriteRule ^comments/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1&withcomments=1 [QSA,L]
-RewriteRule ^comments/(feed|rdf|rss|rss2|atom)/?$ /index.php?&feed=$1&withcomments=1 [QSA,L]
-RewriteRule ^comments/page/?([0-9]{1,})/?$ /index.php?&paged=$1 [QSA,L]
-RewriteRule ^search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?s=$1&feed=$2 [QSA,L]
-RewriteRule ^search/(.+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?s=$1&feed=$2 [QSA,L]
-RewriteRule ^search/(.+)/page/?([0-9]{1,})/?$ /index.php?s=$1&paged=$2 [QSA,L]
-RewriteRule ^search/(.+)/?$ /index.php?s=$1 [QSA,L]
-RewriteRule ^departments/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?category_name=$1&feed=$2 [QSA,L]
-RewriteRule ^departments/(.+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?category_name=$1&feed=$2 [QSA,L]
-RewriteRule ^departments/(.+)/page/?([0-9]{1,})/?$ /index.php?category_name=$1&paged=$2 [QSA,L]
-RewriteRule ^departments/(.+)/?$ /index.php?category_name=$1 [QSA,L]
-RewriteRule ^crumbs/author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?author_name=$1&feed=$2 [QSA,L]
-RewriteRule ^crumbs/author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?author_name=$1&feed=$2 [QSA,L]
-RewriteRule ^crumbs/author/([^/]+)/page/?([0-9]{1,})/?$ /index.php?author_name=$1&paged=$2 [QSA,L]
-RewriteRule ^crumbs/author/([^/]+)/?$ /index.php?author_name=$1 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&day=$3&feed=$4 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&day=$3&feed=$4 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$ /index.php?year=$1&monthnum=$2&day=$3&paged=$4 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$ /index.php?year=$1&monthnum=$2&day=$3 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&feed=$3 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&monthnum=$2&feed=$3 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$ /index.php?year=$1&monthnum=$2&paged=$3 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/([0-9]{1,2})/?$ /index.php?year=$1&monthnum=$2 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&feed=$2 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$ /index.php?year=$1&feed=$2 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/page/?([0-9]{1,})/?$ /index.php?year=$1&paged=$2 [QSA,L]
-RewriteRule ^crumbs/date/([0-9]{4})/?$ /index.php?year=$1 [QSA,L]
-RewriteRule ^crumbs/([0-9]+)/trackback/?$ /index.php?p=$1&tb=1 [QSA,L]
-RewriteRule ^crumbs/([0-9]+)/feed/(feed|rdf|rss|rss2|atom)/?$ /index.php?p=$1&feed=$2 [QSA,L]
-RewriteRule ^crumbs/([0-9]+)/(feed|rdf|rss|rss2|atom)/?$ /index.php?p=$1&feed=$2 [QSA,L]
-RewriteRule ^crumbs/([0-9]+)/page/?([0-9]{1,})/?$ /index.php?p=$1&paged=$2 [QSA,L]
-RewriteRule ^crumbs/([0-9]+)(/[0-9]+)?/?$ /index.php?p=$1&page=$2 [QSA,L]
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
 </IfModule>
+
+# END WordPress
