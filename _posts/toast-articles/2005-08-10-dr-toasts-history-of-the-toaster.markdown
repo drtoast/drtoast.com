@@ -11,7 +11,7 @@ by Dr. Toast
 
 The Toaster was invented in 1491 by an obscure French alchemist by the name of Gérard Depardieu (no relation to the actor). The invention was actually a lucky mistake - Depardieu had been trying to invent a machine that would take ordinary slices of bread and transform them into gold bullion.
 
-<!--more-->Depardieu was not a particularly good alchemist. Through the unlikely discovery of several obscure and unrelated physical laws, all of his previous efforts had only succeeded in turning bread into either banana tapioca pudding or little snowflake-shaped doilies.
+Depardieu was not a particularly good alchemist. Through the unlikely discovery of several obscure and unrelated physical laws, all of his previous efforts had only succeeded in turning bread into either banana tapioca pudding or little snowflake-shaped doilies.
 
 However, his patron, the King of France, was not fond of banana tapioca pudding or little snowflake-shaped doilies. In fact, he quite despised them, and told Depardieu that if he didn't invent a machine capable of turning bread into gold within a fortnight, he would be beheaded. Depardieu, that is, not the King.
 

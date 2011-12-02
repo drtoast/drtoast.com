@@ -18,7 +18,7 @@ My speech begins as thus:
 
 People will fear the many things they do not understand. Some do not understand war or perhaps the beauty seen from a really good height. Some fear spiders. For others, of too great a number, it is toast.
 
-<!--more-->But what is it that urges these sorry souls to consume (not only at breakfast, but all times of the day) their own heart-weakening horror? Um, they're probably hungry. Still, it is only in education that people will quell there mad, mad, madness.
+But what is it that urges these sorry souls to consume (not only at breakfast, but all times of the day) their own heart-weakening horror? Um, they're probably hungry. Still, it is only in education that people will quell there mad, mad, madness.
 
 You know how bread will sit and either become A:really moldy or B:old and crusty? (hhmmm...kinda like people I guess. maybe this is the root of the fear) This is due to the aging of bread. Yet we come to A or B in different enviroments; where A will become edibly unattractive, B becomes very much like toast. Thus, the obvious answer is that the toaster is a 'Flash-Aging Device'.
 

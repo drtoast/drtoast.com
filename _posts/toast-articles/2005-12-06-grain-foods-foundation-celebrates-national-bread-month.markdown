@@ -7,11 +7,11 @@ date: 2005-12-06 11:51:12.000000000 -08:00
 categories:
 - toast-articles
 ---
-<em>I received this article from the <a href="http://www.grainpower.org">Grain Foods Foundation</a>.  Enjoy!</em>
+*I received this article from the [Grain Foods Foundation](http://www.grainpower.org).  Enjoy!*
 
 DENVER, CO - It's the world's first comfort food, and one of the most enduring simple pleasures in our nation's history. More than 75 million Americans enjoy a piece of golden brown toast every day. In fact, our nation's love of toast has inspired the creation of collectors' conventions, a national toaster museum, web sites, songs about toast and cookbooks with recipes for nothing but toast.
 
-<!--more-->November is National Bread Month and to celebrate bread and our nation's love affair with toast, the non-profit Grain Foods Foundation is recognizing the 100 th anniversary of the invention of the first electric toaster.
+November is National Bread Month and to celebrate bread and our nation's love affair with toast, the non-profit Grain Foods Foundation is recognizing the 100 th anniversary of the invention of the first electric toaster.
 
 This is a milestone in the history of America's fascination with electronic gadgets. Before radios, before blenders, before televisions, before microwave ovens, before computers and before i-Pods were popular, there was the toaster - the first electric appliance in history to mass populate American homes.
 
@@ -37,13 +37,13 @@ There is also a scientific study on the benefits school children receive from ea
 
 On the racier side, a recent nationwide survey conducted by Harris Interactive® for the Grain Foods Foundation found that nearly 10 percent of Americans are more passionate about toast than they are for, well, passion. One in ten said they "would rather eat toast in the morning than have sex." Another 52 percent indicated they prefer toast in the morning over candy, 38 percent want toast more than chocolate, and 29 percent prefer their morning toast over a bubble bath.
 
-<strong>Yeah Toast!</strong>
+**Yeah Toast!**
 
 Singing about toast has actually propelled the career of Michigan comedian Heywood Banks. He uses a toaster as a percussion instrument and sings such lines as, "Take a piece of bread, put it in the slot, push down the lever and the wires get hot: I get toast. Yeah Toast!" His animated cartoon titled "Toast," which can be found on the ComedyHome.com Web site, has been circulated to thousands around the world. He's created a children's book based on his "Yeah Toast!" song lyrics, and he sells "Yeah Toast!" t-shirts and music CDs.
 
 "Toast is the reason I've been able to perform for 25 years. It built my house," said Heywood Banks, who performs across the country and has produced five CDs of comedy songs. "I can say without equivocation that people in this country are passionate about their toast."
 
-<strong>History</strong>
+**History**
 
 Historians believe toast first became common about 5,000 years ago in Egypt. The Romans spread the idea of toast across Europe. The word "toast" comes from the Latin "tostum" which means scorch or burn.
 
@@ -61,6 +61,6 @@ To get a sense of how revered toast was earlier in our nation's history, conside
 
 One White House recipe calls for cooking apples with butter and sugar in a sauce pan and pouring the mixture over warm toast.
 
-<strong>About the Grain Foods Foundation</strong>
+**About the Grain Foods Foundation**
 
 The Grain Foods Foundation, a joint venture of members of the milling and baking industries formed in 2004, is dedicated to advancing the public's understanding of the beneficial role grain-based foods play in the human diet. Directed by a board of trustees, funding for the Foundation is provided through voluntary donations from private grain-based food companies and is supplemented by industry associations. For more information about the Grain Foods Foundation, visit www.grainpower.org

@@ -85,6 +85,8 @@ Redirect 301 /toastlinks.html http://www.drtoast.com/departments/toast-links/
 Redirect 301 /toastrace.html http://www.drtoast.com/2005/08/10/toast-race.html
 Redirect 301 /weirddreams.html http://www.drtoast.com/departments/weird-dreams/
 Redirect 301 /music http://music.drtoast.com
+Redirect 301 /departments/music/releases http://www.drtoast.com/departments/releases
+Redirect 301 /departments/music/shows http://www.drtoast.com/departments/shows
 
 Redirect 301 /crumbs/6 http://www.drtoast.com/2005/08/10/a-slice-of-calmness.html
 Redirect 301 /crumbs/7 http://www.drtoast.com/2005/08/10/consume-nirvana.html

@@ -9,12 +9,12 @@ categories:
 ---
 Celebrating the invention and perfection of one of life's truly golden pleasures
 
-by Bob Condor
+by Bob Condor<br>
 Chicago Tribune
 
 THE EVERYDAY slice of toast is not without its celebrity interludes. As Sir John Falstaff calls for more drinks at a high point of frivolity in Shakespeare's "The Merry Wives of Windsor," he yells after the server, "Don't forget the toast!" Falstaff was asking for the cube of hot buttered toast traditionally tossed into warm drinks in the heyday of the Bard, leading to the use of the word "toast" as a way to celebrate life's most important moments.
 
-<!--more-->One hundred years ago, legendary Parisian chef Auguste Escoffier of the Ritz Hotel created a thinly slice piece of toast for a finicky but beloved Australian opera singer who refused to eat her pâté on the usual thick slice of bread. The diva's name was Nellie Melba, and you know what food she inspired (more than 2 billion slices were sold worldwide in 1996).
+One hundred years ago, legendary Parisian chef Auguste Escoffier of the Ritz Hotel created a thinly slice piece of toast for a finicky but beloved Australian opera singer who refused to eat her pâté on the usual thick slice of bread. The diva's name was Nellie Melba, and you know what food she inspired (more than 2 billion slices were sold worldwide in 1996).
 
 But star power isn't what inspired the presence of toasters in 88 percent of U.S. households. Toasted bread pretty much sells itself. Like a good neighbor or cheerful co-worker, toast can make life richer without much fanfare.
 
