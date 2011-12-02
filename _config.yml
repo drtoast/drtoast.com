@@ -1,0 +1,18 @@
+pygments:    false
+markdown:    maruku
+permalink:   /:year/:month/:day/:title.html
+paginate:   10
+
+# plugins
+category_dir: departments
+category_list:
+- releases
+- shows
+- toast-haiku
+- toast-recipes
+- toast-articles
+- toast-news
+- toast-links
+- toasters
+- ask-dr-toast
+
