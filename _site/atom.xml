@@ -4,7 +4,7 @@
  <title>Dr. Toast</title>
  <link href="http://www.drtoast.com/atom.xml" rel="self"/>
  <link href="http://www.drtoast.com/"/>
- <updated>2011-12-01T22:29:13-08:00</updated>
+ <updated>2011-12-01T23:03:25-08:00</updated>
  <id>http://www.drtoast.com/</id>
  <author>
    <name>Dr. Toast</name>
@@ -2619,9 +2619,9 @@ This recipe from Hillsboro House Bed &amp; Breakfast is featured in I Want That 
    <link href="http://www.drtoast.com/2005/08/10/united-at-last.html"/>
    <updated>2005-08-10T02:32:13-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/united-at-last</id>
-   <content type="html">Loaf's fortunate heels
-Spared from a toasty demise
-United at last
+   <content type="html">Loaf's fortunate heels&lt;br&gt;
+Spared from a toasty demise&lt;br&gt;
+United at last&lt;br&gt;
 </content>
  </entry>
  
