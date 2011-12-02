@@ -65,6 +65,8 @@
   repeat: none;
   corner-radius: 15;
   moz-corner-radius: 15;
+  margin-left: 25px;
+  margin-right; 25px;
 }
 
 .navigation a {
@@ -91,9 +93,9 @@
 /* BODY */
 
 body {
-  background-color: #eee;
+  background-color: #fff;
   line-height: 22px;
-  font-family: Helvetica Neue, Helvetica, Arial;
+  font-family: Open Sans, Helvetica Neue, Helvetica, Arial;
 }
 
 h3 {
@@ -125,10 +127,16 @@ p {
   font-size: 12px;
 }
 
+.player {
+  padding: 20px;
+  width: 500px;
+  background-color: #fff;
+}
 
 /* LINKS */
 a {
   color: #06C;
+  text-decoration: none;
 }
 
 
@@ -142,7 +150,7 @@ ul {
 
 
 .widget li {
-  font-size: 11px;
+  font-size: 12px;
   display: list-item;
   list-style: square;
 }

@@ -7,21 +7,20 @@ date: 2005-08-10 02:58:05.000000000 -07:00
 categories:
 - toast-recipes
 ---
-from Walt Disney World
-(courtesy of Craig Wingerson)
+*from Walt Disney World (courtesy of Craig Wingerson)*
 
 Mmmmmm.  Tonga Toast, otherwise known as the Polynesian's Banana-Stuffed French Toast, is the best meal served at Walt Disney World (in my humble opinion, of course).  Try this recipe at home.  It's never quite the same for me, though.  Maybe I need some fake Polynesian atmosphere, bird sounds, and a tropical lobby outside to make it complete.
 
-2 or 4 slices sourdough bread, cut 1-inch thick
-1 banana
-1/3 cup sugar
-1 teaspoon cinnamon
-1 egg
-1/4 cup milk
-1/2 teaspoon vanilla extract
-Oil or shortening for frying
-Whipped butter, if desired
-Maple syrup, if desired 
+* 2 or 4 slices sourdough bread, cut 1-inch thick
+* 1 banana
+* 1/3 cup sugar
+* 1 teaspoon cinnamon
+* 1 egg
+* 1/4 cup milk
+* 1/2 teaspoon vanilla extract
+* Oil or shortening for frying
+* Whipped butter, if desired
+* Maple syrup, if desired 
 
 Depending on the size of the bread slices, cut a 1-inch pocket in one side of each bread slice.  Cut bananas in half crosswise, then split each piece lengthwise.  Remove peel and stuff 2 pieces in each pocket of bread, again depending on size.  If slices are small, use 4 and stuff 1 piece of banana in each pocket.  Set aside.
 Mix sugar and cinnamon.  Set aside.
