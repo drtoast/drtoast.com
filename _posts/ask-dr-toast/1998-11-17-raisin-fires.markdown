@@ -7,14 +7,13 @@ date: 1998-11-17 02:50:56.000000000 -08:00
 categories:
 - ask-dr-toast
 ---
-Q: Please tell me why my raisins that fall into the bottom of the toaster catch on fire.
+**Q:** Please tell me why my raisins that fall into the bottom of the toaster catch on fire.
 
 Thank you very much.
 
 -- Pam (UpstatePam@xxxxx.com)
-<!--more-->
 
-A: Pam, contrary to popular belief, raisins do not "fall" into the bottom of the toaster. The unpleasant truth of the matter is that they jump.
+**A:** Pam, contrary to popular belief, raisins do not "fall" into the bottom of the toaster. The unpleasant truth of the matter is that they jump.
 
 With crazed resolve, they willfully meet their fiery demise to dramatically demonstrate their outrage at the social injustices that take place on a daily basis within a slice of toast. You see, a slice of toast is actually an extremely complex socio-economic environment, complete with a hierarchical social system, political corruption, private monopolies, budget deficits, inflation, and unemployment. Bread has many diverse ingredients working with each other and against each other, forming coalitions and rivalries - a chaotic system that inevitably swings periodically to either end of the political spectrum. Indeed, a slice of toast is not unlike modern American society.
 

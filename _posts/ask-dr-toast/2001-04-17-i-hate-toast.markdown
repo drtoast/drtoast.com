@@ -7,7 +7,7 @@ date: 2001-04-17 02:52:09.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: okay, do note my email address. it's true. i hate toast. i think it's a crunchy to soft bread ratio issue. croutons are the worst for me. i just want you to know that i have received this web site from many of my students who think my issues with toast are nuts.
+**Q:** okay, do note my email address. it's true. i hate toast. i think it's a crunchy to soft bread ratio issue. croutons are the worst for me. i just want you to know that i have received this web site from many of my students who think my issues with toast are nuts.
 
 you are quite the site for about 100 4th and 5th graders now.
 
@@ -15,7 +15,7 @@ i've bookmarked it, because i might not like the stuff, but i love information. 
 
 -- kt (ihatetoast@xxxxx.com)
 
-<!--more-->A: Dear Katy, thanks for your note. I am sorry to hear we have such differing opinions on the subject of toast. However, if you'll just hear me out for a moment:
+**A:** Dear Katy, thanks for your note. I am sorry to hear we have such differing opinions on the subject of toast. However, if you'll just hear me out for a moment:
 
 Perhaps you hate toast simply because you've never had really GOOD toast. For example, if you have toast made with dense and dry bread, lacking fresh, properly proportioned toppings, the experience will no doubt be less than satisfying, and could in fact be psychologically damaging.
 

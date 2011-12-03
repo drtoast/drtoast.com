@@ -4,7 +4,7 @@
  <title>Dr. Toast</title>
  <link href="http://www.drtoast.com/atom.xml" rel="self"/>
  <link href="http://www.drtoast.com/"/>
- <updated>2011-12-02T14:27:01-08:00</updated>
+ <updated>2011-12-02T22:58:17-08:00</updated>
  <id>http://www.drtoast.com/</id>
  <author>
    <name>Dr. Toast</name>
@@ -1391,29 +1391,29 @@ From hot buttered toast&lt;br&gt;
    <link href="http://www.drtoast.com/2007/08/17/a-cookbook-honor.html"/>
    <updated>2007-08-17T14:37:14-07:00</updated>
    <id>http://www.drtoast.com/2007/08/17/a-cookbook-honor</id>
-   <content type="html">&lt;p style=&quot;direction: ltr&quot;&gt; Q: Dear Dr.,&lt;/p&gt;
-You have an incredible site.  I am completing a cookbook dedicated to my wife, who is now on her fourth occurrence of ovarian cancer and five of chemo.
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Dear Dr.,&lt;/p&gt;
 
-One section of this book is dedicated to yourself and asking people to send you more recipes and visit your website often. There are maybe 15 entries with full credit to you and the author. I do not like to infringe and rather ask you.
+&lt;p&gt;You have an incredible site. I am completing a cookbook dedicated to my wife, who is now on her fourth occurrence of ovarian cancer and five of chemo.&lt;/p&gt;
 
-I would be very happy to send you the final draft copy of this book. Perhaps you could give some thoughts to me.
+&lt;p&gt;One section of this book is dedicated to yourself and asking people to send you more recipes and visit your website often. There are maybe 15 entries with full credit to you and the author. I do not like to infringe and rather ask you.&lt;/p&gt;
 
-Who knows, perhaps my works would inspire you to go publish your vast wealth of information. I would even offer to help you out with you project should you go foward.
+&lt;p&gt;I would be very happy to send you the final draft copy of this book. Perhaps you could give some thoughts to me.&lt;/p&gt;
 
-Your loyal follower,
-&lt;p style=&quot;direction: ltr&quot;&gt; John (jmullet@xxxxx.com)&lt;span id=&quot;st&quot; name=&quot;st&quot; class=&quot;st&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Who knows, perhaps my works would inspire you to go publish your vast wealth of information. I would even offer to help you out with you project should you go foward.&lt;/p&gt;
 
-&lt;p style=&quot;direction: ltr&quot;&gt;&lt;span id=&quot;st&quot; name=&quot;st&quot; class=&quot;st&quot;&gt;Winter&lt;/span&gt; &lt;span id=&quot;st&quot; name=&quot;st&quot; class=&quot;st&quot;&gt;Park&lt;/span&gt;, Florida
-&lt;!--more--&gt;
-&lt;/p&gt;&lt;p style=&quot;direction: ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;direction: ltr&quot;&gt;A: Dear John,&lt;/p&gt;
-&lt;p style=&quot;direction: ltr&quot;&gt;Thank you for your touching letter.  I do feel honored to be included in your project, and you have full permission to include any recipes found on my site in your book (although the credit is really due to their original authors).&lt;/p&gt;
-And please know that the thoughts of my readers and myself are with you and your wife during this difficult time.
+&lt;p&gt;Your loyal follower,&lt;/p&gt;
 
-Yours in Toast,
-&lt;span class=&quot;sg&quot;&gt;
-Dr. Toast&lt;/span&gt;
-</content>
+&lt;p&gt;John (jmullet@xxxxx.com)&lt;br /&gt; Winter Park, Florida&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Dear John,&lt;/p&gt;
+
+&lt;p&gt;Thank you for your touching letter. I do feel honored to be included in your project, and you have full permission to include any recipes found on my site in your book (although the credit is really due to their original authors).&lt;/p&gt;
+
+&lt;p&gt;And please know that the thoughts of my readers and myself are with you and your wife during this difficult time.&lt;/p&gt;
+
+&lt;p&gt;Yours in toast,&lt;/p&gt;
+
+&lt;p&gt;Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3107,30 +3107,29 @@ A bit darker, more experimental, maybe a bit less &quot;accessible&quot; than my
    <link href="http://www.drtoast.com/2001/04/17/i-hate-toast.html"/>
    <updated>2001-04-17T02:52:09-07:00</updated>
    <id>http://www.drtoast.com/2001/04/17/i-hate-toast</id>
-   <content type="html">Q: okay, do note my email address. it's true. i hate toast. i think it's a crunchy to soft bread ratio issue. croutons are the worst for me. i just want you to know that i have received this web site from many of my students who think my issues with toast are nuts.
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; okay, do note my email address. it&amp;#8217;s true. i hate toast. i think it&amp;#8217;s a crunchy to soft bread ratio issue. croutons are the worst for me. i just want you to know that i have received this web site from many of my students who think my issues with toast are nuts.&lt;/p&gt;
 
-you are quite the site for about 100 4th and 5th graders now.
+&lt;p&gt;you are quite the site for about 100 4th and 5th graders now.&lt;/p&gt;
 
-i've bookmarked it, because i might not like the stuff, but i love information. it's a great site!
+&lt;p&gt;i&amp;#8217;ve bookmarked it, because i might not like the stuff, but i love information. it&amp;#8217;s a great site!&lt;/p&gt;
 
--- kt (ihatetoast@xxxxx.com)
+&lt;p&gt;&amp;#8211; kt (ihatetoast@xxxxx.com)&lt;/p&gt;
 
-&lt;!--more--&gt;A: Dear Katy, thanks for your note. I am sorry to hear we have such differing opinions on the subject of toast. However, if you'll just hear me out for a moment:
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Dear Katy, thanks for your note. I am sorry to hear we have such differing opinions on the subject of toast. However, if you&amp;#8217;ll just hear me out for a moment:&lt;/p&gt;
 
-Perhaps you hate toast simply because you've never had really GOOD toast. For example, if you have toast made with dense and dry bread, lacking fresh, properly proportioned toppings, the experience will no doubt be less than satisfying, and could in fact be psychologically damaging.
+&lt;p&gt;Perhaps you hate toast simply because you&amp;#8217;ve never had really GOOD toast. For example, if you have toast made with dense and dry bread, lacking fresh, properly proportioned toppings, the experience will no doubt be less than satisfying, and could in fact be psychologically damaging.&lt;/p&gt;
 
-However, toast doesn't have to be dry and boring. There are a large number of recipes on my site showing what you can do with a slice of toast, a creative mind, and way too much time on your hands. Yet it doesn't even need to be that creative: one of my favorites is a single slice of lightly toasted oat bread, topped with a little butter and drizzled with fresh honey. A delicious snack that's lower in calories than many other treats, such as TWO pieces of toast topped with a little butter and drizzled with fresh honey.
+&lt;p&gt;However, toast doesn&amp;#8217;t have to be dry and boring. There are a large number of recipes on my site showing what you can do with a slice of toast, a creative mind, and way too much time on your hands. Yet it doesn&amp;#8217;t even need to be that creative: one of my favorites is a single slice of lightly toasted oat bread, topped with a little butter and drizzled with fresh honey. A delicious snack that&amp;#8217;s lower in calories than many other treats, such as TWO pieces of toast topped with a little butter and drizzled with fresh honey.&lt;/p&gt;
 
-Of course, you don't have to even eat toast to realize its glory. For example, many people find toast to be an inspiring metaphor for the American Dream, or discover that it is a reliable friend and confidant, or even just a sort of muse for general creative inspiration.
+&lt;p&gt;Of course, you don&amp;#8217;t have to even eat toast to realize its glory. For example, many people find toast to be an inspiring metaphor for the American Dream, or discover that it is a reliable friend and confidant, or even just a sort of muse for general creative inspiration.&lt;/p&gt;
 
-Or maybe you just don't like toast because it doesn't like you. But no need to take it personally - I once got into quite a fight with a bowl of stir fried bok choy that started saying unspeakable things about my mother. These things happen.
+&lt;p&gt;Or maybe you just don&amp;#8217;t like toast because it doesn&amp;#8217;t like you. But no need to take it personally - I once got into quite a fight with a bowl of stir fried bok choy that started saying unspeakable things about my mother. These things happen.&lt;/p&gt;
 
-Nevertheless, even though you do not like toast, I don't hold it against you. We are all entitled to our own opinions, no matter how wrong they may be.
+&lt;p&gt;Nevertheless, even though you do not like toast, I don&amp;#8217;t hold it against you. We are all entitled to our own opinions, no matter how wrong they may be.&lt;/p&gt;
 
-Best Regards,
+&lt;p&gt;Best Regards,&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3138,27 +3137,25 @@ Best Regards,
    <link href="http://www.drtoast.com/1998/11/17/raisin-fires.html"/>
    <updated>1998-11-17T02:50:56-08:00</updated>
    <id>http://www.drtoast.com/1998/11/17/raisin-fires</id>
-   <content type="html">Q: Please tell me why my raisins that fall into the bottom of the toaster catch on fire.
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Please tell me why my raisins that fall into the bottom of the toaster catch on fire.&lt;/p&gt;
 
-Thank you very much.
+&lt;p&gt;Thank you very much.&lt;/p&gt;
 
--- Pam (UpstatePam@xxxxx.com)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Pam (UpstatePam@xxxxx.com)&lt;/p&gt;
 
-A: Pam, contrary to popular belief, raisins do not &quot;fall&quot; into the bottom of the toaster. The unpleasant truth of the matter is that they jump.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Pam, contrary to popular belief, raisins do not &amp;#8220;fall&amp;#8221; into the bottom of the toaster. The unpleasant truth of the matter is that they jump.&lt;/p&gt;
 
-With crazed resolve, they willfully meet their fiery demise to dramatically demonstrate their outrage at the social injustices that take place on a daily basis within a slice of toast. You see, a slice of toast is actually an extremely complex socio-economic environment, complete with a hierarchical social system, political corruption, private monopolies, budget deficits, inflation, and unemployment. Bread has many diverse ingredients working with each other and against each other, forming coalitions and rivalries - a chaotic system that inevitably swings periodically to either end of the political spectrum. Indeed, a slice of toast is not unlike modern American society.
+&lt;p&gt;With crazed resolve, they willfully meet their fiery demise to dramatically demonstrate their outrage at the social injustices that take place on a daily basis within a slice of toast. You see, a slice of toast is actually an extremely complex socio-economic environment, complete with a hierarchical social system, political corruption, private monopolies, budget deficits, inflation, and unemployment. Bread has many diverse ingredients working with each other and against each other, forming coalitions and rivalries - a chaotic system that inevitably swings periodically to either end of the political spectrum. Indeed, a slice of toast is not unlike modern American society.&lt;/p&gt;
 
-A number of recent events are responsible for particularly heating up (no pun intended) the current social climate of toast. In one well-publicized incident that was captured on videotape, an innocent raisin was driving through a mostly wheat neighborhood, when police stopped him and beat him senseless. (Granted, he was already a raisin so he didn't look too different afterwards.) Outraged raisins throughout the entire slice rioted, leaving a charred hulk of a once-proud slice.
+&lt;p&gt;A number of recent events are responsible for particularly heating up (no pun intended) the current social climate of toast. In one well-publicized incident that was captured on videotape, an innocent raisin was driving through a mostly wheat neighborhood, when police stopped him and beat him senseless. (Granted, he was already a raisin so he didn&amp;#8217;t look too different afterwards.) Outraged raisins throughout the entire slice rioted, leaving a charred hulk of a once-proud slice.&lt;/p&gt;
 
-In an unrelated incident, violence broke out in a slice of Oat Nut bread. Some Quakers were minding their own business when the local skinhead Almonds began taunting them. The Quakers were steamed, and the Almonds eventually went nuts, beating the Quakers to a pulp. When the dust settled, all that remained was a rather tasty porridge.
+&lt;p&gt;In an unrelated incident, violence broke out in a slice of Oat Nut bread. Some Quakers were minding their own business when the local skinhead Almonds began taunting them. The Quakers were steamed, and the Almonds eventually went nuts, beating the Quakers to a pulp. When the dust settled, all that remained was a rather tasty porridge.&lt;/p&gt;
 
-So to make a long story short, raisins have always been the most politically active of the ingredients in a slice of toast. They feel they have exhausted all other options for bringing about social change in their particular slice of the world, so they illustrate their passion by throwing themselves to the fate that awaits them in the dark and crumby recesses at the bottom of the toaster.
+&lt;p&gt;So to make a long story short, raisins have always been the most politically active of the ingredients in a slice of toast. They feel they have exhausted all other options for bringing about social change in their particular slice of the world, so they illustrate their passion by throwing themselves to the fate that awaits them in the dark and crumby recesses at the bottom of the toaster.&lt;/p&gt;
 
-Hmmm, on a second reading it looks like your question is actually why do they catch fire, not why do they fall. Well, I would guess that's because toasters are very, very hot.
+&lt;p&gt;Hmmm, on a second reading it looks like your question is actually why do they catch fire, not why do they fall. Well, I would guess that&amp;#8217;s because toasters are very, very hot.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3166,23 +3163,21 @@ Hmmm, on a second reading it looks like your question is actually why do they ca
    <link href="http://www.drtoast.com/1998/09/19/funny-noise.html"/>
    <updated>1998-09-19T02:50:11-07:00</updated>
    <id>http://www.drtoast.com/1998/09/19/funny-noise</id>
-   <content type="html">Q: I  have an old toaster. When I put a slice of toast in the toaster and press the lever down it goes down, but when it comes back up it isn't toasted enough. So I press it back down it comes right back up so I hold the lever down it makes a funny noise. Why does it do that?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; I have an old toaster. When I put a slice of toast in the toaster and press the lever down it goes down, but when it comes back up it isn&amp;#8217;t toasted enough. So I press it back down it comes right back up so I hold the lever down it makes a funny noise. Why does it do that?&lt;/p&gt;
 
--- wanting to know why (jastef@xxxxx.net)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; wanting to know why (jastef@xxxxx.net)&lt;/p&gt;
 
-A: Now I want you to remain very calm and listen carefully to what I am about to say. The reason that your toast is not getting toasted is quite simply that it's not really a slice of toast! It's an impenetrable vessel harboring tiny alien life forms, a breakfast trojan horse engineered by a mind-boggling extraterrestrial intelligence, designed to smuggle them into your kitchen so that they may take control of your mind!
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Now I want you to remain very calm and listen carefully to what I am about to say. The reason that your toast is not getting toasted is quite simply that it&amp;#8217;s not really a slice of toast! It&amp;#8217;s an impenetrable vessel harboring tiny alien life forms, a breakfast trojan horse engineered by a mind-boggling extraterrestrial intelligence, designed to smuggle them into your kitchen so that they may take control of your mind!&lt;/p&gt;
 
-Hopefully you've remained calm and are ready to pay very close attention to my explanation of what to do. Act normal, don't look at the toaster! Just keep reading this page and eating your Cheez-Its.
+&lt;p&gt;Hopefully you&amp;#8217;ve remained calm and are ready to pay very close attention to my explanation of what to do. Act normal, don&amp;#8217;t look at the toaster! Just keep reading this page and eating your Cheez-Its.&lt;/p&gt;
 
-That buzzing noise your toaster makes when you hold the lever down is the amplified sound of the communications uplink that the aliens have established through your electrical wiring to the rest of your appliances, so that they may be programmed to participate in a vast household conspiracy to drive you insane. Does any of the following sound familiar? Your VCR flashes 12:00 constantly. Your toilet makes a subtle &quot;shhhhh&quot; noise until you jiggle the handle. You receive mysterious unsolicited telephone calls where a recorded voice tells you to wait for the &quot;next available operator,&quot; who subsequently tries to sell you bulk meat products and an industrial-sized freezer to hold them.
+&lt;p&gt;That buzzing noise your toaster makes when you hold the lever down is the amplified sound of the communications uplink that the aliens have established through your electrical wiring to the rest of your appliances, so that they may be programmed to participate in a vast household conspiracy to drive you insane. Does any of the following sound familiar? Your VCR flashes 12:00 constantly. Your toilet makes a subtle &amp;#8220;shhhhh&amp;#8221; noise until you jiggle the handle. You receive mysterious unsolicited telephone calls where a recorded voice tells you to wait for the &amp;#8220;next available operator,&amp;#8221; who subsequently tries to sell you bulk meat products and an industrial-sized freezer to hold them.&lt;/p&gt;
 
-Yes, the aliens are subtle and insidious with their scheming ways. But there is hope for you, if you follow my instructions exactly. You must kill your toaster! When I give the signal, you must lunge at your toaster, remove the communications uplink (power cord) from the wall, throw it on the floor, and then topple your refrigerator onto it, thereby smashing your toaster and its wretched alien inhabitants into a thousand pulverized bits. Now, GO!!!
+&lt;p&gt;Yes, the aliens are subtle and insidious with their scheming ways. But there is hope for you, if you follow my instructions exactly. You must kill your toaster! When I give the signal, you must lunge at your toaster, remove the communications uplink (power cord) from the wall, throw it on the floor, and then topple your refrigerator onto it, thereby smashing your toaster and its wretched alien inhabitants into a thousand pulverized bits. Now, GO!!!&lt;/p&gt;
 
-If you're reading this paragraph, I guess you survived without being atomized by tiny alien death-o-rays. Either that, or your toaster was just broken and there were no aliens. Either way, have fun cleaning up the mess!
+&lt;p&gt;If you&amp;#8217;re reading this paragraph, I guess you survived without being atomized by tiny alien death-o-rays. Either that, or your toaster was just broken and there were no aliens. Either way, have fun cleaning up the mess!&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3190,23 +3185,21 @@ If you're reading this paragraph, I guess you survived without being atomized by
    <link href="http://www.drtoast.com/1997/08/12/my-toast-always-jams.html"/>
    <updated>1997-08-12T02:48:28-07:00</updated>
    <id>http://www.drtoast.com/1997/08/12/my-toast-always-jams</id>
-   <content type="html">Q: My toast always jams in the toaster when it is supposed to eject. I have had this problem with many different brands of toasters. What is your recommendation?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; My toast always jams in the toaster when it is supposed to eject. I have had this problem with many different brands of toasters. What is your recommendation?&lt;/p&gt;
 
-Look forward to your reply,
+&lt;p&gt;Look forward to your reply,&lt;/p&gt;
 
--- Broken toasted hearted (spycc@xxxxx.au)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Broken toasted hearted (spycc@xxxxx.au)&lt;/p&gt;
 
-A: There is a common misconception about the processes that cause the ejection of toast from the toaster. Most believe this morning miracle is due to the sudden conversion of static potential energy (stored in coiled springs within the device), to dynamic kinetic energy, which manifests itself with the pleasant &quot;sproing&quot; of a successfully completed toasting cycle.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; There is a common misconception about the processes that cause the ejection of toast from the toaster. Most believe this morning miracle is due to the sudden conversion of static potential energy (stored in coiled springs within the device), to dynamic kinetic energy, which manifests itself with the pleasant &amp;#8220;sproing&amp;#8221; of a successfully completed toasting cycle.&lt;/p&gt;
 
-This explanation, of course, is completely ridiculous.
+&lt;p&gt;This explanation, of course, is completely ridiculous.&lt;/p&gt;
 
-The truth is that each morning, your toast is abducted by aliens. Just as your toast is nearing crispy perfection on your countertop, alien spacecraft hovering high in the stratosphere send a powerful tractor beam into your kitchen that lifts the toast from the appliance. Then why, you ask, does the toast not float out the kitchen window, but rather appears to pause with about an inch of its tantalizing crust protruding from the toaster? That's the precise moment at which the aliens cause a temporal disruption, a rift in the time-space-toast continuum. Time itself is halted in your kitchen, and the aliens are free to transport your breakfast into their secret laboratories without your knowledge. After the experiments are over, the toast is returned to your toaster at precisely the same moment it had disappeared. This creates the illusion that nothing out of the ordinary has happened, when in reality, your breakfast has suffered a severe temporal discontinuity!
+&lt;p&gt;The truth is that each morning, your toast is abducted by aliens. Just as your toast is nearing crispy perfection on your countertop, alien spacecraft hovering high in the stratosphere send a powerful tractor beam into your kitchen that lifts the toast from the appliance. Then why, you ask, does the toast not float out the kitchen window, but rather appears to pause with about an inch of its tantalizing crust protruding from the toaster? That&amp;#8217;s the precise moment at which the aliens cause a temporal disruption, a rift in the time-space-toast continuum. Time itself is halted in your kitchen, and the aliens are free to transport your breakfast into their secret laboratories without your knowledge. After the experiments are over, the toast is returned to your toaster at precisely the same moment it had disappeared. This creates the illusion that nothing out of the ordinary has happened, when in reality, your breakfast has suffered a severe temporal discontinuity!&lt;/p&gt;
 
-So why exactly is your toast not ejecting from your toaster? I dunno, maybe it's stuck or something.
+&lt;p&gt;So why exactly is your toast not ejecting from your toaster? I dunno, maybe it&amp;#8217;s stuck or something.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3214,33 +3207,31 @@ So why exactly is your toast not ejecting from your toaster? I dunno, maybe it's
    <link href="http://www.drtoast.com/1997/04/22/the-proper-way-to-insert-toast.html"/>
    <updated>1997-04-22T02:47:44-07:00</updated>
    <id>http://www.drtoast.com/1997/04/22/the-proper-way-to-insert-toast</id>
-   <content type="html">Q: I too value the ideal toast. I have been experimenting lately with all sorts of modifications to my toasting technique, which, I might add, is quite good. Switching plug orientation, adjusting the room temperature, and synchronization with lunar cycles have all proved indespensible techniques. However, now that I am approaching the height of toast enlightenment, I am most perplexed by one question: What is the proper way to insert toast?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; I too value the ideal toast. I have been experimenting lately with all sorts of modifications to my toasting technique, which, I might add, is quite good. Switching plug orientation, adjusting the room temperature, and synchronization with lunar cycles have all proved indespensible techniques. However, now that I am approaching the height of toast enlightenment, I am most perplexed by one question: What is the proper way to insert toast?&lt;/p&gt;
 
--- Toasted in New Haven (ophir.klein@xxxxx.edu)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Toasted in New Haven (ophir.klein@xxxxx.edu)&lt;/p&gt;
 
-A: Firstly, let me say that you are on the right track in your quest for perfection of toasting technique. For those readers unfamiliar with the intricacies of gourmet toasting:
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Firstly, let me say that you are on the right track in your quest for perfection of toasting technique. For those readers unfamiliar with the intricacies of gourmet toasting:&lt;/p&gt;
 
-Plug orientation is critical. If the plug is inserted into the outlet upside down, the incoming electrons will notice this immediately. As we know from our previous discussion of the &quot;Electron Anxiety Effect&quot;, they are extremely nervous and fickle little creatures, and such a drastic upheaval of their familiar &quot;conduit to toast&quot; may ultimately result in their refusal to enter the appliance at all.
+&lt;p&gt;Plug orientation is critical. If the plug is inserted into the outlet upside down, the incoming electrons will notice this immediately. As we know from our previous discussion of the &amp;#8220;Electron Anxiety Effect&amp;#8221;, they are extremely nervous and fickle little creatures, and such a drastic upheaval of their familiar &amp;#8220;conduit to toast&amp;#8221; may ultimately result in their refusal to enter the appliance at all.&lt;/p&gt;
 
-Room temperature is of utmost imporance. If all other conditions are satisfactory, the average adult electron will willingly enter a toaster at just about any physical room temperature. However, for optimum toast, our goal should be to bring the room temperature exactly to the point at which the electron will say to himself, &quot;Hmm, it's such a nice day, I think I'll bring the wife and kids with me today.&quot;
+&lt;p&gt;Room temperature is of utmost imporance. If all other conditions are satisfactory, the average adult electron will willingly enter a toaster at just about any physical room temperature. However, for optimum toast, our goal should be to bring the room temperature exactly to the point at which the electron will say to himself, &amp;#8220;Hmm, it&amp;#8217;s such a nice day, I think I&amp;#8217;ll bring the wife and kids with me today.&amp;#8221;&lt;/p&gt;
 
-Obviously, more electrons mean toastier toast! Experiment to find the temperature at which your electrons are most comfortable.
+&lt;p&gt;Obviously, more electrons mean toastier toast! Experiment to find the temperature at which your electrons are most comfortable.&lt;/p&gt;
 
-Synchronization with lunar cycles will have a profound effect on the quality of your toast, with a full moon being the optimum time for toasting. When the moon is full, the earth is positioned between the moon and sun. When a toaster, with its unique geometric and electromechanical properties, is subjected to the directly opposing gravitational fields of these celestial objects, a resonant microgravitational field results. The electrons in the toaster are temporarily caught up in the swirling gravitational vortex, lingering in the appliance longer than they had originally intended. While this technique often results in electrons being late for appointments later in the day, the end result is toast of a uniform texture and consistency.
+&lt;p&gt;Synchronization with lunar cycles will have a profound effect on the quality of your toast, with a full moon being the optimum time for toasting. When the moon is full, the earth is positioned between the moon and sun. When a toaster, with its unique geometric and electromechanical properties, is subjected to the directly opposing gravitational fields of these celestial objects, a resonant microgravitational field results. The electrons in the toaster are temporarily caught up in the swirling gravitational vortex, lingering in the appliance longer than they had originally intended. While this technique often results in electrons being late for appointments later in the day, the end result is toast of a uniform texture and consistency.&lt;/p&gt;
 
-But for truly sublime toast, one must also master insertion technique. Because bread slices are inserted before power is applied to the appliance, we need not worry about the idiosyncracies of electrons, as far as our insertion technique is concerned. However, we do need to be concerned with the electromagnetic synchronization that occurs between adjacent slices of bread in a loaf.
+&lt;p&gt;But for truly sublime toast, one must also master insertion technique. Because bread slices are inserted before power is applied to the appliance, we need not worry about the idiosyncracies of electrons, as far as our insertion technique is concerned. However, we do need to be concerned with the electromagnetic synchronization that occurs between adjacent slices of bread in a loaf.&lt;/p&gt;
 
-Electromagnetic synchronization in sliced bread, also known as carbohydrate polarization, is a process that takes place gradually in the hours between the slicing of the bread at the bakery and its eventual insertion into your toaster. Each slice has an adjacent &quot;counterpart&quot; with whom it gradually achieves an electromagnetic equilibrium over its entire surface. Due to their immediate proximity, and a certain amount of inevitable emotional attachment, the two slices eventually grow to share an electromagnetic charge.
+&lt;p&gt;Electromagnetic synchronization in sliced bread, also known as carbohydrate polarization, is a process that takes place gradually in the hours between the slicing of the bread at the bakery and its eventual insertion into your toaster. Each slice has an adjacent &amp;#8220;counterpart&amp;#8221; with whom it gradually achieves an electromagnetic equilibrium over its entire surface. Due to their immediate proximity, and a certain amount of inevitable emotional attachment, the two slices eventually grow to share an electromagnetic charge.&lt;/p&gt;
 
-(The heels of the bread, due to their low social status and general unpleasantness, have a neutral charge. Thus the electromagnetic pairing of slices begins at the first non-heel slice.)
+&lt;p&gt;(The heels of the bread, due to their low social status and general unpleasantness, have a neutral charge. Thus the electromagnetic pairing of slices begins at the first non-heel slice.)&lt;/p&gt;
 
-So how does all of this relate to toast insertion technique? Well, if the electromagnetic synchronization of two slices of bread is broken before toasting occurs, the culinary repercussions are severe. The taste, texture, and spiritual value of the affected slices will all diminish by an average of 62%. Indeed, non-simultaneous insertion of electromagnetically paired bread slices can result in an asynchronous breakfast.
+&lt;p&gt;So how does all of this relate to toast insertion technique? Well, if the electromagnetic synchronization of two slices of bread is broken before toasting occurs, the culinary repercussions are severe. The taste, texture, and spiritual value of the affected slices will all diminish by an average of 62%. Indeed, non-simultaneous insertion of electromagnetically paired bread slices can result in an asynchronous breakfast.&lt;/p&gt;
 
-So the goal, evidently, is to insert the two slices at precisely the same moment.
+&lt;p&gt;So the goal, evidently, is to insert the two slices at precisely the same moment.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3248,23 +3239,21 @@ So the goal, evidently, is to insert the two slices at precisely the same moment
    <link href="http://www.drtoast.com/1997/04/11/calories-and-carbohydrates.html"/>
    <updated>1997-04-11T02:46:15-07:00</updated>
    <id>http://www.drtoast.com/1997/04/11/calories-and-carbohydrates</id>
-   <content type="html">Q: Does toasting bread reduce calories or carbohydrates?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Does toasting bread reduce calories or carbohydrates?&lt;/p&gt;
 
--- Joslin (rjoslin@xxxxx.com)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Joslin (rjoslin@xxxxx.com)&lt;/p&gt;
 
-A: The process of toasting bread does not physically reduce calories or carbohydrates. However, eating toast will make you more popular and attractive.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; The process of toasting bread does not physically reduce calories or carbohydrates. However, eating toast will make you more popular and attractive.&lt;/p&gt;
 
-You see, Joslin, toasting bread fundamentally changes its molecular structure. The high temperature convection currents within the toaster transform the complex carbohydrates, through a process known as &quot;Toaster Induced Molecular Transfiguration&quot;, or TIMT, into new molecules that are actually capable of altering the structure of your DNA. These new molecules are called &quot;Molecular Toast Genetic Transmogrificators&quot;, or MTGTs. When the MTGTs enter your bloodstream, they seek out the nuclei of your cells and, through the process of &quot;Active Molecular Toast Genetic Transmogrification&quot;, or AMTGT, modify the very sequence of your genetic code. The resulting enhanced genetic material is appropriately called &quot;Toast Initiated Genetic Transmogrificant&quot;, or TIGT, which over time will result in &quot;Toast Accellerated Human Evolution&quot;, or TAHE. So you see, TIMT-induced MTGTs result in AMTGT on your DNA, giving you TIGT leading to TAHE which, FYI, is A-OK.
+&lt;p&gt;You see, Joslin, toasting bread fundamentally changes its molecular structure. The high temperature convection currents within the toaster transform the complex carbohydrates, through a process known as &amp;#8220;Toaster Induced Molecular Transfiguration&amp;#8221;, or TIMT, into new molecules that are actually capable of altering the structure of your DNA. These new molecules are called &amp;#8220;Molecular Toast Genetic Transmogrificators&amp;#8221;, or MTGTs. When the MTGTs enter your bloodstream, they seek out the nuclei of your cells and, through the process of &amp;#8220;Active Molecular Toast Genetic Transmogrification&amp;#8221;, or AMTGT, modify the very sequence of your genetic code. The resulting enhanced genetic material is appropriately called &amp;#8220;Toast Initiated Genetic Transmogrificant&amp;#8221;, or TIGT, which over time will result in &amp;#8220;Toast Accellerated Human Evolution&amp;#8221;, or TAHE. So you see, TIMT-induced MTGTs result in AMTGT on your DNA, giving you TIGT leading to TAHE which, FYI, is A-OK.&lt;/p&gt;
 
-Sound a little scary? Well, never fear. Because they are a miracle born of toast, the MTGTs only replace segments of your DNA which are directly detrimental to your looks and popularity. For example, if through some unfortunate twist of fate the encoding of your DNA has left you with the irresistable urge to dance the Macarena whenever you hear that ridiculous song, the MTGTs will overwrite that flawed section. The perverted impulse will be replaced with the overwhelming need to put on a classic Miles Davis record instead.
+&lt;p&gt;Sound a little scary? Well, never fear. Because they are a miracle born of toast, the MTGTs only replace segments of your DNA which are directly detrimental to your looks and popularity. For example, if through some unfortunate twist of fate the encoding of your DNA has left you with the irresistable urge to dance the Macarena whenever you hear that ridiculous song, the MTGTs will overwrite that flawed section. The perverted impulse will be replaced with the overwhelming need to put on a classic Miles Davis record instead.&lt;/p&gt;
 
-The principle is also true of physical flaws. No more bad hair days. No more stinky feet. And you know that little flap of skin you get when you burn the roof of your mouth with a really hot slice of pizza? If you eat enough toast, your repaired genes will give you a more heat-resistant, pizza-tolerant mouth.
+&lt;p&gt;The principle is also true of physical flaws. No more bad hair days. No more stinky feet. And you know that little flap of skin you get when you burn the roof of your mouth with a really hot slice of pizza? If you eat enough toast, your repaired genes will give you a more heat-resistant, pizza-tolerant mouth.&lt;/p&gt;
 
-So eat your toast, Joslin. For yourself, and for your posterity.
+&lt;p&gt;So eat your toast, Joslin. For yourself, and for your posterity.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3272,17 +3261,15 @@ So eat your toast, Joslin. For yourself, and for your posterity.
    <link href="http://www.drtoast.com/1997/03/23/i-accidentally-brought-my-toaster-to-life.html"/>
    <updated>1997-03-23T02:45:18-08:00</updated>
    <id>http://www.drtoast.com/1997/03/23/i-accidentally-brought-my-toaster-to-life</id>
-   <content type="html">Q: Dr. Toast, I need help! I accidentally brought my toaster to life and now it is trying to kill me and my family with a can of Cheez Whiz! What do I do??!
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Dr. Toast, I need help! I accidentally brought my toaster to life and now it is trying to kill me and my family with a can of Cheez Whiz! What do I do??!&lt;/p&gt;
 
--- Mikey (Mikey6585@xxxxx.com)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Mikey (Mikey6585@xxxxx.com)&lt;/p&gt;
 
-A: Mikey, do not be alarmed at your toaster's unprovoked aggression. This is completely normal. You see, a toaster that has been unexpectedly brought to life simply needs time to adjust to its new environment. Take it by its cord and gently lead it on a leisurely tour around your home. Let it explore one room at a time, at its own pace. Show it where its food and water are kept, and talk to it in calm, reassuring tones.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Mikey, do not be alarmed at your toaster&amp;#8217;s unprovoked aggression. This is completely normal. You see, a toaster that has been unexpectedly brought to life simply needs time to adjust to its new environment. Take it by its cord and gently lead it on a leisurely tour around your home. Let it explore one room at a time, at its own pace. Show it where its food and water are kept, and talk to it in calm, reassuring tones.&lt;/p&gt;
 
-If you give your toaster the love and attention it needs, keep it fed and groomed, and bring it in for regular visits at a factory authorized service center, you will be rewarded with many years of loyal companionship, unconditional love, and fresh, crispy toast.
+&lt;p&gt;If you give your toaster the love and attention it needs, keep it fed and groomed, and bring it in for regular visits at a factory authorized service center, you will be rewarded with many years of loyal companionship, unconditional love, and fresh, crispy toast.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3290,19 +3277,17 @@ If you give your toaster the love and attention it needs, keep it fed and groome
    <link href="http://www.drtoast.com/1997/02/09/certified-doctor-of-toast.html"/>
    <updated>1997-02-09T02:44:18-08:00</updated>
    <id>http://www.drtoast.com/1997/02/09/certified-doctor-of-toast</id>
-   <content type="html">Q: My clone and I woke up this morning with a craving for french toast. We just happened to be online when we looked up &quot;toast&quot; hoping for... well, we didn't really know what we were hoping for. Then we found you.
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; My clone and I woke up this morning with a craving for french toast. We just happened to be online when we looked up &amp;#8220;toast&amp;#8221; hoping for&amp;#8230; well, we didn&amp;#8217;t really know what we were hoping for. Then we found you.&lt;/p&gt;
 
-Anyway, our question is: how did you become a certified doctor of toast, and does it pay well?
+&lt;p&gt;Anyway, our question is: how did you become a certified doctor of toast, and does it pay well?&lt;/p&gt;
 
--- Olga and her clone (SonicEclps@xxxxx.com)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Olga and her clone (SonicEclps@xxxxx.com)&lt;/p&gt;
 
-A: The two of you can read about my amazing transformation from a simple dullard into the spectacularly sagacious Dr. Toast in my reply to the letter from &quot;&lt;a href=&quot;http://www.drtoast.com/crumbs/11&quot;&gt;An Inquiring Mind&lt;/a&gt;&quot;.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; The two of you can read about my amazing transformation from a simple dullard into the spectacularly sagacious Dr. Toast in my reply to the letter from &amp;#8221;&lt;a href='http://www.drtoast.com/crumbs/11'&gt;An Inquiring Mind&lt;/a&gt;&amp;#8221;.&lt;/p&gt;
 
-And yes, the job pays well, but most of my income is squandered on the kickbacks I pay to the Bolivian military for covert shipments of extraterrestrial toast. Hey, we all have our weaknesses...
+&lt;p&gt;And yes, the job pays well, but most of my income is squandered on the kickbacks I pay to the Bolivian military for covert shipments of extraterrestrial toast. Hey, we all have our weaknesses&amp;#8230;&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3310,15 +3295,13 @@ And yes, the job pays well, but most of my income is squandered on the kickbacks
    <link href="http://www.drtoast.com/1997/01/24/condiments.html"/>
    <updated>1997-01-24T02:43:32-08:00</updated>
    <id>http://www.drtoast.com/1997/01/24/condiments</id>
-   <content type="html">Q: What condiment do you recommend for my toast?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What condiment do you recommend for my toast?&lt;/p&gt;
 
--- Mr. Cheesebucket (bfrench@xxxxx.edu)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Mr. Cheesebucket (bfrench@xxxxx.edu)&lt;/p&gt;
 
-A: Just about everything is good on toast, Mr. Cheesebucket. The only things to avoid putting on toast are french fries, baking soda, and water (see &lt;a href=&quot;http://www.drtoast.com/crumbs/91&quot;&gt;John Carroll's article&lt;/a&gt;).
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Just about everything is good on toast, Mr. Cheesebucket. The only things to avoid putting on toast are french fries, baking soda, and water (see &lt;a href='http://www.drtoast.com/crumbs/91'&gt;John Carroll&amp;#8217;s article&lt;/a&gt;).&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3326,55 +3309,53 @@ A: Just about everything is good on toast, Mr. Cheesebucket. The only things to 
    <link href="http://www.drtoast.com/1996/11/29/bolivian-toast.html"/>
    <updated>1996-11-29T02:43:02-08:00</updated>
    <id>http://www.drtoast.com/1996/11/29/bolivian-toast</id>
-   <content type="html">Q: Why are you not Dr. Toast in Bolivia? Is Dr. Toast trademarked there? Does your degree in all things toast not translate into Latin cultures? Do you ever wonder why a cold-fusion toaster would be a bad thing?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Why are you not Dr. Toast in Bolivia? Is Dr. Toast trademarked there? Does your degree in all things toast not translate into Latin cultures? Do you ever wonder why a cold-fusion toaster would be a bad thing?&lt;/p&gt;
 
--- Yours in toast, Katie (avatrice@xxxxx.net)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Yours in toast, Katie (avatrice@xxxxx.net)&lt;/p&gt;
 
-(ed. note: Katie is referring to the copyright disclaimer at the bottom of the page.)
+&lt;p&gt;(ed. note: Katie is referring to the copyright disclaimer at the bottom of the page.)&lt;/p&gt;
 
-A: Katie, your sharp eyes have uncovered another dark, obscure bit of Dr. Toast's past, a past which haunts him even today in his copyright disclaimers.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Katie, your sharp eyes have uncovered another dark, obscure bit of Dr. Toast&amp;#8217;s past, a past which haunts him even today in his copyright disclaimers.&lt;/p&gt;
 
-In the summer of 1984, I was a ten-year-old child who had received the gift of amazing toast intellect just two years earlier. I knew it would only be a matter of time before the CIA learned of my powers, and one sweltering July day they did.
+&lt;p&gt;In the summer of 1984, I was a ten-year-old child who had received the gift of amazing toast intellect just two years earlier. I knew it would only be a matter of time before the CIA learned of my powers, and one sweltering July day they did.&lt;/p&gt;
 
-They caught up with me in a cafe in the North Beach district of San Francisco, where I was standing on the small black plywood stage, a young prophet preaching the word of toast to the disheveled masses gathered around me. Before anyone knew what was happening, men in dark glasses and sharp suits rushed in and hustled me off into a waiting van.
+&lt;p&gt;They caught up with me in a cafe in the North Beach district of San Francisco, where I was standing on the small black plywood stage, a young prophet preaching the word of toast to the disheveled masses gathered around me. Before anyone knew what was happening, men in dark glasses and sharp suits rushed in and hustled me off into a waiting van.&lt;/p&gt;
 
-John Burton was the local CIA operative who filled me in as we drove towards the airport. Seems they needed my superhuman intellect to crush a powerful ring of government-sponsored toast smugglers working out of Bolivia, flying their goods out of the country in cargo planes provided by the Honduran military in exchange for a cut of the profits. &quot;You can't make me do jack,&quot; I muttered as I snubbed my cigarette into the upholstery. &quot;Is that so?&quot; sneered Burton.
+&lt;p&gt;John Burton was the local CIA operative who filled me in as we drove towards the airport. Seems they needed my superhuman intellect to crush a powerful ring of government-sponsored toast smugglers working out of Bolivia, flying their goods out of the country in cargo planes provided by the Honduran military in exchange for a cut of the profits. &amp;#8220;You can&amp;#8217;t make me do jack,&amp;#8221; I muttered as I snubbed my cigarette into the upholstery. &amp;#8220;Is that so?&amp;#8221; sneered Burton.&lt;/p&gt;
 
-He reached into his raincoat and slowly withdrew a fresh loaf of Home-Pride brand buttertop wheat bread. He untwisted the twistie sadistically and, savoring the look of terror on my face, began tossing slices out of the van's window, one by one. &quot;Enough!&quot; I cried. &quot;I'll do your dirtywork.&quot;
+&lt;p&gt;He reached into his raincoat and slowly withdrew a fresh loaf of Home-Pride brand buttertop wheat bread. He untwisted the twistie sadistically and, savoring the look of terror on my face, began tossing slices out of the van&amp;#8217;s window, one by one. &amp;#8220;Enough!&amp;#8221; I cried. &amp;#8221;I&amp;#8217;ll do your dirtywork.&amp;#8221;&lt;/p&gt;
 
-I stepped off of the plane in the Bolivian capital of Sucre, in the Chuquisaca region. The air was so thick you almost needed gills and fins. It was hard to imagine a crispy slice of toast originating in such an inhospitable environment, but everyone knows this is where you buy the good stuff. Comes from climate-controlled warehouses deep in central Bolivia. A multi-billion-dollar industry.
+&lt;p&gt;I stepped off of the plane in the Bolivian capital of Sucre, in the Chuquisaca region. The air was so thick you almost needed gills and fins. It was hard to imagine a crispy slice of toast originating in such an inhospitable environment, but everyone knows this is where you buy the good stuff. Comes from climate-controlled warehouses deep in central Bolivia. A multi-billion-dollar industry.&lt;/p&gt;
 
-As my Bolivian contact, Mario Villegas, drove our jeep along the muddy road to our destination, I opened the manilla envelope Burton had given me and started to read. The center of the operation was a fortified government lab deep in the rainforest between Cochabamba and Santa Cruz in central Bolivia. The local townspeople were virtual slave laborers for the government, sorting and packing the precious commodity. If they refused to work, the government cut the power to their homes, rendering their toasters useless. The very thought gives me chills to this day.
+&lt;p&gt;As my Bolivian contact, Mario Villegas, drove our jeep along the muddy road to our destination, I opened the manilla envelope Burton had given me and started to read. The center of the operation was a fortified government lab deep in the rainforest between Cochabamba and Santa Cruz in central Bolivia. The local townspeople were virtual slave laborers for the government, sorting and packing the precious commodity. If they refused to work, the government cut the power to their homes, rendering their toasters useless. The very thought gives me chills to this day.&lt;/p&gt;
 
-Soon after nightfall, Villegas stopped the jeep about two miles from the lab. We would make our final approach on foot under cover of darkness. &quot;I've gotta quit smoking,&quot; I wheezed as I hacked through the vines with my machete. &quot;Here, have a slice of toast,&quot; Villegas offered. Not surprisingly, it was the good stuff. My stamina restored, we pressed onwards.
+&lt;p&gt;Soon after nightfall, Villegas stopped the jeep about two miles from the lab. We would make our final approach on foot under cover of darkness. &amp;#8221;I&amp;#8217;ve gotta quit smoking,&amp;#8221; I wheezed as I hacked through the vines with my machete. &amp;#8220;Here, have a slice of toast,&amp;#8221; Villegas offered. Not surprisingly, it was the good stuff. My stamina restored, we pressed onwards.&lt;/p&gt;
 
-We were close. The glimmer of floodlamps began to flash through the swaying foliage from time to time. When we finally came to the chain-link and razorwire fence at the perimeter of the compound, Villegas was as shocked as I. &quot;The ruins of an ancient Tiahuanacan temple? So far from Lake Titicaca?&quot; I exclaimed. &quot;It seems our government has many secrets,&quot; mumbled Villegas.
+&lt;p&gt;We were close. The glimmer of floodlamps began to flash through the swaying foliage from time to time. When we finally came to the chain-link and razorwire fence at the perimeter of the compound, Villegas was as shocked as I. &amp;#8220;The ruins of an ancient Tiahuanacan temple? So far from Lake Titicaca?&amp;#8221; I exclaimed. &amp;#8220;It seems our government has many secrets,&amp;#8221; mumbled Villegas.&lt;/p&gt;
 
-Military vehicles were lined up by the edges of the temple, not far from a large circular area which was inscribed with strange ancient characters, pointing inwards. The large character at the center looked somehow familiar: a square with a bulging, uneven top. Couldn't quite place it. The circular area was brightly illuminated with floodlamps, and men in fatigues lounged by the vehicles. &quot;It looks like they're waiting for something,&quot; I whispered.
+&lt;p&gt;Military vehicles were lined up by the edges of the temple, not far from a large circular area which was inscribed with strange ancient characters, pointing inwards. The large character at the center looked somehow familiar: a square with a bulging, uneven top. Couldn&amp;#8217;t quite place it. The circular area was brightly illuminated with floodlamps, and men in fatigues lounged by the vehicles. &amp;#8220;It looks like they&amp;#8217;re waiting for something,&amp;#8221; I whispered.&lt;/p&gt;
 
-As I tried to light another cigarette, a sudden breeze hindered my efforts. The breeze grew, and soon a low whirring noise became noticeable. As colored light began to bathe the entire area, Villegas and I slowly tilted our heads back, only to be practically blinded by the phantasmagorical display that was descending from the heavens.
+&lt;p&gt;As I tried to light another cigarette, a sudden breeze hindered my efforts. The breeze grew, and soon a low whirring noise became noticeable. As colored light began to bathe the entire area, Villegas and I slowly tilted our heads back, only to be practically blinded by the phantasmagorical display that was descending from the heavens.&lt;/p&gt;
 
-The lights swirled and danced on the temple and forest as the enormous spacecraft approached the landing area. After the soft thud of contact, a door quietly slid open.
+&lt;p&gt;The lights swirled and danced on the temple and forest as the enormous spacecraft approached the landing area. After the soft thud of contact, a door quietly slid open.&lt;/p&gt;
 
-The smell of toast was overwhelming.
+&lt;p&gt;The smell of toast was overwhelming.&lt;/p&gt;
 
-Dozens of small, spindly creatures formed a line going from the craft along the ramp to the ground and, fire-brigade style, began passing along slices of hot, crisp toast and placing it in neat symmetrical stacks on the tarmac. The eyes of the military men glittered with greed as they watched the slowly accumulating bounty.
+&lt;p&gt;Dozens of small, spindly creatures formed a line going from the craft along the ramp to the ground and, fire-brigade style, began passing along slices of hot, crisp toast and placing it in neat symmetrical stacks on the tarmac. The eyes of the military men glittered with greed as they watched the slowly accumulating bounty.&lt;/p&gt;
 
-Immediately, my hyper-intelligent toast intellect put two and two together. I grabbed Villegas' shoulder. &quot;Do you realize what's happening here?&quot; I trembled as rage swelled up within me. &quot;These extraterrestrials were the benefactors of the ancient Tiahuanacan people. Lacking electricity, the Tiahuanacans had no way to make toast. It was a dire need that was generously filled by the technologically advanced aliens, but now the well-meaning creatures are unaware that the Tiahuanacan civilization disappeared eight hundred years ago! They continue their timely deliveries of toast, which are snapped up by these money-grubbing fiends!&quot;
+&lt;p&gt;Immediately, my hyper-intelligent toast intellect put two and two together. I grabbed Villegas&amp;#8217; shoulder. &amp;#8220;Do you realize what&amp;#8217;s happening here?&amp;#8221; I trembled as rage swelled up within me. &amp;#8220;These extraterrestrials were the benefactors of the ancient Tiahuanacan people. Lacking electricity, the Tiahuanacans had no way to make toast. It was a dire need that was generously filled by the technologically advanced aliens, but now the well-meaning creatures are unaware that the Tiahuanacan civilization disappeared eight hundred years ago! They continue their timely deliveries of toast, which are snapped up by these money-grubbing fiends!&amp;#8221;&lt;/p&gt;
 
-I could contain myself no longer. I had to end this charade. Before Villegas could stop me, I scrambled clumsily over the razor wire and made a dash for the landing area. &quot;Benevolent creatures! Your generosity is being wasted!&quot; I yelled as I ran. &quot;The Tiahuanacans are -- &quot; Two large men in fatigues cut the thought short as they threw me down and pinned me by my bloodied arms, knocking me breathless. The aliens, startled by the commotion, hastily left in a swirling vortex of dust and light. In retrospect, they probably didn't speak English, anyway.
+&lt;p&gt;I could contain myself no longer. I had to end this charade. Before Villegas could stop me, I scrambled clumsily over the razor wire and made a dash for the landing area. &amp;#8220;Benevolent creatures! Your generosity is being wasted!&amp;#8221; I yelled as I ran. &amp;#8220;The Tiahuanacans are &amp;#8211; &amp;#8221; Two large men in fatigues cut the thought short as they threw me down and pinned me by my bloodied arms, knocking me breathless. The aliens, startled by the commotion, hastily left in a swirling vortex of dust and light. In retrospect, they probably didn&amp;#8217;t speak English, anyway.&lt;/p&gt;
 
-One of the men produced a .45 which he placed to my head. His partner stopped him, pointing to the name tag I was fortunately wearing. &quot;Hello, My Name Is: Dr. Toast, CIA&quot;. They knew the CIA signed their paychecks for a number of covert operations, and that to dispose of Dr. Toast would be a bad career move.
+&lt;p&gt;One of the men produced a .45 which he placed to my head. His partner stopped him, pointing to the name tag I was fortunately wearing. &amp;#8220;Hello, My Name Is: Dr. Toast, CIA&amp;#8221;. They knew the CIA signed their paychecks for a number of covert operations, and that to dispose of Dr. Toast would be a bad career move.&lt;/p&gt;
 
-After my release, the Bolivian government, in cooperation with the government of Honduras, dealt me the harshest punishment permissible under their secret contracts with the CIA. Knowing that I intended to eventually capitalize on my adventures in Bolivia, they rescinded any and all of my copyright, trademark, and other business privileges within their borders. No &quot;Dr. Toast, The Bolivian Autobiography&quot;. No &quot;Dr. Toast, the Honduran Movie&quot;. No &quot;Dr. Toast, the Bolivian and Honduran Breakfast Cereal&quot;. This is the price we must pay for standing by our morals.
+&lt;p&gt;After my release, the Bolivian government, in cooperation with the government of Honduras, dealt me the harshest punishment permissible under their secret contracts with the CIA. Knowing that I intended to eventually capitalize on my adventures in Bolivia, they rescinded any and all of my copyright, trademark, and other business privileges within their borders. No &amp;#8220;Dr. Toast, The Bolivian Autobiography&amp;#8221;. No &amp;#8220;Dr. Toast, the Honduran Movie&amp;#8221;. No &amp;#8220;Dr. Toast, the Bolivian and Honduran Breakfast Cereal&amp;#8221;. This is the price we must pay for standing by our morals.&lt;/p&gt;
 
-So the next time you hear someone say, &quot;Bolivian toast comes from aliens,&quot; do not be overcome with despair. Just be inspired by the fact that Dr. Toast tried to do the right thing.
+&lt;p&gt;So the next time you hear someone say, &amp;#8220;Bolivian toast comes from aliens,&amp;#8221; do not be overcome with despair. Just be inspired by the fact that Dr. Toast tried to do the right thing.&lt;/p&gt;
 
--- Dr. Toast
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;
 
-ps - About the cold fusion toaster: It's a good idea, but it makes the toast taste funny.
-</content>
+&lt;p&gt;ps - About the cold fusion toaster: It&amp;#8217;s a good idea, but it makes the toast taste funny.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3382,27 +3363,25 @@ ps - About the cold fusion toaster: It's a good idea, but it makes the toast tas
    <link href="http://www.drtoast.com/1996/10/17/burnt-toast.html"/>
    <updated>1996-10-17T02:42:04-07:00</updated>
    <id>http://www.drtoast.com/1996/10/17/burnt-toast</id>
-   <content type="html">Q: What do I do with burnt toast? Is burnt toast even still considered toast?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What do I do with burnt toast? Is burnt toast even still considered toast?&lt;/p&gt;
 
-Blackened in Beantown (chacker@xxxxx.edu)
-&lt;!--more--&gt;
+&lt;p&gt;Blackened in Beantown (chacker@xxxxx.edu)&lt;/p&gt;
 
-A: Of course burnt toast is considered toast. I prefer to call it &quot;carbon-enriched&quot;. We are, after all, carbon based life forms. All that distinguishes humankind from a slice of carbon-enriched toast is a central nervous system. And some amino acids and stuff.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Of course burnt toast is considered toast. I prefer to call it &amp;#8220;carbon-enriched&amp;#8221;. We are, after all, carbon based life forms. All that distinguishes humankind from a slice of carbon-enriched toast is a central nervous system. And some amino acids and stuff.&lt;/p&gt;
 
-As spiritually empowering and philosophically inspiring as carbon-enriched toast is, the simple fact remains that it is not tasty. Therefore, when one is confronted with a slice of toast that is edibly challenged, one must take immediate steps to undo the damage.
+&lt;p&gt;As spiritually empowering and philosophically inspiring as carbon-enriched toast is, the simple fact remains that it is not tasty. Therefore, when one is confronted with a slice of toast that is edibly challenged, one must take immediate steps to undo the damage.&lt;/p&gt;
 
-The easiest way to unburn a slice of toast is to simply reverse the direction of time itself. We know from Einstein's theory of general relativity (see Dr. Toast's explanation of the Coriolis effect and Einstein's theory as they pertain to toast), the faster an object travels, the slower it experiences time. At the speed of light, time would be at a standstill. Any faster, and time would reverse.
+&lt;p&gt;The easiest way to unburn a slice of toast is to simply reverse the direction of time itself. We know from Einstein&amp;#8217;s theory of general relativity (see Dr. Toast&amp;#8217;s explanation of the Coriolis effect and Einstein&amp;#8217;s theory as they pertain to toast), the faster an object travels, the slower it experiences time. At the speed of light, time would be at a standstill. Any faster, and time would reverse.&lt;/p&gt;
 
-Unfortunately, Einstein's theory states that it is impossible for any object to reach the speed of light.
+&lt;p&gt;Unfortunately, Einstein&amp;#8217;s theory states that it is impossible for any object to reach the speed of light.&lt;/p&gt;
 
-Well, Mr. Einstein, never underestimate the power of Toast.
+&lt;p&gt;Well, Mr. Einstein, never underestimate the power of Toast.&lt;/p&gt;
 
-All that is necessary to accelerate a slice of toast to the speed of light and beyond is a good hefty toss. Don't let its crusty texture deceive you, toast is actually the most aerodynamically perfect object in the universe. With a good windup and a well-timed flick of the wrist, it is possible to hurl a slice of toast with sufficient force that it actually rips a hole in the fabric of space-time, emerging as a tasty slice of bread ready for a second chance.
+&lt;p&gt;All that is necessary to accelerate a slice of toast to the speed of light and beyond is a good hefty toss. Don&amp;#8217;t let its crusty texture deceive you, toast is actually the most aerodynamically perfect object in the universe. With a good windup and a well-timed flick of the wrist, it is possible to hurl a slice of toast with sufficient force that it actually rips a hole in the fabric of space-time, emerging as a tasty slice of bread ready for a second chance.&lt;/p&gt;
 
-In fact, you may even have to take it out of the bag again.
+&lt;p&gt;In fact, you may even have to take it out of the bag again.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3410,29 +3389,39 @@ In fact, you may even have to take it out of the bag again.
    <link href="http://www.drtoast.com/1996/10/17/virgin-toast.html"/>
    <updated>1996-10-17T02:41:13-07:00</updated>
    <id>http://www.drtoast.com/1996/10/17/virgin-toast</id>
-   <content type="html">Q: I have a burning toast question. I hate it when you have a nice slice of yummy, yet untoasted, bread which is a little too thick or a little too long to fit into the slot of the toaster. Is there anything I can do to transform this piece of &quot;virgin&quot; toast into the crispy, steamy, crunchy, warm toast that it longs to be without chopping it up and being left with undesirable pieces of raw bread?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; I have a burning toast question. I hate it when you have a nice slice of yummy, yet untoasted, bread which is a little too thick or a little too long to fit into the slot of the toaster. Is there anything I can do to transform this piece of &amp;#8220;virgin&amp;#8221; toast into the crispy, steamy, crunchy, warm toast that it longs to be without chopping it up and being left with undesirable pieces of raw bread?&lt;/p&gt;
 
--- Befuddled in Boston (chacker@xxxxx.edu)
-&lt;!--more--&gt;
+&lt;p&gt;&amp;#8211; Befuddled in Boston (chacker@xxxxx.edu)&lt;/p&gt;
 
-A: Obviously, the solution to this dilemma lies not in foolishly attempting to make the bread smaller. Therefore, the only possible solution is to make the toaster larger.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Obviously, the solution to this dilemma lies not in foolishly attempting to make the bread smaller. Therefore, the only possible solution is to make the toaster larger.&lt;/p&gt;
 
-&quot;But&quot;, you ask, &quot;how do I make my toaster larger?&quot;
+&lt;p&gt;&amp;#8220;But&amp;#8221;, you ask, &amp;#8220;how do I make my toaster larger?&amp;#8221;&lt;/p&gt;
 
-Several options are available. Select the one that best fits your emotional and philosophical needs.
+&lt;p&gt;Several options are available. Select the one that best fits your emotional and philosophical needs.&lt;/p&gt;
 
-1. Tape several slices of bread to the exterior of the toaster. Connect the appliance to the wall current and initiate a standard toasting cycle. The electrons will sense the overpowering karma of the bread through the cold steel of the toaster's walls. In fact, they will be so eager to reach the bread that they will pound and expand the walls of the toaster in their frantic quest for breakfast nirvana (see Dr. Toast's explanation of the &quot;Electron Anxiety Effect&quot;.
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tape several slices of bread to the exterior of the toaster. Connect the appliance to the wall current and initiate a standard toasting cycle. The electrons will sense the overpowering karma of the bread through the cold steel of the toaster&amp;#8217;s walls. In fact, they will be so eager to reach the bread that they will pound and expand the walls of the toaster in their frantic quest for breakfast nirvana (see Dr. Toast&amp;#8217;s explanation of the &amp;#8220;Electron Anxiety Effect&amp;#8221;.&lt;/p&gt;
+&lt;/li&gt;
 
-2. Fill toaster with Mountain Dew. Cover slots with hands and shake vigorously. (Dr. Toast will not be held responsible for any internal appliance corrosion or personal health issues that may result)
+&lt;li&gt;
+&lt;p&gt;Fill toaster with Mountain Dew. Cover slots with hands and shake vigorously. (Dr. Toast will not be held responsible for any internal appliance corrosion or personal health issues that may result)&lt;/p&gt;
+&lt;/li&gt;
 
-3. Fuse the DNA of your toaster with the DNA of a larger appliance, such as a microwave. Your toaster will evolve into a larger, higher technology machine but may produce slightly soggy toast. Be prepared for other unpredictable effects as well (see Jeff Goldblum in the movie &quot;The Fly&quot;...)
+&lt;li&gt;
+&lt;p&gt;Fuse the DNA of your toaster with the DNA of a larger appliance, such as a microwave. Your toaster will evolve into a larger, higher technology machine but may produce slightly soggy toast. Be prepared for other unpredictable effects as well (see Jeff Goldblum in the movie &amp;#8220;The Fly&amp;#8221;&amp;#8230;)&lt;/p&gt;
+&lt;/li&gt;
 
-4. A simple but inelegant method is to soak the toaster in tomato juice. Submerse the appliance in a bathtub filled with tepid tomato juice, and let sit for two to three hours until plump and wrinkled (Warning: Do not attempt to operate the toaster during this process). This method is also useful for the toaster which has been sprayed by a skunk.
+&lt;li&gt;
+&lt;p&gt;A simple but inelegant method is to soak the toaster in tomato juice. Submerse the appliance in a bathtub filled with tepid tomato juice, and let sit for two to three hours until plump and wrinkled (Warning: Do not attempt to operate the toaster during this process). This method is also useful for the toaster which has been sprayed by a skunk.&lt;/p&gt;
+&lt;/li&gt;
 
-5. Pray for a miracle at the &lt;a target=&quot;_blank&quot; href=&quot;http://www.q7.com/~cramsay/shrine.html&quot;&gt;Shrine to Toast&lt;/a&gt;. Hey, it could happen.
+&lt;li&gt;
+&lt;p&gt;Pray for a miracle at the &lt;a href='http://www.q7.com/~cramsay/shrine.html'&gt;Shrine to Toast&lt;/a&gt;. Hey, it could happen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3505,25 +3494,25 @@ An experimental, minimal acid/triphop album made entirely with unedited breakbea
    <link href="http://www.drtoast.com/1996/06/15/31.html"/>
    <updated>1996-06-15T02:38:40-07:00</updated>
    <id>http://www.drtoast.com/1996/06/15/31</id>
-   <content type="html">Q: Dr. Toast, my toaster has this extremely annoying habit of over-cooking one side of the toast and leaving the other side almost raw. I have tried just about everything to solve this problem, but nothing will work.
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Dr. Toast, my toaster has this extremely annoying habit of over-cooking one side of the toast and leaving the other side almost raw. I have tried just about everything to solve this problem, but nothing will work.&lt;/p&gt;
 
-Can you help?
+&lt;p&gt;Can you help?&lt;/p&gt;
 
--- Kate (pseamer@xxxxx.au)
-&lt;!--more--&gt;A: Kate, what you are experiencing is the unfortunate result of a combination of the Coriolis Effect and Einstein's Special Theory of Relativity.
+&lt;p&gt;&amp;#8211; Kate (pseamer@xxxxx.au)&lt;/p&gt;
 
-The Exploratorium gives the following definition of the generalized Coriolis Effect: &quot;In a rotating environment, an object moves faster if it is farther from the axis of rotation (it moves in a bigger circle).&quot; In other words, objects that are closer to the Earth's poles will move slower than objects that are closer to the equator.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Kate, what you are experiencing is the unfortunate result of a combination of the Coriolis Effect and Einstein&amp;#8217;s Special Theory of Relativity.&lt;/p&gt;
 
-Now, under Einstein's Special Theory of Relativity, time, or space-time, cannot be measured absolutely: it is always relative to some other point of reference. In fact, an object traveling at a high velocity experiences time more slowly than an object traveling at a low velocity.
+&lt;p&gt;The Exploratorium gives the following definition of the generalized Coriolis Effect: &amp;#8220;In a rotating environment, an object moves faster if it is farther from the axis of rotation (it moves in a bigger circle).&amp;#8221; In other words, objects that are closer to the Earth&amp;#8217;s poles will move slower than objects that are closer to the equator.&lt;/p&gt;
 
-When the effects of Coriolis and Special Relativity are combined, toast is the ultimate victim. Most of us, for reasons too complicated to state here, are instinctively driven to orient our toasters parallel to the Earth's lines of latitude. Therefore, one side of the toast is closer to the equator, and one side is closer to the North or South Pole. Due to the Coriolis Effect, the Equator-Side of the toast is traveling at a higher velocity than the Pole-Side. And, due to the Special Theory of Relativity, the high-velocity Equator-Side is experiencing time more slowly than is the low-velocity Pole-Side.
+&lt;p&gt;Now, under Einstein&amp;#8217;s Special Theory of Relativity, time, or space-time, cannot be measured absolutely: it is always relative to some other point of reference. In fact, an object traveling at a high velocity experiences time more slowly than an object traveling at a low velocity.&lt;/p&gt;
 
-You guessed it: the end result is that the Pole-Side actually spends more time in the toaster and becomes overdone, while the Equator-Side is undercooked.
+&lt;p&gt;When the effects of Coriolis and Special Relativity are combined, toast is the ultimate victim. Most of us, for reasons too complicated to state here, are instinctively driven to orient our toasters parallel to the Earth&amp;#8217;s lines of latitude. Therefore, one side of the toast is closer to the equator, and one side is closer to the North or South Pole. Due to the Coriolis Effect, the Equator-Side of the toast is traveling at a higher velocity than the Pole-Side. And, due to the Special Theory of Relativity, the high-velocity Equator-Side is experiencing time more slowly than is the low-velocity Pole-Side.&lt;/p&gt;
 
-Kate, I am currently researching ways to halt the spinning of the Earth in order to alleviate this problem for the citizens of the world. In the meantime, there are two simple ways for you to save your toast from the ravages of physics. You could rotate your toaster 180 degrees in the middle of the toasting process, or you could relocate yourself and your toaster to one of the Earth's poles.
+&lt;p&gt;You guessed it: the end result is that the Pole-Side actually spends more time in the toaster and becomes overdone, while the Equator-Side is undercooked.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;Kate, I am currently researching ways to halt the spinning of the Earth in order to alleviate this problem for the citizens of the world. In the meantime, there are two simple ways for you to save your toast from the ravages of physics. You could rotate your toaster 180 degrees in the middle of the toasting process, or you could relocate yourself and your toaster to one of the Earth&amp;#8217;s poles.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3531,15 +3520,15 @@ Kate, I am currently researching ways to halt the spinning of the Earth in order
    <link href="http://www.drtoast.com/1996/05/19/the-perpetual-glow-of-toast.html"/>
    <updated>1996-05-19T02:36:45-07:00</updated>
    <id>http://www.drtoast.com/1996/05/19/the-perpetual-glow-of-toast</id>
-   <content type="html">Q: I have no questions to ask of your high intellect, as I have seen the light, and I live in the perpetual glow of toast. You may know me as the High Priest of Buttermilk Wheat, guardian of &lt;a href=&quot;http://www.teleport.com/~cramsay/shrine.html&quot;&gt;The Shrine to Toast&lt;/a&gt;. My busy schedule of preaching the Word to the masses has kept me from doing research on virtual toast, so this is the first time I have stumbled upon your words of wisdom. I enjoyed your page very much and you will recieve an honorable mention on my page of links which I will be updating this weekend.
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; I have no questions to ask of your high intellect, as I have seen the light, and I live in the perpetual glow of toast. You may know me as the High Priest of Buttermilk Wheat, guardian of &lt;a href='http://www.teleport.com/~cramsay/shrine.html'&gt;The Shrine to Toast&lt;/a&gt;. My busy schedule of preaching the Word to the masses has kept me from doing research on virtual toast, so this is the first time I have stumbled upon your words of wisdom. I enjoyed your page very much and you will recieve an honorable mention on my page of links which I will be updating this weekend.&lt;/p&gt;
 
-Keep up the good work.
+&lt;p&gt;Keep up the good work.&lt;/p&gt;
 
--- Celeste (cramsay@xxxxx.com)
-&lt;!--more--&gt;A: Celeste, I am truly honored that Her Toastiness would bestow such words on so humble a purveyor of savoir-toast as myself. While I specialize in the intellectual and philosophical aspects of toast, the spirituality of toast is undeniably of utmost importance to an individual's inner harmony. Therefore, I encourage my readers to visit The Shrine often, and read the Words therein so that they too might be enlightened.
+&lt;p&gt;&amp;#8211; Celeste (cramsay@xxxxx.com)&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Celeste, I am truly honored that Her Toastiness would bestow such words on so humble a purveyor of savoir-toast as myself. While I specialize in the intellectual and philosophical aspects of toast, the spirituality of toast is undeniably of utmost importance to an individual&amp;#8217;s inner harmony. Therefore, I encourage my readers to visit The Shrine often, and read the Words therein so that they too might be enlightened.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3547,14 +3536,23 @@ Keep up the good work.
    <link href="http://www.drtoast.com/1996/04/18/toast-addiction.html"/>
    <updated>1996-04-18T02:35:04-07:00</updated>
    <id>http://www.drtoast.com/1996/04/18/toast-addiction</id>
-   <content type="html">Q: Dr. Toast, is there such a thing as having an addiction to toast? I can't seem to get through my day without eating a slice of warm toast in the morning, and this really scares me, Doc.  And if so, is there a support group out there that can help me?
-
+   <content type="html">&lt;p&gt;
+&lt;strong&gt;Q:&lt;/strong&gt; Dr. Toast, is there such a thing as having an addiction to toast? I can't seem to get through my day without eating a slice of warm toast in the morning, and this really scares me, Doc.  And if so, is there a support group out there that can help me?
+&lt;/p&gt;
+&lt;p&gt;
 -- Your Pal, Skippy &quot;Crunchy&quot; P.B. (egu25989@xxxxx.edu)
-&lt;!--more--&gt;A: Skippy, I'm afraid the addiction to toast is an extremely real and frighteningly common phenomenon.
+&lt;/p&gt;
 
+&lt;p&gt;
+&lt;strong&gt;A:&lt;/strong&gt; Skippy, I'm afraid the addiction to toast is an extremely real and frighteningly common phenomenon.
+&lt;/p&gt;
+&lt;p&gt;
 The sad truth of the matter, Skippy, is that we are ALL hopelessly, permanently, and incurably addicted to toast.  However, we should be thankful, for a healthy addiction to toast keeps us safe from the devastating effects of toast's only alternative: street drugs.
-
+&lt;/p&gt;
+&lt;p&gt;
 Unfortunately, it has come to my attention recently that many of America's young folks are in fact choosing these street drugs over toast.  This can be attributed directly to a lack of toast education.  So for all you kiddies reading this, I give you this Netscape-Enhanced table comparing toast and crack:
+&lt;/p&gt;
+
 &lt;table cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; border=&quot;4&quot;&gt;
 &lt;tr&gt;
 &lt;td&gt;&amp;nbsp;&lt;/td&gt;
@@ -3592,11 +3590,15 @@ Unfortunately, it has come to my attention recently that many of America's young
 &lt;td align=&quot;center&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;arial, helvetica&quot;&gt;About five bucks a &quot;rock&quot;&lt;/font&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;
 Say &quot;NO&quot; to Drugs!  Say &quot;YES&quot; to Toast!
-
+&lt;/p&gt;
+&lt;p&gt;
 -- Dr. Toast
-
+&lt;/p&gt;
+&lt;p&gt;
 P.S. -- Obviously, since we are all toast addicts, there are no formal toast support groups.  Just eat a slice and watch &quot;Melrose Place&quot; or something.
+&lt;/p&gt;
 </content>
  </entry>
  
@@ -3605,15 +3607,15 @@ P.S. -- Obviously, since we are all toast addicts, there are no formal toast sup
    <link href="http://www.drtoast.com/1996/04/03/how-did-you-come-to-learn-so-much-about-toast.html"/>
    <updated>1996-04-03T02:26:03-08:00</updated>
    <id>http://www.drtoast.com/1996/04/03/how-did-you-come-to-learn-so-much-about-toast</id>
-   <content type="html">Q: Dr. Toast, your knowledge of the toaster astounds and amazes me. How did you come to learn so much about toast?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Dr. Toast, your knowledge of the toaster astounds and amazes me. How did you come to learn so much about toast?&lt;/p&gt;
 
--- An Inquiring Mind (mango@xxxxx.edu)
-&lt;!--more--&gt;A: This is a subject I find somewhat difficult to talk about, but because of its therapeutic value, I'll tell you, Inquiring Mind. In 1982, when I was in the second grade, I was struck in the head by a large piece of toasted sourdough bread traveling at a high velocity (presumably ejected from a toaster by Satan). The toast lodged just below my left frontal lobe, and I fell into a deep coma. Because of the precarious placement of the toast, the doctors were afraid to remove it for fear of causing further damage. My family and friends stood nearby, waiting for the inevitable. Little did they know, however, that all of the wisdom and power of generations of toast was slowly seeping into my young, absorbent mind. When I miraculously awoke three months later, the toast was gone, my head had healed, and I had become Dr. Toast. It was a traumatic experience for a second grader, but through the years my place in the world has become clear to me.
+&lt;p&gt;&amp;#8211; An Inquiring Mind (mango@xxxxx.edu)&lt;/p&gt;
 
-I Toast, Therefore I Am.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; This is a subject I find somewhat difficult to talk about, but because of its therapeutic value, I&amp;#8217;ll tell you, Inquiring Mind. In 1982, when I was in the second grade, I was struck in the head by a large piece of toasted sourdough bread traveling at a high velocity (presumably ejected from a toaster by Satan). The toast lodged just below my left frontal lobe, and I fell into a deep coma. Because of the precarious placement of the toast, the doctors were afraid to remove it for fear of causing further damage. My family and friends stood nearby, waiting for the inevitable. Little did they know, however, that all of the wisdom and power of generations of toast was slowly seeping into my young, absorbent mind. When I miraculously awoke three months later, the toast was gone, my head had healed, and I had become Dr. Toast. It was a traumatic experience for a second grader, but through the years my place in the world has become clear to me.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;I Toast, Therefore I Am.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3621,15 +3623,15 @@ I Toast, Therefore I Am.
    <link href="http://www.drtoast.com/1996/04/03/alarming-syndrome.html"/>
    <updated>1996-04-03T02:05:54-08:00</updated>
    <id>http://www.drtoast.com/1996/04/03/alarming-syndrome</id>
-   <content type="html">Q: Dr. Toast, my toaster displays the alarming syndrome in which my toast is shot across the room, often to distances reaching up to 3 or 4 feet. If I am not present when this occurs, I have to waste my time hunting for the toast in some obscure corner of the room. This disturbs me. Is there anything that can be done?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Dr. Toast, my toaster displays the alarming syndrome in which my toast is shot across the room, often to distances reaching up to 3 or 4 feet. If I am not present when this occurs, I have to waste my time hunting for the toast in some obscure corner of the room. This disturbs me. Is there anything that can be done?&lt;/p&gt;
 
--- Jennifer (j@xxxxx.com)
-&lt;!--more--&gt;A: Jennifer, it's really quite simple. Your toaster has been possessed by Satan. While you should feel honored that the Prince of Darkness himself has chosen one of your household appliances as his earthly incarnation, the repercussions, in terms of toast, are not good. Obviously, a toaster is an extremely cramped living environment for someone who is accustomed to the spoils that go along with the position of Evil Overlord. So he does what any sensible Demon Master would do: Evict the Toast! And with a vengeance, apparently.
+&lt;p&gt;&amp;#8211; Jennifer (j@xxxxx.com)&lt;/p&gt;
 
-What you need to do, Jennifer, is convince the Vile Displacer of Toast that he has an overwhelming desire to upgrade to a more spacious appliance, preferably one that you don't use often, and preferably one in a somewhat secluded part of the house so you won't be too bothered by the incessant screams of tortured souls. The &quot;Salad-Shooter&quot; that most of us have tucked away in some dank corner of the kitchen would be a prime candidate, were it not for the size limitation. However, the &quot;Salad-Shooter Professional Model&quot; would be perfectly adequate.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Jennifer, it&amp;#8217;s really quite simple. Your toaster has been possessed by Satan. While you should feel honored that the Prince of Darkness himself has chosen one of your household appliances as his earthly incarnation, the repercussions, in terms of toast, are not good. Obviously, a toaster is an extremely cramped living environment for someone who is accustomed to the spoils that go along with the position of Evil Overlord. So he does what any sensible Demon Master would do: Evict the Toast! And with a vengeance, apparently.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;What you need to do, Jennifer, is convince the Vile Displacer of Toast that he has an overwhelming desire to upgrade to a more spacious appliance, preferably one that you don&amp;#8217;t use often, and preferably one in a somewhat secluded part of the house so you won&amp;#8217;t be too bothered by the incessant screams of tortured souls. The &amp;#8220;Salad-Shooter&amp;#8221; that most of us have tucked away in some dank corner of the kitchen would be a prime candidate, were it not for the size limitation. However, the &amp;#8220;Salad-Shooter Professional Model&amp;#8221; would be perfectly adequate.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -3637,19 +3639,19 @@ What you need to do, Jennifer, is convince the Vile Displacer of Toast that he h
    <link href="http://www.drtoast.com/1996/04/02/one-slice-only.html"/>
    <updated>1996-04-02T23:43:17-08:00</updated>
    <id>http://www.drtoast.com/1996/04/02/one-slice-only</id>
-   <content type="html">Q: Why does my toaster (and several others that I've encountered) have a designated slot for &quot;One Slice Only&quot;? Doesn't that exclude the other slot from its share of the toasting? What right does the manufacturer have to arbitrarily choose one side to have all the single toastings while the other side only gets a slice of bread as a leftover from the &quot;One Slice&quot; side's overabundance?
+   <content type="html">&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Why does my toaster (and several others that I&amp;#8217;ve encountered) have a designated slot for &amp;#8220;One Slice Only&amp;#8221;? Doesn&amp;#8217;t that exclude the other slot from its share of the toasting? What right does the manufacturer have to arbitrarily choose one side to have all the single toastings while the other side only gets a slice of bread as a leftover from the &amp;#8220;One Slice&amp;#8221; side&amp;#8217;s overabundance?&lt;/p&gt;
 
-It just doesn't seem fair!
+&lt;p&gt;It just doesn&amp;#8217;t seem fair!&lt;/p&gt;
 
--- Alissa (mango@xxxxx.edu)
-&lt;!--more--&gt;A: Well, I'll tell you, Alissa. It has to do with the &quot;Electron Anxiety&quot; effect. You see, electrons are extremely nervous little critters. They are quite comfortable while they are safely within the power lines that are suspended above our streets and run through the walls in our homes. However, once they enter a household appliance, major or minor, they become extremely nervous and, frankly, somewhat homesick. They experience an overwhelming desire to retreat to safety as quickly as possible. Unless, of course, there is a nice comforting slice of raw toast (a.k.a. &quot;bread&quot;) nearby.
+&lt;p&gt;&amp;#8211; Alissa (mango@xxxxx.edu)&lt;/p&gt;
 
-For economic reasons too complicated to state here, toasters are configured with the power cord entering the device on the side, closer to one slice than the other. When two slices of raw toast are present, the electrons, sensing the positive balanced karma radiating from the raw toast, are comfortable enough to roam freely throughout the appliance, generally distributing themselves evenly on both sides of the toaster. However, when only one slice of raw toast is present, half of the toaster becomes a barren environment that is extremely inhospitable to homesick electrons. If this raw-toast-less gap were on the side where the power cord enters, the electrons would enter the appliance from the end of the cord, witness the shocking void directly before them, and promptly retreat to the sanctity of the wiring in your kitchen, huddling and biding their time until they were called for the next potential toasting.
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Well, I&amp;#8217;ll tell you, Alissa. It has to do with the &amp;#8220;Electron Anxiety&amp;#8221; effect. You see, electrons are extremely nervous little critters. They are quite comfortable while they are safely within the power lines that are suspended above our streets and run through the walls in our homes. However, once they enter a household appliance, major or minor, they become extremely nervous and, frankly, somewhat homesick. They experience an overwhelming desire to retreat to safety as quickly as possible. Unless, of course, there is a nice comforting slice of raw toast (a.k.a. &amp;#8220;bread&amp;#8221;) nearby.&lt;/p&gt;
 
-Therefore, the toaster manufacturers put the &quot;One Slice Only&quot; side nearest the power cord. The electrons enter the appliance and are greeted with a beautiful, welcoming slice of raw toast which they don't hesitate to surround and bathe with their toastifying magic.
+&lt;p&gt;For economic reasons too complicated to state here, toasters are configured with the power cord entering the device on the side, closer to one slice than the other. When two slices of raw toast are present, the electrons, sensing the positive balanced karma radiating from the raw toast, are comfortable enough to roam freely throughout the appliance, generally distributing themselves evenly on both sides of the toaster. However, when only one slice of raw toast is present, half of the toaster becomes a barren environment that is extremely inhospitable to homesick electrons. If this raw-toast-less gap were on the side where the power cord enters, the electrons would enter the appliance from the end of the cord, witness the shocking void directly before them, and promptly retreat to the sanctity of the wiring in your kitchen, huddling and biding their time until they were called for the next potential toasting.&lt;/p&gt;
 
--- Dr. Toast
-</content>
+&lt;p&gt;Therefore, the toaster manufacturers put the &amp;#8220;One Slice Only&amp;#8221; side nearest the power cord. The electrons enter the appliance and are greeted with a beautiful, welcoming slice of raw toast which they don&amp;#8217;t hesitate to surround and bathe with their toastifying magic.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Dr. Toast&lt;/p&gt;</content>
  </entry>
  
  

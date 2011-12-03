@@ -7,12 +7,11 @@ date: 1997-04-22 02:47:44.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: I too value the ideal toast. I have been experimenting lately with all sorts of modifications to my toasting technique, which, I might add, is quite good. Switching plug orientation, adjusting the room temperature, and synchronization with lunar cycles have all proved indespensible techniques. However, now that I am approaching the height of toast enlightenment, I am most perplexed by one question: What is the proper way to insert toast?
+**Q:** I too value the ideal toast. I have been experimenting lately with all sorts of modifications to my toasting technique, which, I might add, is quite good. Switching plug orientation, adjusting the room temperature, and synchronization with lunar cycles have all proved indespensible techniques. However, now that I am approaching the height of toast enlightenment, I am most perplexed by one question: What is the proper way to insert toast?
 
 -- Toasted in New Haven (ophir.klein@xxxxx.edu)
-<!--more-->
 
-A: Firstly, let me say that you are on the right track in your quest for perfection of toasting technique. For those readers unfamiliar with the intricacies of gourmet toasting:
+**A:** Firstly, let me say that you are on the right track in your quest for perfection of toasting technique. For those readers unfamiliar with the intricacies of gourmet toasting:
 
 Plug orientation is critical. If the plug is inserted into the outlet upside down, the incoming electrons will notice this immediately. As we know from our previous discussion of the "Electron Anxiety Effect", they are extremely nervous and fickle little creatures, and such a drastic upheaval of their familiar "conduit to toast" may ultimately result in their refusal to enter the appliance at all.
 

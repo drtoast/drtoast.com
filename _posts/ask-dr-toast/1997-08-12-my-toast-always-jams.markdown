@@ -7,14 +7,13 @@ date: 1997-08-12 02:48:28.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: My toast always jams in the toaster when it is supposed to eject. I have had this problem with many different brands of toasters. What is your recommendation?
+**Q:** My toast always jams in the toaster when it is supposed to eject. I have had this problem with many different brands of toasters. What is your recommendation?
 
 Look forward to your reply,
 
 -- Broken toasted hearted (spycc@xxxxx.au)
-<!--more-->
 
-A: There is a common misconception about the processes that cause the ejection of toast from the toaster. Most believe this morning miracle is due to the sudden conversion of static potential energy (stored in coiled springs within the device), to dynamic kinetic energy, which manifests itself with the pleasant "sproing" of a successfully completed toasting cycle.
+**A:** There is a common misconception about the processes that cause the ejection of toast from the toaster. Most believe this morning miracle is due to the sudden conversion of static potential energy (stored in coiled springs within the device), to dynamic kinetic energy, which manifests itself with the pleasant "sproing" of a successfully completed toasting cycle.
 
 This explanation, of course, is completely ridiculous.
 

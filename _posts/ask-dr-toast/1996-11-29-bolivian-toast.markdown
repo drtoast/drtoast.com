@@ -7,14 +7,13 @@ date: 1996-11-29 02:43:02.000000000 -08:00
 categories:
 - ask-dr-toast
 ---
-Q: Why are you not Dr. Toast in Bolivia? Is Dr. Toast trademarked there? Does your degree in all things toast not translate into Latin cultures? Do you ever wonder why a cold-fusion toaster would be a bad thing?
+**Q:** Why are you not Dr. Toast in Bolivia? Is Dr. Toast trademarked there? Does your degree in all things toast not translate into Latin cultures? Do you ever wonder why a cold-fusion toaster would be a bad thing?
 
 -- Yours in toast, Katie (avatrice@xxxxx.net)
-<!--more-->
 
 (ed. note: Katie is referring to the copyright disclaimer at the bottom of the page.)
 
-A: Katie, your sharp eyes have uncovered another dark, obscure bit of Dr. Toast's past, a past which haunts him even today in his copyright disclaimers.
+**A:** Katie, your sharp eyes have uncovered another dark, obscure bit of Dr. Toast's past, a past which haunts him even today in his copyright disclaimers.
 
 In the summer of 1984, I was a ten-year-old child who had received the gift of amazing toast intellect just two years earlier. I knew it would only be a matter of time before the CIA learned of my powers, and one sweltering July day they did.
 

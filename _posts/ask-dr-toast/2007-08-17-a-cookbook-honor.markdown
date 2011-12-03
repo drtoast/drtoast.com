@@ -8,7 +8,8 @@ categories:
 - ask-dr-toast
 ---
 
-<p style="direction: ltr"> Q: Dear Dr.,</p>
+**Q:** Dear Dr.,
+
 You have an incredible site.  I am completing a cookbook dedicated to my wife, who is now on her fourth occurrence of ovarian cancer and five of chemo.
 
 One section of this book is dedicated to yourself and asking people to send you more recipes and visit your website often. There are maybe 15 entries with full credit to you and the author. I do not like to infringe and rather ask you.
@@ -18,15 +19,17 @@ I would be very happy to send you the final draft copy of this book. Perhaps you
 Who knows, perhaps my works would inspire you to go publish your vast wealth of information. I would even offer to help you out with you project should you go foward.
 
 Your loyal follower,
-<p style="direction: ltr"> John (jmullet@xxxxx.com)<span id="st" name="st" class="st"></span></p>
 
-<p style="direction: ltr"><span id="st" name="st" class="st">Winter</span> <span id="st" name="st" class="st">Park</span>, Florida
-<!--more-->
-</p><p style="direction: ltr">&nbsp;</p>
-<p style="direction: ltr">A: Dear John,</p>
-<p style="direction: ltr">Thank you for your touching letter.  I do feel honored to be included in your project, and you have full permission to include any recipes found on my site in your book (although the credit is really due to their original authors).</p>
+John (jmullet@xxxxx.com)<br>
+Winter Park, Florida
+
+**A:** Dear John,
+
+Thank you for your touching letter.  I do feel honored to be included in your project, and you have full permission to include any recipes found on my site in your book (although the credit is really due to their original authors).
+
 And please know that the thoughts of my readers and myself are with you and your wife during this difficult time.
 
-Yours in Toast,
-<span class="sg">
-Dr. Toast</span>
+Yours in toast,
+
+Dr. Toast
+

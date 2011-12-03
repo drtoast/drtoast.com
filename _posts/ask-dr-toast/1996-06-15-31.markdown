@@ -7,12 +7,13 @@ date: 1996-06-15 02:38:40.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: Dr. Toast, my toaster has this extremely annoying habit of over-cooking one side of the toast and leaving the other side almost raw. I have tried just about everything to solve this problem, but nothing will work.
+**Q:** Dr. Toast, my toaster has this extremely annoying habit of over-cooking one side of the toast and leaving the other side almost raw. I have tried just about everything to solve this problem, but nothing will work.
 
 Can you help?
 
 -- Kate (pseamer@xxxxx.au)
-<!--more-->A: Kate, what you are experiencing is the unfortunate result of a combination of the Coriolis Effect and Einstein's Special Theory of Relativity.
+
+**A:** Kate, what you are experiencing is the unfortunate result of a combination of the Coriolis Effect and Einstein's Special Theory of Relativity.
 
 The Exploratorium gives the following definition of the generalized Coriolis Effect: "In a rotating environment, an object moves faster if it is farther from the axis of rotation (it moves in a bigger circle)." In other words, objects that are closer to the Earth's poles will move slower than objects that are closer to the equator.
 

@@ -7,12 +7,11 @@ date: 1996-10-17 02:42:04.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: What do I do with burnt toast? Is burnt toast even still considered toast?
+**Q:** What do I do with burnt toast? Is burnt toast even still considered toast?
 
 Blackened in Beantown (chacker@xxxxx.edu)
-<!--more-->
 
-A: Of course burnt toast is considered toast. I prefer to call it "carbon-enriched". We are, after all, carbon based life forms. All that distinguishes humankind from a slice of carbon-enriched toast is a central nervous system. And some amino acids and stuff.
+**A:** Of course burnt toast is considered toast. I prefer to call it "carbon-enriched". We are, after all, carbon based life forms. All that distinguishes humankind from a slice of carbon-enriched toast is a central nervous system. And some amino acids and stuff.
 
 As spiritually empowering and philosophically inspiring as carbon-enriched toast is, the simple fact remains that it is not tasty. Therefore, when one is confronted with a slice of toast that is edibly challenged, one must take immediate steps to undo the damage.
 

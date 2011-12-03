@@ -7,12 +7,11 @@ date: 1997-04-11 02:46:15.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: Does toasting bread reduce calories or carbohydrates?
+**Q:** Does toasting bread reduce calories or carbohydrates?
 
 -- Joslin (rjoslin@xxxxx.com)
-<!--more-->
 
-A: The process of toasting bread does not physically reduce calories or carbohydrates. However, eating toast will make you more popular and attractive.
+**A:** The process of toasting bread does not physically reduce calories or carbohydrates. However, eating toast will make you more popular and attractive.
 
 You see, Joslin, toasting bread fundamentally changes its molecular structure. The high temperature convection currents within the toaster transform the complex carbohydrates, through a process known as "Toaster Induced Molecular Transfiguration", or TIMT, into new molecules that are actually capable of altering the structure of your DNA. These new molecules are called "Molecular Toast Genetic Transmogrificators", or MTGTs. When the MTGTs enter your bloodstream, they seek out the nuclei of your cells and, through the process of "Active Molecular Toast Genetic Transmogrification", or AMTGT, modify the very sequence of your genetic code. The resulting enhanced genetic material is appropriately called "Toast Initiated Genetic Transmogrificant", or TIGT, which over time will result in "Toast Accellerated Human Evolution", or TAHE. So you see, TIMT-induced MTGTs result in AMTGT on your DNA, giving you TIGT leading to TAHE which, FYI, is A-OK.
 

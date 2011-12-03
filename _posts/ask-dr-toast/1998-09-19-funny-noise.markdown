@@ -7,12 +7,11 @@ date: 1998-09-19 02:50:11.000000000 -07:00
 categories:
 - ask-dr-toast
 ---
-Q: I  have an old toaster. When I put a slice of toast in the toaster and press the lever down it goes down, but when it comes back up it isn't toasted enough. So I press it back down it comes right back up so I hold the lever down it makes a funny noise. Why does it do that?
+**Q:** I  have an old toaster. When I put a slice of toast in the toaster and press the lever down it goes down, but when it comes back up it isn't toasted enough. So I press it back down it comes right back up so I hold the lever down it makes a funny noise. Why does it do that?
 
 -- wanting to know why (jastef@xxxxx.net)
-<!--more-->
 
-A: Now I want you to remain very calm and listen carefully to what I am about to say. The reason that your toast is not getting toasted is quite simply that it's not really a slice of toast! It's an impenetrable vessel harboring tiny alien life forms, a breakfast trojan horse engineered by a mind-boggling extraterrestrial intelligence, designed to smuggle them into your kitchen so that they may take control of your mind!
+**A:** Now I want you to remain very calm and listen carefully to what I am about to say. The reason that your toast is not getting toasted is quite simply that it's not really a slice of toast! It's an impenetrable vessel harboring tiny alien life forms, a breakfast trojan horse engineered by a mind-boggling extraterrestrial intelligence, designed to smuggle them into your kitchen so that they may take control of your mind!
 
 Hopefully you've remained calm and are ready to pay very close attention to my explanation of what to do. Act normal, don't look at the toaster! Just keep reading this page and eating your Cheez-Its.
 
