@@ -4,7 +4,7 @@
  <title>Dr. Toast</title>
  <link href="http://www.drtoast.com/atom.xml" rel="self"/>
  <link href="http://www.drtoast.com/"/>
- <updated>2011-12-03T16:18:44-08:00</updated>
+ <updated>2011-12-03T17:29:40-08:00</updated>
  <id>http://www.drtoast.com/</id>
  <author>
    <name>Dr. Toast</name>
@@ -423,7 +423,7 @@ This 4-track EP is the companion to &quot;Gravity is Quiet,&quot; and represents
    <link href="http://www.drtoast.com/2010/01/03/easy-peasy-spicy-beansy-toast.html"/>
    <updated>2010-01-03T19:34:40-08:00</updated>
    <id>http://www.drtoast.com/2010/01/03/easy-peasy-spicy-beansy-toast</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;This recipe was submitted by reader Deano from the UK:&lt;/strong&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This recipe was submitted by reader Deano from the UK:&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Half a can of baked beans&lt;/li&gt;
@@ -1801,18 +1801,23 @@ Dr. Toast
    <link href="http://www.drtoast.com/2005/12/06/white-house-apple-toast.html"/>
    <updated>2005-12-06T11:39:29-08:00</updated>
    <id>http://www.drtoast.com/2005/12/06/white-house-apple-toast</id>
-   <content type="html">Apple Toast
+   <content type="html">&lt;p&gt;Apple Toast&lt;/p&gt;
 
-Source: White House Cookbook: A Selection of Original Recipes During a Period of 40 years, 1887 (recipe abbreviated)
+&lt;p&gt;from &amp;#8220;White House Cookbook: A Selection of Original Recipes During a Period of 40 years,&amp;#8221; 1887 (recipe abbreviated)&lt;/p&gt;
 
-Six apples
-1 ounce butter
-2 ounces powdered sugar
-2 Tablespoons water
-4 slices toast
+&lt;ul&gt;
+&lt;li&gt;Six apples&lt;/li&gt;
 
-Core, peel and slice six apples; toss with powdered sugar and water. Melt butter in sauce pan, saute apples for a few minutes until tender. Toast four slices of bread; butter if desired. Pour apple mixture over the top of toast; sprinkle with powdered sugar. Serve hot.
-</content>
+&lt;li&gt;1 ounce butter&lt;/li&gt;
+
+&lt;li&gt;2 ounces powdered sugar&lt;/li&gt;
+
+&lt;li&gt;2 Tablespoons water&lt;/li&gt;
+
+&lt;li&gt;4 slices toast&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Core, peel and slice six apples; toss with powdered sugar and water. Melt butter in sauce pan, saute apples for a few minutes until tender. Toast four slices of bread; butter if desired. Pour apple mixture over the top of toast; sprinkle with powdered sugar. Serve hot.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -1820,21 +1825,29 @@ Core, peel and slice six apples; toss with powdered sugar and water. Melt butter
    <link href="http://www.drtoast.com/2005/12/06/winter-breakfast-sandwich-with-maple-syrup-toasted-walnuts-and-cream-cheese.html"/>
    <updated>2005-12-06T11:37:59-08:00</updated>
    <id>http://www.drtoast.com/2005/12/06/winter-breakfast-sandwich-with-maple-syrup-toasted-walnuts-and-cream-cheese</id>
-   <content type="html">Winter Breakfast Sandwich with Maple Syrup, Toasted Walnuts, and Cream Cheese
-Serves 4 to 6
+   <content type="html">&lt;p&gt;Winter Breakfast Sandwich with Maple Syrup, Toasted Walnuts, and Cream Cheese&lt;/p&gt;
 
-by Jesse Ziff Cool from &quot;Toast - 60 Ways to Butter Your Bread &amp; Then Some&quot;
+&lt;p&gt;Serves 4 to 6&lt;/p&gt;
 
-2/3 cup (about 3 ounces) coarsely chopped walnuts
-8 ounces cream cheese at room temperature
-3 tablespoons real maple syrup, plus more for garnishing
-¼ teaspoon ground cinnamon
-Pinch of freshly grated nutmeg
-½ teaspoon vanilla extract
-8 bread slices
+&lt;p&gt;&lt;em&gt;by Jesse Ziff Cool from &amp;#8220;Toast - 60 Ways to Butter Your Bread &amp;amp; Then Some&amp;#8221;&lt;/em&gt;&lt;/p&gt;
 
-Preheat the toaster oven to 350 degrees F. Put the walnuts on a baking tray and toast for 5 minutes. Let cool to room temperature. In a medium bowl, combine the cream cheese, the 3 tablespoons maple syrup, the cinnamon, nutmeg, and vanilla and stir to blend. Toast the bread. Spread one-fourth of the cream cheese mixture on each of 4 slices and sprinkle with the walnuts. Drizzle with a little maple syrup. Top each with a slice of plain toast. Cut each into 2, 4, or even 6 pieces (for tiny bite-sized tea sandwiches).
-</content>
+&lt;ul&gt;
+&lt;li&gt;2/3 cup (about 3 ounces) coarsely chopped walnuts&lt;/li&gt;
+
+&lt;li&gt;8 ounces cream cheese at room temperature&lt;/li&gt;
+
+&lt;li&gt;3 tablespoons real maple syrup, plus more for garnishing&lt;/li&gt;
+
+&lt;li&gt;¼ teaspoon ground cinnamon&lt;/li&gt;
+
+&lt;li&gt;Pinch of freshly grated nutmeg&lt;/li&gt;
+
+&lt;li&gt;½ teaspoon vanilla extract&lt;/li&gt;
+
+&lt;li&gt;8 bread slices&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preheat the toaster oven to 350 degrees F. Put the walnuts on a baking tray and toast for 5 minutes. Let cool to room temperature. In a medium bowl, combine the cream cheese, the 3 tablespoons maple syrup, the cinnamon, nutmeg, and vanilla and stir to blend. Toast the bread. Spread one-fourth of the cream cheese mixture on each of 4 slices and sprinkle with the walnuts. Drizzle with a little maple syrup. Top each with a slice of plain toast. Cut each into 2, 4, or even 6 pieces (for tiny bite-sized tea sandwiches).&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -1842,22 +1855,31 @@ Preheat the toaster oven to 350 degrees F. Put the walnuts on a baking tray and 
    <link href="http://www.drtoast.com/2005/12/06/jonahs-beans-and-toast.html"/>
    <updated>2005-12-06T11:36:53-08:00</updated>
    <id>http://www.drtoast.com/2005/12/06/jonahs-beans-and-toast</id>
-   <content type="html">Jonah's Beans and Toast
-Serves 4
+   <content type="html">&lt;p&gt;Jonah&amp;#8217;s Beans and Toast&lt;/p&gt;
 
-by Jesse Ziff Cool from &quot;Toast - 60 Ways to Butter Your Bread &amp; Then Some&quot;
+&lt;p&gt;Serves 4&lt;/p&gt;
 
-2 cans (each 16 ounces) baked beans with juices, or 4 cups cooked beans, cooking liquid reserved
-2 tablespoons grated yellow onion
-2 tablespoons chopped fresh thyme
-½ cup ketchup
-3 tablespoons unsalted butter
-4 eggs
-8 bread slices 
-Hot sauce for serving (optional)
+&lt;p&gt;&lt;em&gt;by Jesse Ziff Cool from &amp;#8220;Toast - 60 Ways to Butter Your Bread &amp;#38; Then Some&amp;#8221;&lt;/em&gt;&lt;/p&gt;
 
-In a medium saucepan over medium heat, combine the beans and their juices, onion, thyme, and 1/4 cup of the ketchup and simmer for about 5 minutes. Meanwhile, in a medium skilled, melt 1 tablespoon of the butter. Crack the eggs into the pan, cover, and cook for about 4 minutes for medium-cooked yolks. Toast the bread and spread the remaining 2 tablespoons butter on the slices. Place 2 slices, buttered-side up and overlapping slightly, on each of the 4 plates. Using a spatula, transfer 1 egg onto each of the 2 slices of toast. Spoon the beans over the eggs and toast. Top with the remaining 1/4 cup ketchup, dividing evenly. Pass hot sauce at the table, if using.
-</content>
+&lt;ul&gt;
+&lt;li&gt;2 cans (each 16 ounces) baked beans with juices, or 4 cups cooked beans, cooking liquid reserved&lt;/li&gt;
+
+&lt;li&gt;2 tablespoons grated yellow onion&lt;/li&gt;
+
+&lt;li&gt;2 tablespoons chopped fresh thyme&lt;/li&gt;
+
+&lt;li&gt;½ cup ketchup&lt;/li&gt;
+
+&lt;li&gt;3 tablespoons unsalted butter&lt;/li&gt;
+
+&lt;li&gt;4 eggs&lt;/li&gt;
+
+&lt;li&gt;8 bread slices&lt;/li&gt;
+
+&lt;li&gt;Hot sauce for serving (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a medium saucepan over medium heat, combine the beans and their juices, onion, thyme, and 1/4 cup of the ketchup and simmer for about 5 minutes. Meanwhile, in a medium skilled, melt 1 tablespoon of the butter. Crack the eggs into the pan, cover, and cook for about 4 minutes for medium-cooked yolks. Toast the bread and spread the remaining 2 tablespoons butter on the slices. Place 2 slices, buttered-side up and overlapping slightly, on each of the 4 plates. Using a spatula, transfer 1 egg onto each of the 2 slices of toast. Spoon the beans over the eggs and toast. Top with the remaining 1/4 cup ketchup, dividing evenly. Pass hot sauce at the table, if using.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -1953,7 +1975,7 @@ In a medium saucepan over medium heat, combine the beans and their juices, onion
    <link href="http://www.drtoast.com/2005/08/17/hyderabadi-toast.html"/>
    <updated>2005-08-17T18:27:37-07:00</updated>
    <id>http://www.drtoast.com/2005/08/17/hyderabadi-toast</id>
-   <content type="html">&lt;p&gt;by &lt;a href='http://www.indiaparenting.com/sil/recipetext34.shtml'&gt;Smita Mehta&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;by &lt;a href='http://www.indiaparenting.com/sil/recipetext34.shtml'&gt;Smita Mehta&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;SIL Red Chilli Villi Sauce&lt;/li&gt;
@@ -2024,32 +2046,49 @@ links: &lt;a href=&quot;http://www.theinquirer.net/?article=25321&quot;&gt;news 
    <link href="http://www.drtoast.com/2005/08/11/mushrooms-over-toast.html"/>
    <updated>2005-08-11T13:26:58-07:00</updated>
    <id>http://www.drtoast.com/2005/08/11/mushrooms-over-toast</id>
-   <content type="html">By &lt;a href=&quot;http://www.mothering.com/sections/recipes/toast.html&quot;&gt;Peggy O'Mara&lt;/a&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;By &lt;a href='http://www.mothering.com/sections/recipes/toast.html'&gt;Peggy O&amp;#8217;Mara&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-You can use any kind of mushrooms for this or a combination of your favorite kinds. I use simple button mushrooms.
+&lt;p&gt;You can use any kind of mushrooms for this or a combination of your favorite kinds. I use simple button mushrooms.&lt;/p&gt;
 
-Wash and dry 1½ pounds of mushrooms 
-Slice thinly. 
-Mix sliced mushrooms with: 
-4 Tablespoons olive oil 
-4 Tablespoons chopped parsley 
-2 to 4 minced garlic cloves. 
-Salt and pepper to taste. 
-Set aside.
+&lt;ul&gt;
+&lt;li&gt;Wash and dry 1½ pounds of mushrooms. Slice thinly.&lt;/li&gt;
+&lt;/ul&gt;
 
-Melt 2 ½ Tablespoons butter in a skillet until sizzling. 
-Add mushrooms to butter and sauté five to eight minutes. Stir constantly and sauté until the mushrooms are just beginning to release water. 
+&lt;p&gt;Mix sliced mushrooms with:&lt;/p&gt;
 
-Add: 
-2 to 3 Tablespoons lemon juice 
-1 Tablespoon apple cider vinegar 
-2 Tablespoons chopped cilantro
+&lt;ul&gt;
+&lt;li&gt;4 Tablespoons olive oil&lt;/li&gt;
 
-Cook over high heat for about five minutes, stirring constantly. 
-Mound over toast and dribble pan juices over the top. 
-Garnish with a dash of chili powder or ground black pepper. 
-Serve immediately.
-</content>
+&lt;li&gt;4 Tablespoons chopped parsley&lt;/li&gt;
+
+&lt;li&gt;2 to 4 minced garlic cloves.&lt;/li&gt;
+
+&lt;li&gt;Salt and pepper to taste.&lt;/li&gt;
+
+&lt;li&gt;Set aside.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Melt 2 ½ Tablespoons butter in a skillet until sizzling.&lt;/p&gt;
+
+&lt;p&gt;Add mushrooms to butter and sauté five to eight minutes. Stir constantly and sauté until the mushrooms are just beginning to release water.&lt;/p&gt;
+
+&lt;p&gt;Add:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2 to 3 Tablespoons lemon juice&lt;/li&gt;
+
+&lt;li&gt;1 Tablespoon apple cider vinegar&lt;/li&gt;
+
+&lt;li&gt;2 Tablespoons chopped cilantro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cook over high heat for about five minutes, stirring constantly.&lt;/p&gt;
+
+&lt;p&gt;Mound over toast and dribble pan juices over the top.&lt;/p&gt;
+
+&lt;p&gt;Garnish with a dash of chili powder or ground black pepper.&lt;/p&gt;
+
+&lt;p&gt;Serve immediately.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2321,13 +2360,15 @@ Serve immediately.
    <link href="http://www.drtoast.com/2005/08/10/toast-burger.html"/>
    <updated>2005-08-10T03:04:50-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/toast-burger</id>
-   <content type="html">from Richard Purdie (RPURDIE@clear.co.nz)
+   <content type="html">&lt;p&gt;&lt;em&gt;from Richard Purdie (RPURDIE@clear.co.nz)&lt;/em&gt;&lt;/p&gt;
 
-Sesame Seed Buns
-Water
+&lt;ul&gt;
+&lt;li&gt;Sesame Seed Buns&lt;/li&gt;
 
-get two sesame seed buns. Grill and add lashings of butter. Get another bun, grill both sides to golden brown, sprinkle with salt and pepper and place between the other buns. Serve half cold in a paper bag , on a tray with a coke and fries. Smile a lot.
-</content>
+&lt;li&gt;Water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;get two sesame seed buns. Grill and add lashings of butter. Get another bun, grill both sides to golden brown, sprinkle with salt and pepper and place between the other buns. Serve half cold in a paper bag , on a tray with a coke and fries. Smile a lot.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2335,16 +2376,23 @@ get two sesame seed buns. Grill and add lashings of butter. Get another bun, gri
    <link href="http://www.drtoast.com/2005/08/10/toast-espresso.html"/>
    <updated>2005-08-10T03:04:25-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/toast-espresso</id>
-   <content type="html">from Richard Purdie (RPURDIE@clear.co.nz)
+   <content type="html">&lt;p&gt;&lt;em&gt;from Richard Purdie (RPURDIE@clear.co.nz)&lt;/em&gt;&lt;/p&gt;
 
-Toaster Crumbs
-Water
+&lt;ul&gt;
+&lt;li&gt;Toaster Crumbs&lt;/li&gt;
 
-1- empty all the delicious crumbs out of the bottom of the toaster.
-2- Place in the coffee perk or cappucino Machino
-3- process as per coffee.
-4- adjust to suit your taste. Yes!! For the toast afficionado, a delicious invigorating drink, the ultimate compliment to toast with toast spread.
-</content>
+&lt;li&gt;Water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;empty all the delicious crumbs out of the bottom of the toaster.&lt;/li&gt;
+
+&lt;li&gt;Place in the coffee perk or cappucino Machino&lt;/li&gt;
+
+&lt;li&gt;process as per coffee.&lt;/li&gt;
+
+&lt;li&gt;adjust to suit your taste. Yes!! For the toast afficionado, a delicious invigorating drink, the ultimate compliment to toast with toast spread.&lt;/li&gt;
+&lt;/ol&gt;</content>
  </entry>
  
  <entry>
@@ -2352,15 +2400,21 @@ Water
    <link href="http://www.drtoast.com/2005/08/10/toast-spread.html"/>
    <updated>2005-08-10T03:03:54-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/toast-spread</id>
-   <content type="html">from Richard Purdie (RPURDIE@clear.co.nz)
+   <content type="html">&lt;p&gt;&lt;em&gt;from Richard Purdie (RPURDIE@clear.co.nz)&lt;/em&gt;&lt;/p&gt;
 
-Toaster Crumbs
-Water
+&lt;ul&gt;
+&lt;li&gt;Toaster Crumbs&lt;/li&gt;
 
-1- empty all the delicious crumbs out of the bottom of the toaster.
-2- Blend with a little water in a food processor until you have a smooth golden paste.
-3- Presto!- a wonderful toast flavoured spread, the perfect topping for wonderful toast
-</content>
+&lt;li&gt;Water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;empty all the delicious crumbs out of the bottom of the toaster.&lt;/li&gt;
+
+&lt;li&gt;Blend with a little water in a food processor until you have a smooth golden paste.&lt;/li&gt;
+
+&lt;li&gt;Presto!- a wonderful toast flavoured spread, the perfect topping for wonderful toast&lt;/li&gt;
+&lt;/ol&gt;</content>
  </entry>
  
  <entry>
@@ -2368,14 +2422,15 @@ Water
    <link href="http://www.drtoast.com/2005/08/10/toast-frenzy.html"/>
    <updated>2005-08-10T03:03:29-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/toast-frenzy</id>
-   <content type="html">from BoJo31@aol.com
+   <content type="html">&lt;p&gt;&lt;em&gt;from BoJo31@aol.com&lt;/em&gt;&lt;/p&gt;
 
-ingredient:
+&lt;p&gt;ingredient:&lt;/p&gt;
 
-toast
+&lt;ul&gt;
+&lt;li&gt;toast&lt;/li&gt;
+&lt;/ul&gt;
 
-PUT TOAST IN YOUR MOUTH AND EAT IT AND THEN GET REALLY HAPPY AND WATCH SOME TV AND JUMP AROUND AND THEN GO IN A CIRCLE JUMPING AND THEN SIT DOWN AND THEN GO AROUND AGAIN AND THEN EAT SOME TOAST AND THEN JUMP MORE AND THEN BE ALL LIKE &quot;NO TOAST!&quot; AND THEN BE ALL LIKE &quot;YES TOAST!&quot; AND EAT SOME TOAST AND JUMP AROUND AND SMASH YOUR TOASTER.
-</content>
+&lt;p&gt;PUT TOAST IN YOUR MOUTH AND EAT IT AND THEN GET REALLY HAPPY AND WATCH SOME TV AND JUMP AROUND AND THEN GO IN A CIRCLE JUMPING AND THEN SIT DOWN AND THEN GO AROUND AGAIN AND THEN EAT SOME TOAST AND THEN JUMP MORE AND THEN BE ALL LIKE &amp;#8220;NO TOAST!&amp;#8221; AND THEN BE ALL LIKE &amp;#8220;YES TOAST!&amp;#8221; AND EAT SOME TOAST AND JUMP AROUND AND SMASH YOUR TOASTER.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2383,28 +2438,31 @@ PUT TOAST IN YOUR MOUTH AND EAT IT AND THEN GET REALLY HAPPY AND WATCH SOME TV A
    <link href="http://www.drtoast.com/2005/08/10/toast-sandwich.html"/>
    <updated>2005-08-10T03:03:01-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/toast-sandwich</id>
-   <content type="html">from Colin Panisset (Colin.Panisset@Sun.COM)
+   <content type="html">&lt;p&gt;&lt;em&gt;from Colin Panisset (Colin.Panisset@Sun.COM)&lt;/em&gt;&lt;/p&gt;
 
-I've got another recipe for you. This one comes from &quot;Mrs. Beaton's Book of Household Management&quot;, which dates from sometime in the 19th century, I think.
+&lt;p&gt;I&amp;#8217;ve got another recipe for you. This one comes from &amp;#8220;Mrs. Beaton&amp;#8217;s Book of Household Management&amp;#8221;, which dates from sometime in the 19th century, I think.&lt;/p&gt;
 
----- Begin ----
+&lt;p&gt;&amp;#8212;- Begin &amp;#8212;-&lt;/p&gt;
 
-Toast Sandwich
+&lt;p&gt;Toast Sandwich&lt;/p&gt;
 
-Ingredients:
+&lt;p&gt;Ingredients:&lt;/p&gt;
 
-2 thick slices soft white bread
-1 thin slice slightly stale bread
-salt and pepper
+&lt;ul&gt;
+&lt;li&gt;2 thick slices soft white bread&lt;/li&gt;
 
-Method:
+&lt;li&gt;1 thin slice slightly stale bread&lt;/li&gt;
 
-Toast the thin slice to an even golden brown on both sides. Place it between the two thick slices and season with salt and pepper to taste. Serves 1.
+&lt;li&gt;salt and pepper&lt;/li&gt;
+&lt;/ul&gt;
 
----- End ----
+&lt;p&gt;Method:&lt;/p&gt;
 
-Bizarrely, this actually tastes pretty good.
-</content>
+&lt;p&gt;Toast the thin slice to an even golden brown on both sides. Place it between the two thick slices and season with salt and pepper to taste. Serves 1.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;- End &amp;#8212;-&lt;/p&gt;
+
+&lt;p&gt;Bizarrely, this actually tastes pretty good.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2412,24 +2470,27 @@ Bizarrely, this actually tastes pretty good.
    <link href="http://www.drtoast.com/2005/08/10/surrealistic-toast.html"/>
    <updated>2005-08-10T03:02:01-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/surrealistic-toast</id>
-   <content type="html">from Tom Becker
+   <content type="html">&lt;p&gt;&lt;em&gt;from Tom Becker&lt;/em&gt;&lt;/p&gt;
 
-Ingredients:
+&lt;p&gt;Ingredients:&lt;/p&gt;
 
-Bread 
-Old fur coat 
-Toaster 
-Butter knife 
-Needle and thread 
+&lt;ul&gt;
+&lt;li&gt;Bread&lt;/li&gt;
 
-Don't try to do this without an art degree!
+&lt;li&gt;Old fur coat&lt;/li&gt;
 
-Toast the bread
-Split the toast with the knife
-Sew the fur into the toast
+&lt;li&gt;Toaster&lt;/li&gt;
 
-Admire
-</content>
+&lt;li&gt;Butter knife&lt;/li&gt;
+
+&lt;li&gt;Needle and thread&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don&amp;#8217;t try to do this without an art degree!&lt;/p&gt;
+
+&lt;p&gt;Toast the bread&lt;br /&gt; Split the toast with the knife&lt;br /&gt; Sew the fur into the toast&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Admire&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2593,21 +2654,29 @@ Admire
    <link href="http://www.drtoast.com/2005/08/10/rabanadas-portuguese-fried-toast.html"/>
    <updated>2005-08-10T02:57:13-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/rabanadas-portuguese-fried-toast</id>
-   <content type="html">from The Internet Chef
+   <content type="html">&lt;p&gt;&lt;em&gt;from The Internet Chef&lt;/em&gt;&lt;/p&gt;
 
-1 tb Sugar 
-1/2 cup Warm milk 
-1/4 cup Rum 
-8 slices White bread from square loaf 
-2 Eggs, beaten 
-1/2 Stick butter 
-Confectioner's sugar 
-Ground cinnamon 
+&lt;ul&gt;
+&lt;li&gt;1 tb Sugar&lt;/li&gt;
 
-Mix first 3 ingredients. Soak bread in this mixture. &quot;Now lift each slice carefully with a wide spatula and dip in beaten egg to cover both sides. Carefully transfer each slice to a frying-pan in which plenty of butter is quietly sizzling. Fry golden-brown on both sides. Sprinkle with sugar and cinnamon.&quot;
+&lt;li&gt;1/2 cup Warm milk&lt;/li&gt;
 
-Yield: 4 servings
-</content>
+&lt;li&gt;1/4 cup Rum&lt;/li&gt;
+
+&lt;li&gt;8 slices White bread from square loaf&lt;/li&gt;
+
+&lt;li&gt;2 Eggs, beaten&lt;/li&gt;
+
+&lt;li&gt;1/2 Stick butter&lt;/li&gt;
+
+&lt;li&gt;Confectioner&amp;#8217;s sugar&lt;/li&gt;
+
+&lt;li&gt;Ground cinnamon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mix first 3 ingredients. Soak bread in this mixture. &amp;#8220;Now lift each slice carefully with a wide spatula and dip in beaten egg to cover both sides. Carefully transfer each slice to a frying-pan in which plenty of butter is quietly sizzling. Fry golden-brown on both sides. Sprinkle with sugar and cinnamon.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Yield: 4 servings&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2615,18 +2684,23 @@ Yield: 4 servings
    <link href="http://www.drtoast.com/2005/08/10/paul-and-jacuelines-cheese-on-toast.html"/>
    <updated>2005-08-10T02:55:20-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/paul-and-jacuelines-cheese-on-toast</id>
-   <content type="html">**Paul.Cox@camcon.co.uk**
+   <content type="html">&lt;p&gt;&lt;em&gt;Paul.Cox@camcon.co.uk&lt;/em&gt;&lt;/p&gt;
 
-* Bread
-* Cheddar Cheese
-* Tomato Puree
-* Dried Mixed Herbs
-* Olives
+&lt;ul&gt;
+&lt;li&gt;Bread&lt;/li&gt;
 
-Toast bread on one side. Turn over and put a swirl of tomato puree on each slice. Cover with slices of cheese, sprinkle with dried herbs and place a few olives on each slice. Be careful the olives don't roll off!
+&lt;li&gt;Cheddar Cheese&lt;/li&gt;
 
-Grill until the cheese bubbles. Eat.
-</content>
+&lt;li&gt;Tomato Puree&lt;/li&gt;
+
+&lt;li&gt;Dried Mixed Herbs&lt;/li&gt;
+
+&lt;li&gt;Olives&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Toast bread on one side. Turn over and put a swirl of tomato puree on each slice. Cover with slices of cheese, sprinkle with dried herbs and place a few olives on each slice. Be careful the olives don&amp;#8217;t roll off!&lt;/p&gt;
+
+&lt;p&gt;Grill until the cheese bubbles. Eat.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2634,7 +2708,7 @@ Grill until the cheese bubbles. Eat.
    <link href="http://www.drtoast.com/2005/08/10/grilled-cheese-and-onion-toast.html"/>
    <updated>2005-08-10T02:54:39-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/grilled-cheese-and-onion-toast</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;mark@inmind.com&lt;/strong&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;mark@inmind.com&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;finely chopped onion&lt;/li&gt;
@@ -2652,18 +2726,25 @@ Grill until the cheese bubbles. Eat.
    <link href="http://www.drtoast.com/2005/08/10/spicy-cheese-toast.html"/>
    <updated>2005-08-10T02:54:13-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/spicy-cheese-toast</id>
-   <content type="html">Anoma Ranatunga
+   <content type="html">&lt;p&gt;&lt;em&gt;Anoma Ranatunga&lt;/em&gt;&lt;/p&gt;
 
-8 oz chedder cheese grated 
-1 oz butter 
-1 tbsp mustard 
-Salt and Pepper 
-1 tbsp vinegar 
-Toast 
-Pepper 
+&lt;ul&gt;
+&lt;li&gt;8 oz chedder cheese grated&lt;/li&gt;
 
-Put cheese, butter, mustard, seasoning and vinegar in a heavy based pan and heat very gently until creamy. Spoon onto the toast and sprinkle over the pepper. Brown under a hot grill. Serve as a tasty snack or supper dish.
-</content>
+&lt;li&gt;1 oz butter&lt;/li&gt;
+
+&lt;li&gt;1 tbsp mustard&lt;/li&gt;
+
+&lt;li&gt;Salt and Pepper&lt;/li&gt;
+
+&lt;li&gt;1 tbsp vinegar&lt;/li&gt;
+
+&lt;li&gt;Toast&lt;/li&gt;
+
+&lt;li&gt;Pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Put cheese, butter, mustard, seasoning and vinegar in a heavy based pan and heat very gently until creamy. Spoon onto the toast and sprinkle over the pepper. Brown under a hot grill. Serve as a tasty snack or supper dish.&lt;/p&gt;</content>
  </entry>
  
  <entry>

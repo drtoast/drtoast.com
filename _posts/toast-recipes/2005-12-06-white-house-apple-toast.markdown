@@ -9,7 +9,7 @@ categories:
 ---
 Apple Toast
 
-Source: White House Cookbook: A Selection of Original Recipes During a Period of 40 years, 1887 (recipe abbreviated)
+from "White House Cookbook: A Selection of Original Recipes During a Period of 40 years," 1887 (recipe abbreviated)
 
 * Six apples
 * 1 ounce butter

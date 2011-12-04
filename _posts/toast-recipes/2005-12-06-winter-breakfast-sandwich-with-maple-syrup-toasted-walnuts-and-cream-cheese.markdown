@@ -11,7 +11,7 @@ Winter Breakfast Sandwich with Maple Syrup, Toasted Walnuts, and Cream Cheese
 
 Serves 4 to 6
 
-*by Jesse Ziff Cool from "Toast - 60 Ways to Butter Your Bread &amp; Then
+*by Jesse Ziff Cool from "Toast - 60 Ways to Butter Your Bread & Then
 Some"*
 
 * 2/3 cup (about 3 ounces) coarsely chopped walnuts

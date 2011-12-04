@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="post">
   <h3 class='entry-title'>{{ page.title }}</h3>
-  <span class='entry-meta'>posted {{ page.date | date: "%B %-d, %Y" }}</span>
+  <span class='entry-meta'>posted {{ page.date | date: "%B %-d, %Y" }} | {{ page.categories | category_links }}</span>
   <p>{{ content }}</p>
 </div>
 

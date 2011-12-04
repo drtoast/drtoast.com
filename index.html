@@ -7,7 +7,7 @@ title: Dr. Toast
   {% for post in paginator.posts %}
     <div class='entry'>
       <h3 class='entry-title'><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <span class='entry-meta'>posted {{ post.date | date: "%B %-d, %Y" }}</span>
+      <span class='entry-meta'>posted {{ post.date | date: "%B %-d, %Y" }} | {{ post.categories | category_links }}</span>
       <p>{{ post.content }}</p>
     </div>
   {% endfor %}
