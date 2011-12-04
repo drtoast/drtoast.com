@@ -7,7 +7,7 @@ date: 2005-08-10 03:03:01.000000000 -07:00
 categories:
 - toast-recipes
 ---
-from Colin Panisset (Colin.Panisset@Sun.COM)
+*from Colin Panisset (Colin.Panisset@Sun.COM)*
 
 I've got another recipe for you. This one comes from "Mrs. Beaton's Book of Household Management", which dates from sometime in the 19th century, I think.
 
@@ -17,9 +17,9 @@ Toast Sandwich
 
 Ingredients:
 
-2 thick slices soft white bread
-1 thin slice slightly stale bread
-salt and pepper
+* 2 thick slices soft white bread
+* 1 thin slice slightly stale bread
+* salt and pepper
 
 Method:
 

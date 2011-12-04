@@ -4,7 +4,7 @@
  <title>Dr. Toast</title>
  <link href="http://www.drtoast.com/atom.xml" rel="self"/>
  <link href="http://www.drtoast.com/"/>
- <updated>2011-12-02T22:58:17-08:00</updated>
+ <updated>2011-12-03T16:18:44-08:00</updated>
  <id>http://www.drtoast.com/</id>
  <author>
    <name>Dr. Toast</name>
@@ -423,14 +423,21 @@ This 4-track EP is the companion to &quot;Gravity is Quiet,&quot; and represents
    <link href="http://www.drtoast.com/2010/01/03/easy-peasy-spicy-beansy-toast.html"/>
    <updated>2010-01-03T19:34:40-08:00</updated>
    <id>http://www.drtoast.com/2010/01/03/easy-peasy-spicy-beansy-toast</id>
-   <content type="html">&lt;p&gt;This recipe was submitted by reader Deano from the UK:&lt;/p&gt;Half a can of baked beans&lt;br /&gt;
-two slices of bread&lt;br /&gt;
-teaspoon of chili powder&lt;br /&gt;
-almost a handful of grated cheese&lt;br /&gt;
-butter&lt;br /&gt;
-&lt;br /&gt;
-Mix the beans, cheese and chili powder together and microwave, simultaneously toast the bread. When all is ready butter the toast and cut in half in triangle shapes. Pour cheesy spicy bean mixture into the center of the plate and put the toast on the outside. Enjoy!
-</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;This recipe was submitted by reader Deano from the UK:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Half a can of baked beans&lt;/li&gt;
+
+&lt;li&gt;two slices of bread&lt;/li&gt;
+
+&lt;li&gt;teaspoon of chili powder&lt;/li&gt;
+
+&lt;li&gt;almost a handful of grated cheese&lt;/li&gt;
+
+&lt;li&gt;butter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mix the beans, cheese and chili powder together and microwave, simultaneously toast the bread. When all is ready butter the toast and cut in half in triangle shapes. Pour cheesy spicy bean mixture into the center of the plate and put the toast on the outside. Enjoy!&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -1444,20 +1451,33 @@ From hot buttered toast&lt;br&gt;
    <link href="http://www.drtoast.com/2007/07/24/the-best-cinnamon-toast.html"/>
    <updated>2007-07-24T20:40:05-07:00</updated>
    <id>http://www.drtoast.com/2007/07/24/the-best-cinnamon-toast</id>
-   <content type="html">From &lt;a href=&quot;http://www.dallasnews.com/sharedcontent/dws/fea/taste/easyrecipes/stories/DN-NSL_Savor_0528liv.ART.State.Edition1.9074d46.html&quot; title=&quot;Cinnamon Toast&quot; target=&quot;_blank&quot;&gt;Kim Pierce&lt;/a&gt;
+   <content type="html">&lt;p&gt;
+From &lt;a href=&quot;http://www.dallasnews.com/sharedcontent/dws/fea/taste/easyrecipes/stories/DN-NSL_Savor_0528liv.ART.State.Edition1.9074d46.html&quot; title=&quot;Cinnamon Toast&quot; target=&quot;_blank&quot;&gt;Kim Pierce&lt;/a&gt;
+&lt;/p&gt;
 
+&lt;p&gt;
 Ingredients:
+&lt;/p&gt;
 
-Salted butter
-Sourdough bread slices
-Vietnamese cinnamon (sometimes called Saigon cinnamon)
-Turbinado or demerara sugar
+&lt;ul&gt;
+  &lt;li&gt;Salted butter
+  &lt;li&gt;Sourdough bread slices
+  &lt;li&gt;Vietnamese cinnamon (sometimes called Saigon cinnamon)
+  &lt;li&gt;Turbinado or demerara sugar
+&lt;/ul&gt;
 
+&lt;p&gt;
 Preheat the oven broiler. Microwave the butter on High (100 percent power) just long enough to soften, but not melt; a stick takes 15 to 20 seconds. Smear the butter on one side of each piece of bread; you need only a thin coating, or alternating thin-thick dabs.
+&lt;/p&gt;
 
+&lt;p&gt;
 Dust with cinnamon, preferably in a mottled pattern, rather than evenly. Finish by layering the sugar on top, about ½ to 1 tablespoon, depending on the size of the bread slice. Place under the hot broiler. Remove when the tops are sizzling and the edges of the crust are one step away from burning. Serve with Mexican hot chocolate.
+&lt;/p&gt;
 
+&lt;p&gt;
 &lt;strong&gt;Note:&lt;/strong&gt; If you're a toast purist, toast the bottom sides before buttering and seasoning the tops.
+&lt;/p&gt;
+
 &lt;p align=&quot;center&quot;&gt; &lt;a href=&quot;http://www.dallasnews.com/sharedcontent/dws/fea/taste/easyrecipes/stories/DN-NSL_Savor_0528liv.ART.State.Edition1.9074d46.html&quot; title=&quot;Cinnamon Toast&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/uploads/2007/07/cinnamon_toast_small.jpg&quot; alt=&quot;cinnamon_toast_small.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -1933,27 +1953,33 @@ In a medium saucepan over medium heat, combine the beans and their juices, onion
    <link href="http://www.drtoast.com/2005/08/17/hyderabadi-toast.html"/>
    <updated>2005-08-17T18:27:37-07:00</updated>
    <id>http://www.drtoast.com/2005/08/17/hyderabadi-toast</id>
-   <content type="html">by &lt;a href=&quot;http://www.indiaparenting.com/sil/recipetext34.shtml&quot;&gt;Smita Mehta&lt;/a&gt;
+   <content type="html">&lt;p&gt;by &lt;a href='http://www.indiaparenting.com/sil/recipetext34.shtml'&gt;Smita Mehta&lt;/a&gt;&lt;/p&gt;
 
-SIL Red Chilli Villi Sauce  
-Bread 
-Potatoes 
-Spices 
-Oil for frying 
-Coriander 
-Sev  
- 
-First cut the bread in two halves and fry them in oil.
-Smash the potatoes. Add some salt and red chili powder to taste. 
+&lt;ul&gt;
+&lt;li&gt;SIL Red Chilli Villi Sauce&lt;/li&gt;
 
-Apply it on the bread.
+&lt;li&gt;Bread&lt;/li&gt;
 
-Put some Sil red chilli villi sauce. 
+&lt;li&gt;Potatoes&lt;/li&gt;
 
-Garnish it with sev and coriander. 
+&lt;li&gt;Spices&lt;/li&gt;
 
-PREPARATION TIME: 30 Minutes
-</content>
+&lt;li&gt;Oil for frying&lt;/li&gt;
+
+&lt;li&gt;Coriander&lt;/li&gt;
+
+&lt;li&gt;Sev&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First cut the bread in two halves and fry them in oil. Smash the potatoes. Add some salt and red chili powder to taste.&lt;/p&gt;
+
+&lt;p&gt;Apply it on the bread.&lt;/p&gt;
+
+&lt;p&gt;Put some Sil red chilli villi sauce.&lt;/p&gt;
+
+&lt;p&gt;Garnish it with sev and coriander.&lt;/p&gt;
+
+&lt;p&gt;PREPARATION TIME: 30 Minutes&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2411,42 +2437,35 @@ Admire
    <link href="http://www.drtoast.com/2005/08/10/creamed-eggs-on-toast.html"/>
    <updated>2005-08-10T03:01:26-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/creamed-eggs-on-toast</id>
-   <content type="html">from Inn at the Pass
-Pass Christian, Mississippi
+   <content type="html">&lt;p&gt;&lt;em&gt;from Inn at the Pass&lt;/em&gt;&lt;br /&gt; &lt;em&gt;Pass Christian, Mississippi&lt;/em&gt;&lt;/p&gt;
 
-Ingredients:
-6 hard-boiled eggs
-2 cups well-seasoned white sauce
-Sauce: (for 1 cup)
-2 Tablespoons butter
-2 Tablespoons flour
-1/4 teaspoon salt
-1/4 teaspoon white pepper
-1 cup milk 
+&lt;p&gt;Ingredients:&lt;/p&gt;
 
-Melt butter over low heat. Blend in flour and seasonings. Cook, stirring until mixture is smooth and bubbly. Remove from heat. Stir in milk. Cook until thickened. Boil 1 minute.
+&lt;ul&gt;
+&lt;li&gt;6 hard-boiled eggs&lt;/li&gt;
 
-Cut eggs in quarters. Add to white sauce. Serve over hot buttered toast. Sprinkle with paprika. Garnish with parsley sprigs and crisp bacon.
+&lt;li&gt;2 cups well-seasoned white sauce&lt;/li&gt;
+&lt;/ul&gt;
 
-Serve with banana bread!
-</content>
- </entry>
- 
- <entry>
-   <title>Beans on Toast</title>
-   <link href="http://www.drtoast.com/2005/08/10/beans-on-toast.html"/>
-   <updated>2005-08-10T03:00:34-07:00</updated>
-   <id>http://www.drtoast.com/2005/08/10/beans-on-toast</id>
-   <content type="html">from Mark Evans (MEvans@tradingedge.com)
+&lt;p&gt;Sauce: (for 1 cup)&lt;/p&gt;
 
-How can you have a toast site and not have a beans on toast recipe?!?!?
+&lt;ul&gt;
+&lt;li&gt;2 Tablespoons butter&lt;/li&gt;
 
-Two slices Toast
-Butter
-Baked Beans
+&lt;li&gt;2 Tablespoons flour&lt;/li&gt;
 
-Toast bread, butter bread, ladle 1 scoop of beans per slice of toast. Excellent!
-</content>
+&lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
+
+&lt;li&gt;1/4 teaspoon white pepper&lt;/li&gt;
+
+&lt;li&gt;1 cup milk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Melt butter over low heat. Blend in flour and seasonings. Cook, stirring until mixture is smooth and bubbly. Remove from heat. Stir in milk. Cook until thickened. Boil 1 minute.&lt;/p&gt;
+
+&lt;p&gt;Cut eggs in quarters. Add to white sauce. Serve over hot buttered toast. Sprinkle with paprika. Garnish with parsley sprigs and crisp bacon.&lt;/p&gt;
+
+&lt;p&gt;Serve with banana bread!&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2454,19 +2473,27 @@ Toast bread, butter bread, ladle 1 scoop of beans per slice of toast. Excellent!
    <link href="http://www.drtoast.com/2005/08/10/garlic-toast-with-tomatoes.html"/>
    <updated>2005-08-10T02:59:54-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/garlic-toast-with-tomatoes</id>
-   <content type="html">from Malin
+   <content type="html">&lt;p&gt;&lt;em&gt;from Malin&lt;/em&gt;&lt;/p&gt;
 
-one baguette cut into 1/2-inch slices
-olive oil
-fresh herbs to your liking (basil, thyme, oregano, and cilantro work great)
-1-3 garlic cloves 
-4 or 5 cups diced tomatoes
-2 or 3 cups diced onions
-for extra spice, one jalapeno, finely chopped
-salt and pepper
+&lt;ul&gt;
+&lt;li&gt;one baguette cut into 1/2-inch slices&lt;/li&gt;
 
-Drizzle olive oil on a cookie sheet, and rub the baguette slices on both sides. Peel garlic clove(s) and rub each slice with the garlic. Then set on cookie sheet and bake until golden brown and crispy (about 10 minutes). Combine remainder of ingredients in a bowl. Mix well. Scoop tomato mixture onto each toast slice, drizzle with a few more splashes of olive oil, and voila. You're good to go.
-</content>
+&lt;li&gt;olive oil&lt;/li&gt;
+
+&lt;li&gt;fresh herbs to your liking (basil, thyme, oregano, and cilantro work great)&lt;/li&gt;
+
+&lt;li&gt;1-3 garlic cloves&lt;/li&gt;
+
+&lt;li&gt;4 or 5 cups diced tomatoes&lt;/li&gt;
+
+&lt;li&gt;2 or 3 cups diced onions&lt;/li&gt;
+
+&lt;li&gt;for extra spice, one jalapeno, finely chopped&lt;/li&gt;
+
+&lt;li&gt;salt and pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Drizzle olive oil on a cookie sheet, and rub the baguette slices on both sides. Peel garlic clove(s) and rub each slice with the garlic. Then set on cookie sheet and bake until golden brown and crispy (about 10 minutes). Combine remainder of ingredients in a bowl. Mix well. Scoop tomato mixture onto each toast slice, drizzle with a few more splashes of olive oil, and voila. You&amp;#8217;re good to go.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2474,20 +2501,29 @@ Drizzle olive oil on a cookie sheet, and rub the baguette slices on both sides. 
    <link href="http://www.drtoast.com/2005/08/10/asparagus-toast.html"/>
    <updated>2005-08-10T02:58:59-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/asparagus-toast</id>
-   <content type="html">jackilope@aol.com (edited by Dr. T)
+   <content type="html">&lt;p&gt;&lt;em&gt;jackilope@aol.com (edited by Dr. T)&lt;/em&gt;&lt;/p&gt;
 
-White Sauce for Asparagus:
-asparagus
-1/4 cup butter
-2 Tbsp. chopped onion 
-2 cups sliced fresh mushrooms
-1/4 cup flour
-1 cup milk
-1 cup light sour cream
-Toast
+&lt;p&gt;White Sauce for Asparagus:&lt;/p&gt;
 
-Steam asparagus in microwave or steamer. Melt butter in non-stick skillet and add chopped onion. Saute it a bit. Add sliced fresh mushrooms. In a separate container, mix flour and milk until there are no lumps. Place in skillet to thicken. Add light sour cream and heat through. Place steamed asparagus on toast and pour sauce on top. Sprinkle some cheddar cheese on top, if desired.
-</content>
+&lt;ul&gt;
+&lt;li&gt;asparagus&lt;/li&gt;
+
+&lt;li&gt;1/4 cup butter&lt;/li&gt;
+
+&lt;li&gt;2 Tbsp. chopped onion&lt;/li&gt;
+
+&lt;li&gt;2 cups sliced fresh mushrooms&lt;/li&gt;
+
+&lt;li&gt;1/4 cup flour&lt;/li&gt;
+
+&lt;li&gt;1 cup milk&lt;/li&gt;
+
+&lt;li&gt;1 cup light sour cream&lt;/li&gt;
+
+&lt;li&gt;Toast&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steam asparagus in microwave or steamer. Melt butter in non-stick skillet and add chopped onion. Saute it a bit. Add sliced fresh mushrooms. In a separate container, mix flour and milk until there are no lumps. Place in skillet to thicken. Add light sour cream and heat through. Place steamed asparagus on toast and pour sauce on top. Sprinkle some cheddar cheese on top, if desired.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2495,15 +2531,19 @@ Steam asparagus in microwave or steamer. Melt butter in non-stick skillet and ad
    <link href="http://www.drtoast.com/2005/08/10/cucumber-toast.html"/>
    <updated>2005-08-10T02:58:29-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/cucumber-toast</id>
-   <content type="html">From &quot;The Thorough Good Cook&quot; by George Augustus Sala, 1896
+   <content type="html">&lt;p&gt;&lt;em&gt;From &amp;#8220;The Thorough Good Cook&amp;#8221; by George Augustus Sala, 1896&lt;/em&gt;&lt;/p&gt;
 
-Cucumber
-3 egg yolks
-1 beaten egg
-Bread Crumbs
+&lt;ul&gt;
+&lt;li&gt;Cucumber&lt;/li&gt;
 
-Make a ragout of cucumbers well thickened ; add to it the yolks of three eggs, dress them upon crumbs of bread, draw over the whole a knife dipped in a beaten egg; cover with grated bread and then fry.
-</content>
+&lt;li&gt;3 egg yolks&lt;/li&gt;
+
+&lt;li&gt;1 beaten egg&lt;/li&gt;
+
+&lt;li&gt;Bread Crumbs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Make a ragout of cucumbers well thickened ; add to it the yolks of three eggs, dress them upon crumbs of bread, draw over the whole a knife dipped in a beaten egg; cover with grated bread and then fry.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2575,13 +2615,13 @@ Yield: 4 servings
    <link href="http://www.drtoast.com/2005/08/10/paul-and-jacuelines-cheese-on-toast.html"/>
    <updated>2005-08-10T02:55:20-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/paul-and-jacuelines-cheese-on-toast</id>
-   <content type="html">Paul.Cox@camcon.co.uk 
+   <content type="html">**Paul.Cox@camcon.co.uk**
 
-Bread
-Cheddar Cheese
-Tomato Puree
-Dried Mixed Herbs
-Olives
+* Bread
+* Cheddar Cheese
+* Tomato Puree
+* Dried Mixed Herbs
+* Olives
 
 Toast bread on one side. Turn over and put a swirl of tomato puree on each slice. Cover with slices of cheese, sprinkle with dried herbs and place a few olives on each slice. Be careful the olives don't roll off!
 
@@ -2594,14 +2634,17 @@ Grill until the cheese bubbles. Eat.
    <link href="http://www.drtoast.com/2005/08/10/grilled-cheese-and-onion-toast.html"/>
    <updated>2005-08-10T02:54:39-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/grilled-cheese-and-onion-toast</id>
-   <content type="html">mark@inmind.com
+   <content type="html">&lt;p&gt;&lt;strong&gt;mark@inmind.com&lt;/strong&gt;&lt;/p&gt;
 
-finely chopped onion
-grated cheddar cheese
-four slices of bread
+&lt;ul&gt;
+&lt;li&gt;finely chopped onion&lt;/li&gt;
 
-Prepare finely chopped onion and grated cheddar cheese. Lightly toast four slices (nos optional) in the small oven. Sprinkle the grated cheese and the finely chopped onion on the toast and place it in a small oven until the cheese melts with the browning of the onion.
-</content>
+&lt;li&gt;grated cheddar cheese&lt;/li&gt;
+
+&lt;li&gt;four slices of bread&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Prepare finely chopped onion and grated cheddar cheese. Lightly toast four slices (nos optional) in the small oven. Sprinkle the grated cheese and the finely chopped onion on the toast and place it in a small oven until the cheese melts with the browning of the onion.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2837,18 +2880,21 @@ Elvis on my plate&lt;br&gt;
    <link href="http://www.drtoast.com/2005/08/10/classic-toast.html"/>
    <updated>2005-08-10T02:17:58-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/classic-toast</id>
-   <content type="html">&lt;em&gt;from the Heuristic Squelch&lt;/em&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;from the Heuristic Squelch&lt;/em&gt;&lt;/p&gt;
 
-Ingredients:
+&lt;p&gt;Ingredients:&lt;/p&gt;
 
-Bread (white or wheat)
-butter or margarine
-jam or jelly
+&lt;ul&gt;
+&lt;li&gt;Bread (white or wheat)&lt;/li&gt;
 
-Place 1 slice bread in toaster. Push lever down. When toast begins to rise, carefully remove from toaster. Lightly whip butter. Spread favorite toppings with broad, even knife strokes.
+&lt;li&gt;butter or margarine&lt;/li&gt;
 
-Makes 1 serving.
-</content>
+&lt;li&gt;jam or jelly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Place 1 slice bread in toaster. Push lever down. When toast begins to rise, carefully remove from toaster. Lightly whip butter. Spread favorite toppings with broad, even knife strokes.&lt;/p&gt;
+
+&lt;p&gt;Makes 1 serving.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -2909,6 +2955,35 @@ But toast will suffice&lt;br&gt;
 In mankind's world of bloodshed&lt;br&gt;
 Spread some marmalade&lt;br&gt;
 </content>
+ </entry>
+ 
+ <entry>
+   <title>Beans On Toast</title>
+   <link href="http://www.drtoast.com/2005/08/10/beans-on-toast.html"/>
+   <updated>2005-08-10T00:00:00-07:00</updated>
+   <id>http://www.drtoast.com/2005/08/10/beans-on-toast</id>
+   <content type="html">&lt;hr /&gt;
+&lt;p&gt;layout: post title: Beans on Toast wordpress_id: 54 wordpress_url: http://www.drtoast.com/crumbs/54 date: 2005-08-10 03:00:34.000000000 -07:00 categories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id='toastrecipes'&gt;toast-recipes&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;from Mark Evans (MEvans@tradingedge.com)&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How can you have a toast site and not have a beans on toast recipe?!?!?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two slices Toast&lt;/li&gt;
+
+&lt;li&gt;Butter&lt;/li&gt;
+
+&lt;li&gt;Baked Beans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Toast bread, butter bread, ladle 1 scoop of beans per slice of toast. Excellent!&lt;/p&gt;</content>
  </entry>
  
  <entry>

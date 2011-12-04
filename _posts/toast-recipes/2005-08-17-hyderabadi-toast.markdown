@@ -7,15 +7,15 @@ date: 2005-08-17 18:27:37.000000000 -07:00
 categories:
 - toast-recipes
 ---
-by <a href="http://www.indiaparenting.com/sil/recipetext34.shtml">Smita Mehta</a>
+*by [Smita Mehta](http://www.indiaparenting.com/sil/recipetext34.shtml)*
 
-SIL Red Chilli Villi Sauce  
-Bread 
-Potatoes 
-Spices 
-Oil for frying 
-Coriander 
-Sev  
+* SIL Red Chilli Villi Sauce
+* Bread 
+* Potatoes 
+* Spices 
+* Oil for frying 
+* Coriander 
+* Sev  
  
 First cut the bread in two halves and fry them in oil.
 Smash the potatoes. Add some salt and red chili powder to taste. 
