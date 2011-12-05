@@ -1,7 +1,8 @@
 pygments:    false
 markdown:    maruku
 permalink:   /:year/:month/:day/:title.html
-paginate:   10
+multiviews:  true
+paginate:    10
 
 # plugins
 category_dir: departments
