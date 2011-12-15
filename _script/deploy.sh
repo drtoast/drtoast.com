@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rsync -avz _site/ drtoast@drtoast.com:drtoast.com
+rsync -avz --delete _site/ drtoast@drtoast.com:drtoast.com
