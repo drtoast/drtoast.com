@@ -69,6 +69,7 @@ class ToastHaiku
       {
         'layout' => 'post',
         'title' => @title,
+        'date' => @date,
         'categories' => @categories
       }
     end

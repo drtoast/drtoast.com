@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dr. Toast Live @ Ganucheau's "Elements" Release Party
+date: 2012-02-20 19:28:33.000000000 -08:00
 categories:
 - shows
 - music
