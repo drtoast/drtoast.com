@@ -177,7 +177,7 @@ ul {
 
 /* IMAGES */
 
-.aligncenter {
+img[alt=flyer], .aligncenter {
   clear: both;
   display: block;
   margin-left: auto;

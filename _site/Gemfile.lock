@@ -19,7 +19,11 @@ GEM
       fast-stemmer (>= 1.0.0)
     directory_watcher (1.4.1)
     fast-stemmer (1.0.0)
+<<<<<<< HEAD
     kramdown (0.13.4)
+=======
+    kramdown (0.13.5)
+>>>>>>> new post
     liquid (2.3.0)
     maruku (0.6.0)
       syntax (>= 1.0.0)

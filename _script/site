@@ -1,0 +1,144 @@
+#!/usr/bin/env ruby
+
+=begin
+
+USAGE:
+
+cd drtoast.com
+
+_script/site post 'Some New Post'
+..edit post..
+_script/site server
+_script/site preview
+_script/site commit
+_script/site deploy
+
+=end
+
+require 'fileutils'
+require 'yaml'
+
+class ToastHaiku
+
+  DEPLOY_TO = "drtoast@drtoast.com:drtoast.com"
+
+  class Post
+    def initialize(options)
+      @title =      options[:title]
+      @categories = options[:categories]
+      @tags =       options[:tags]
+      @date =       options[:date] || Time.now.localtime
+      @event_date = options[:event_date] || @date
+    end
+
+    def save_show_post
+      puts "creating #{post_path}"
+      File.open(post_path, "w") do |f|
+
+        content = [
+          front_matter.to_yaml,
+          '---',
+          '',
+          "**" + @event_date.strftime("%A, %B %d, %Y, %H:%M%P") + "** - ",
+          '\[[info][], [facebook][], [tickets][]\]',
+          '',
+          "![flyer](/#{image_path})",
+          '',
+          '[info]: http://',
+          '[tickets]: http://',
+          '[facebook]: http://'
+        ]
+
+        content.each do |l|
+          f.puts l
+        end
+
+      end
+      ToastHaiku.run "subl #{post_path}"
+    end
+
+    def save_image
+      puts "creating #{image_dir}"
+      FileUtils.mkdir_p image_dir
+      ToastHaiku.run "open #{image_dir}"
+    end
+
+  private
+
+    def front_matter
+      {
+        'layout' => 'post',
+        'title' => @title,
+        'categories' => @categories
+      }
+    end
+
+    def slug
+      value = @title.gsub(/[^\x00-\x7F]/n, '').to_s
+      value.gsub!(/[']+/, '')
+      value.gsub!(/\W+/, ' ')
+      value.strip!
+      value.downcase!
+      value.gsub!(' ', '-')
+    end
+
+    def image_path
+      "#{image_dir}/#{slug}.jpg"
+    end
+
+    def image_dir
+      sprintf("uploads/%04d/%02d", @date.year, @date.month)
+    end
+
+    def post_path
+      sprintf("_posts/%s/%04d-%02d-%02d-%s.markdown", @categories[0], @date.year, @date.month, @date.day, slug)
+    end
+
+  end
+
+  def self.server
+    run 'bundle exec jekyll --server'
+  end
+
+  def self.preview
+    run 'bundle exec jekyll && open http://localhost:4000'
+  end
+
+  def self.commit
+    run "git add . && git commit -am 'new post' && git push origin master"
+  end
+
+  def self.deploy
+    run "rsync -avz _site/ #{ToastHaiku::DEPLOY_TO}"
+  end
+
+  def self.run(cmd)
+    puts cmd
+    system cmd
+  end
+
+  def self.usage(cmd)
+    puts "ERROR: command not recognized: #{ARGV[0]}"
+    puts "Available commands: server, post, preview, commit, deploy"
+  end
+
+end
+
+case ARGV[0]
+when 'server'
+  ToastHaiku.server
+when 'post'
+  title = ARGV[1]
+  p = ToastHaiku::Post.new(:title => title, :categories => ['shows','music'])
+  p.save_show_post
+  p.save_image
+when 'preview'
+  ToastHaiku.preview
+when 'commit'
+  ToastHaiku.commit
+when 'deploy'
+  ToastHaiku.deploy
+else
+  ToastHaiku.usage(ARGV[0])
+end
+
