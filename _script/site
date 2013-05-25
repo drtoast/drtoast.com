@@ -9,7 +9,6 @@ cd drtoast.com
 _script/site post 'Some New Post'
 ..edit post..
 _script/site server
-_script/site preview
 _script/site commit
 _script/site deploy
 
@@ -17,6 +16,7 @@ _script/site deploy
 
 require 'fileutils'
 require 'yaml'
+require 'time'
 
 class ToastHaiku
 
@@ -27,8 +27,8 @@ class ToastHaiku
       @title =      options[:title]
       @categories = options[:categories]
       @tags =       options[:tags]
-      @date =       options[:date] || Time.now.localtime
-      @event_date = options[:event_date] || @date
+      @date =       options[:date].localtime
+      @event_date = options[:event_date].localtime
     end
 
     def save_show_post
@@ -101,10 +101,6 @@ class ToastHaiku
     run 'bundle exec jekyll --server'
   end
 
-  def self.preview
-    run 'bundle exec jekyll && open http://localhost:4000'
-  end
-
   def self.commit
     run "git add . && git commit -am 'new post' && git push origin master"
   end
@@ -130,7 +126,9 @@ when 'server'
   ToastHaiku.server
 when 'post'
   title = ARGV[1]
-  p = ToastHaiku::Post.new(:title => title, :categories => ['shows','music'])
+  event_date = Time.parse(ARGV[2])
+  date = Time.now
+  p = ToastHaiku::Post.new(:title => title, :categories => ['shows','music'], :date => date, :event_date => event_date)
   p.save_show_post
   p.save_image
 when 'preview'
