@@ -10,7 +10,6 @@ _script/post
 ..edit post..
 
 bundle exec jekyll --server
-_script/post commit
 _script/post deploy
 
 =end
@@ -120,6 +119,7 @@ class ToastHaiku
   end
 
   def self.deploy
+    commit
     run "rsync -avz _site/ #{ToastHaiku::DEPLOY_TO}"
   end
 
