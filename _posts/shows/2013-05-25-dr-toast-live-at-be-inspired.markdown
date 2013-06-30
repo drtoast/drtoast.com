@@ -10,7 +10,7 @@ categories:
 **Sunday, May 26, 2013, 10:30pm** - Dr. Toast performs as part of "San Francisco's first annual celebration of visuals" across 6 stages of music with multiple projection-mapping installations. Music, art, face painting, tea service, mutant art bus, silent disco, etc! Location: Public Works, 161 Erie St, San Francisco, 9pm-5am.
 \[[facebook][], [tickets][]\]
 
-<img src="/uploads/2013/05/be-inspired-flyer.jpg" width="600">
+![flyer](/uploads/2013/05/be-inspired-flyer.jpg)
 
 [tickets]: http://www.eventbrite.com/event/6037136237
 [facebook]: https://www.facebook.com/events/385121188251856/

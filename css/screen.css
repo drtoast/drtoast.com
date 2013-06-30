@@ -182,4 +182,5 @@ img[alt=flyer], .aligncenter {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 600px;
 }

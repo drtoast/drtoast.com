@@ -4,13 +4,14 @@
 
 USAGE:
 
-cd drtoast.com
+cd ~/code/drtoast.com
+_script/post
 
-_script/site post 'Some New Post'
 ..edit post..
-_script/site server
-_script/site commit
-_script/site deploy
+
+bundle exec jekyll --server
+_script/post commit
+_script/post deploy
 
 =end
 
@@ -21,14 +22,16 @@ require 'time'
 class ToastHaiku
 
   DEPLOY_TO = "drtoast@drtoast.com:drtoast.com"
+  LINK_TYPES = [:info, :facebook, :tickets]
 
   class Post
     def initialize(options)
+      @options = options
       @title =      options[:title]
       @categories = options[:categories]
       @tags =       options[:tags]
-      @date =       options[:date].localtime
-      @event_date = options[:event_date].localtime
+      @post_date =  options[:post_date]
+      @event_date = parse_time(options[:event_date])
     end
 
     def save_show_post
@@ -39,17 +42,14 @@ class ToastHaiku
           front_matter.to_yaml,
           '---',
           '',
-          "**" + @event_date.strftime("%A, %B %d, %Y, %H:%M%P") + "** - ",
-          '\[[info][], [facebook][], [tickets][]\]',
+          dateline,
+          link_refs,
           '',
-          "![flyer](/#{image_path})",
-          '',
-          '[info]: http://',
-          '[tickets]: http://',
-          '[facebook]: http://'
-        ]
+          flyer_link,
+          ''
+        ] + links
 
-        content.each do |l|
+        content.compact.each do |l|
           f.puts l
         end
 
@@ -69,9 +69,13 @@ class ToastHaiku
       {
         'layout' => 'post',
         'title' => @title,
-        'date' => @date,
+        'date' => @post_date,
         'categories' => @categories
       }
+    end
+
+    def parse_time(string)
+      Time.parse(string).localtime
     end
 
     def slug
@@ -83,22 +87,32 @@ class ToastHaiku
       value.gsub!(' ', '-')
     end
 
-    def image_path
-      "#{image_dir}/#{slug}.jpg"
+    def dateline
+      "**" + @event_date.strftime("%A, %B %d, %Y, %l:%M%P") + "** - "
+    end
+
+    def flyer_link
+      "![flyer](/#{image_dir}/#{slug}.jpg)"
     end
 
     def image_dir
-      sprintf("uploads/%04d/%02d", @date.year, @date.month)
+      sprintf("uploads/%04d/%02d", @post_date.year, @post_date.month)
     end
 
     def post_path
-      sprintf("_posts/%s/%04d-%02d-%02d-%s.markdown", @categories[0], @date.year, @date.month, @date.day, slug)
+      sprintf("_posts/%s/%04d-%02d-%02d-%s.markdown", @categories[0], @post_date.year, @post_date.month, @post_date.day, slug)
     end
 
-  end
+    def link_refs
+      links = ToastHaiku::LINK_TYPES.map { |type| "[#{type}][]" unless @options[type].empty? }
+      '\[' + links.compact.join(', ') + '\]'
+    end
 
-  def self.server
-    run 'bundle exec jekyll --server'
+    def links
+      links = ToastHaiku::LINK_TYPES.map { |type| "[#{type}]: #{@options[type]}" unless @options[type].empty? }
+      links.compact
+    end
+
   end
 
   def self.commit
@@ -122,17 +136,26 @@ class ToastHaiku
 end
 
 case ARGV[0]
-when 'server'
-  ToastHaiku.server
-when 'post'
-  title = ARGV[1]
-  event_date = Time.parse(ARGV[2])
-  date = Time.now
-  p = ToastHaiku::Post.new(:title => title, :categories => ['shows','music'], :date => date, :event_date => event_date)
+when nil
+  opts = {
+    categories: %w(shows music),
+    post_date: Time.now
+  }
+
+  puts "Post title: "
+  opts[:title] = gets.chomp # ARGV[1]
+
+  puts "Event date: "
+  opts[:event_date] = gets.chomp # Time.parse(ARGV[2])
+
+  ToastHaiku::LINK_TYPES.each do |type|
+    puts "#{type}: "
+    opts[type] = gets.chomp
+  end
+
+  p = ToastHaiku::Post.new opts
   p.save_show_post
   p.save_image
-when 'preview'
-  ToastHaiku.preview
 when 'commit'
   ToastHaiku.commit
 when 'deploy'
