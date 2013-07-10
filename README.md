@@ -7,7 +7,7 @@ This is the source code for the website of Dr. Toast (drtoast.com). It is genera
 1. create a new post:
 
     cd ~/code/drtoast.com
-    _script/post
+    ./post
 
 2. Follow the prompts. Enter dates in the format `2013-12-07 7:30pm`.
 
@@ -20,4 +20,4 @@ This is the source code for the website of Dr. Toast (drtoast.com). It is genera
 
 5. Deploy the site:
 
-    _script/post deploy
+    ./post deploy
