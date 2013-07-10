@@ -4,7 +4,7 @@
  <title>Dr. Toast</title>
  <link href="http://www.drtoast.com/atom.xml" rel="self"/>
  <link href="http://www.drtoast.com/"/>
- <updated>2013-07-09T21:12:03-07:00</updated>
+ <updated>2013-07-09T21:20:29-07:00</updated>
  <id>http://www.drtoast.com/</id>
  <author>
    <name>Dr. Toast</name>
@@ -2105,7 +2105,7 @@ Dr. Toast
    <link href="http://www.drtoast.com/2005/11/18/live-at-mighty-breaks"/>
    <updated>2005-11-18T19:28:53-08:00</updated>
    <id>http://www.drtoast.com/2005/11/18/live-at-mighty-breaks</id>
-   <content type="html">Friday, November 18th, 2005 - scratching with &lt;a xhref=&quot;http://benchun.net&quot;&gt;Benchun&lt;/a&gt; at &lt;a xhref=&quot;http://www.mighty119.com/&quot;&gt;Mighty Breaks&lt;/a&gt;, 119 Utah, San Francisco.
+   <content type="html">Friday, November 18th, 2005 - scratching with &lt;a href=&quot;http://benchun.net&quot;&gt;Benchun&lt;/a&gt; at &lt;a href=&quot;http://www.mighty119.com/&quot;&gt;Mighty Breaks&lt;/a&gt;, 119 Utah, San Francisco.
 </content>
  </entry>
  
@@ -2114,7 +2114,7 @@ Dr. Toast
    <link href="http://www.drtoast.com/2005/11/12/live-at-panda-moan-eum"/>
    <updated>2005-11-12T19:27:36-08:00</updated>
    <id>http://www.drtoast.com/2005/11/12/live-at-panda-moan-eum</id>
-   <content type="html">Saturday, November 12, 2005 - at &lt;a xhref=&quot;http://www.purevilsound.com/events.html&quot;&gt;Panda-moan-eum&lt;/a&gt;, first on the scratch decks with the &lt;a xhref=&quot;http://www.spacecowboys.org/&quot;&gt;Space Cowboys&lt;/a&gt; breaks DJs on the main floor, then later a chill live laptop set upstairs.
+   <content type="html">Saturday, November 12, 2005 - at &lt;a href=&quot;http://www.purevilsound.com/events.html&quot;&gt;Panda-moan-eum&lt;/a&gt;, first on the scratch decks with the &lt;a href=&quot;http://www.spacecowboys.org/&quot;&gt;Space Cowboys&lt;/a&gt; breaks DJs on the main floor, then later a chill live laptop set upstairs.
 </content>
  </entry>
  
@@ -2123,7 +2123,7 @@ Dr. Toast
    <link href="http://www.drtoast.com/2005/11/04/live-at-fake-science-launch-party"/>
    <updated>2005-11-04T19:26:41-08:00</updated>
    <id>http://www.drtoast.com/2005/11/04/live-at-fake-science-launch-party</id>
-   <content type="html">&lt;p&gt;Friday, November 4, 2005, 9-10pm - live laptop set at the &lt;a xhref=&quot;http://www.fakescience.com/&quot;&gt;Fake Science&lt;/a&gt; music download service launch party at &lt;a xhref=&quot;http://www.johncolins.com/&quot;&gt;John Colins&lt;/a&gt; bar, 90 Natoma (off 2nd between Mission and Howard), San Francisco.  Toast's music will be available for download as high-quality MP3s from the service when it launches.
+   <content type="html">&lt;p&gt;Friday, November 4, 2005, 9-10pm - live laptop set at the &lt;a href=&quot;http://www.fakescience.com/&quot;&gt;Fake Science&lt;/a&gt; music download service launch party at &lt;a href=&quot;http://www.johncolins.com/&quot;&gt;John Colins&lt;/a&gt; bar, 90 Natoma (off 2nd between Mission and Howard), San Francisco.  Toast's music will be available for download as high-quality MP3s from the service when it launches.
 &lt;/p&gt;
 </content>
  </entry>
