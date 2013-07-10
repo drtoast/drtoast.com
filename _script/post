@@ -1,19 +1,5 @@
 #!/usr/bin/env ruby
 
-=begin
-
-USAGE:
-
-cd ~/code/drtoast.com
-_script/post
-
-..edit post..
-
-bundle exec jekyll --server
-_script/post deploy
-
-=end
-
 require 'fileutils'
 require 'yaml'
 require 'time'
