@@ -1,5 +1,5 @@
-source 'http://rubygems.org'
+ruby "2.2.4"
+source 'https://rubygems.org'
 
-# gem 'jekyll' # mojombo
-# gem 'jekyll', :path => '/users/drtoast/code/jekyll'
-gem 'jekyll', :git => 'git://github.com/drtoast/jekyll.git'
+gem 'jekyll'
+gem 'jekyll-paginate'

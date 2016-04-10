@@ -1,6 +1,6 @@
 # About
 
-This is the source code for the website of Dr. Toast (drtoast.com). It is generated using my [fork of Jekyll](github.com/drtoast/jekyll) and a custom script for creating blog posts and deploying.
+This is the source code for the website of Dr. Toast (drtoast.com). It is generated using [Jekyll](github.com/jekyll/jekyll) and a custom script for creating blog posts and deploying.
 
 # Usage
 

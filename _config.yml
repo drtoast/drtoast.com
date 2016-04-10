@@ -1,9 +1,9 @@
-pygments:    false
-markdown:    maruku
-permalink:   /:year/:month/:day/:title.html
+markdown:    kramdown
+permalink:   /:year/:month/:day/:title
 multiviews:  true
 paginate:    10
-exclude:     ['post', 'README.md', 'Gemfile*']
+exclude:     ['newpost', 'README.md', 'Gemfile*']
+gems: [jekyll-paginate]
 
 # plugins
 category_dir: departments
@@ -17,4 +17,3 @@ category_list:
 - toast-links
 - toasters
 - ask-dr-toast
-
