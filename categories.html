@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Dr. Toast Bio
 ---
 
 <div class="container">
@@ -9,8 +10,7 @@ layout: default
         <nav class="grey darken-3">
           <div class="nav-wrapper">
             <div class="col s12">
-              <a href="/categories" class="breadcrumb">Blog</a>
-              <a href="/departments/{{ page.category }}" class="breadcrumb breadcrumb--category">{{ page.category | replace:'-',' ' }}</a>
+              <a href="/" class="breadcrumb">Blog</a>
             </div>
           </div>
         </nav>
@@ -18,10 +18,9 @@ layout: default
 
       <div class="section">
         <ul class="collection">
-        {% for post in site.categories[page.category] %}
+        {% for category in site.category_list %}
           <li class="collection-item">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <small>posted {{ post.date | date: "%B %-d, %Y" }}</small>
+            <a class="categories-list--category" href="/departments/{{ category }}">{{ category | replace:'-', ' ' }}</a>
           </li>
         {% endfor %}
         </ul>

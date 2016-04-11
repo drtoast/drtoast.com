@@ -17,7 +17,7 @@
   height: 400px;
 }
 
-a.breadcrumb--category {
+a.breadcrumb--category, a.categories-list--category {
   text-transform: capitalize;
 }
 
