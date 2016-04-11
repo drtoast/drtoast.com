@@ -2,8 +2,29 @@
 layout: default
 ---
 
-<h1 class="category">{{ page.title | replace:'Category: ','' | replace:'-',' ' }}</h1>
-{% for post in site.categories[page.category] %}
-    <h3 class='entry-title'><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <span class='entry-meta'>{{ post.date | date: "%B %-d, %Y" }}</span>
-{% endfor %}
+<div class="container">
+  <div class="row">
+    <div class="col s12">
+      <div class="section">
+        <nav class="grey darken-3">
+          <div class="nav-wrapper">
+            <div class="col s12">
+              <a href="/" class="breadcrumb">Blog</a>
+              <a href="/departments/{{ page.category }}" class="breadcrumb breadcrumb--category">{{ page.category | replace:'-',' ' }}</a>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <div class="section">
+        <ul class="collection">
+        {% for post in site.categories[page.category] %}
+          <li class="collection-item">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

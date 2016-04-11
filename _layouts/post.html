@@ -2,8 +2,25 @@
 layout: default
 ---
 
-<div id="post">
-  <h3 class='entry-title'>{{ page.title }}</h3>
-  <span class='entry-meta'>posted {{ page.date | date: "%B %-d, %Y" }} | {{ page.categories | category_links }}</span>
-  <p>{{ content }}</p>
+<div class="container">
+  <div class="row">
+    <div class="col s12">
+      <div class="section">
+        <nav class="grey darken-3">
+          <div class="nav-wrapper">
+            <div class="col s12">
+              <a href="/" class="breadcrumb">Blog</a>
+              <a href="/departments/{{ page.categories[0] }}" class="breadcrumb breadcrumb--category">{{ page.categories[0] | replace:'-',' ' }}</a>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <div class="section">
+        <h5>{{ page.title }}</h5>
+        <small>posted {{ page.date | date: "%B %-d, %Y" }} in {{ page.categories | category_links }}</small>
+        <p>{{ content }}</p>
+      </div>
+    </div>
+  </div>
 </div>

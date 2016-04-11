@@ -3,28 +3,53 @@ layout: default
 title: Dr. Toast
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <div class='entry'>
-      <h3 class='entry-title'><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <span class='entry-meta'>posted {{ post.date | date: "%B %-d, %Y" }} | {{ post.categories | category_links }}</span>
-      <p>{{ post.content }}</p>
-    </div>
-  {% endfor %}
+<div class="parallax-container">
+  <div class="parallax"><img src="images/dr-toast-priceless-hands-crop.jpg"></div>
 </div>
 
+<div class="container">
+  <div class="section">
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next ">&lt; older posts</a>
-  {% endif %}
+    <!--   Icon Section   -->
+    <div class="row">
+      <div class="col s12 m4">
+        <div class="icon-block">
+          <h5 class="center">Gravity is Quiet</h5>
+          <img class="responsive-img" src="/uploads/2011/07/dr-toast-gravity-is-quiet-600x600.jpg" alt="Album cover for Gravity is Quiet" title="Gravity is Quiet"/>
+          <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1900524021/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://music.drtoast.com/album/gravity-is-quiet">Gravity is Quiet by Dr. Toast</a></iframe>
+          <div class="collection">
+            <a class="collection-item" href="https://itunes.apple.com/us/album/gravity-is-quiet/id452858981">Download from iTunes</a>
+            <a class="collection-item" href="https://www.amazon.com/Gravity-is-Quiet/dp/B005EX3GTK/">Download from Amazon</a>
+            <a class="collection-item" href="https://drtoast.bandcamp.com/album/gravity-is-quiet">Download from Bandcamp (name your price)</a>
+          </div>
+        </div>
 
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      | <a href="/" class="previous">newer posts &gt;</a>
-    {% else %}
-      | <a href="/page{{paginator.previous_page}}" class="previous">newer posts &gt;</a>
-    {% endif %}
-  {% endif %}
+        <div class="icon-block">
+          <h5 class="center">False Sunrise EP</h5>
+          <img class="responsive-img" src="/uploads/2011/07/dr-toast-false-sunrise-600x600.jpg" alt="Album cover for False Sunrise" title="False Sunrise"/>
+          <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3592098802/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://music.drtoast.com/album/false-sunrise">False Sunrise by Dr. Toast</a></iframe>
+          <div class="collection">
+            <a class="collection-item" href="https://drtoast.bandcamp.com/album/false-sunrise">Download from Bandcamp (name your price)</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col s12 m4">
+        <div class="icon-block">
+          <h5 class="center">The Wave Function</h5>
+          <img class="responsive-img" src="/uploads/2008/03/dr-toast-the-wave-function-400x400p.jpg" alt="Album cover for The Wave Function" title="The Wave Function"/>
+          <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1705923449/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://music.drtoast.com/album/the-wave-function">The Wave Function by Dr. Toast</a></iframe>
+          <div class="collection">
+            <a class="collection-item" href="https://itunes.apple.com/us/album/the-wave-function/id278079838">iTunes</a>
+            <a class="collection-item" href="https://www.amazon.com/The-Wave-Function/dp/B001BMPA9C/">Amazon</a>
+            <a class="collection-item" href="https://drtoast.bandcamp.com/album/the-wave-function">Bandcamp (name your price)</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col s12 m4">
+        {% include twitter.html %}
+      </div>
+    </div>
+  </div>
 </div>

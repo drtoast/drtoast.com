@@ -1,438 +1,620 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <meta name="author" content="Dr. Toast" />
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href="/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>Category: shows</title>
-   <meta name="author" content="Dr. Toast" />
-
-    <!-- <link rel="stylesheet" type="text/css" media="all"  href="/css/template.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/grids.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/content.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/mod.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/mod_skins.css" />-->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
-
 </head>
+
 <body>
+  <ul id="music-dropdown" class="dropdown-content">
+    <li><a href="https://music.drtoast.com">Bandcamp</a></li>
+<li><a href="https://soundcloud.com/drtoast">Soundcloud</a></li>
+<li><a href="https://itunes.apple.com/us/artist/dr.-toast/id278022074">iTunes</a></li>
+<li><a href="https://open.spotify.com/artist/2SPTxueEd9AnNTBnOJqLWs">Spotify</a></li>
 
-<div class="page">
+  </ul>
 
-  <div class="head">
-    <div class="header">
-      <!-- <h1>Dr. Toast</h1>-->
-      <div class="navigation">
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="http://music.drtoast.com">Listen</a></li>
-          <li><a href="/departments/shows">Shows</a></li>
-          <li><a href="mailto:drtoast@drtoast.com">Contact</a></li>
-        </ul>
-      </div>
+  <ul id="music-dropdown-mobile" class="dropdown-content">
+    <li><a href="https://music.drtoast.com">Bandcamp</a></li>
+<li><a href="https://soundcloud.com/drtoast">Soundcloud</a></li>
+<li><a href="https://itunes.apple.com/us/artist/dr.-toast/id278022074">iTunes</a></li>
+<li><a href="https://open.spotify.com/artist/2SPTxueEd9AnNTBnOJqLWs">Spotify</a></li>
+
+  </ul>
+
+  <ul id="news-dropdown" class="dropdown-content">
+    <li><a href="https://facebook.com/drtoastmusic">Facebook</a></li>
+<li><a href="https://twitter.com/drtoast">Twitter</a></li>
+<li><a href="/departments/shows">Shows</a></li>
+
+  </ul>
+
+  <ul id="news-dropdown-mobile" class="dropdown-content">
+    <li><a href="https://facebook.com/drtoastmusic">Facebook</a></li>
+<li><a href="https://twitter.com/drtoast">Twitter</a></li>
+<li><a href="/departments/shows">Shows</a></li>
+
+  </ul>
+
+  <ul id="blog-dropdown" class="dropdown-content">
+    
+<li><a href="/departments/releases">releases</a></li>
+
+<li><a href="/departments/shows">shows</a></li>
+
+<li><a href="/departments/toast-haiku">toast haiku</a></li>
+
+<li><a href="/departments/toast-recipes">toast recipes</a></li>
+
+<li><a href="/departments/toast-articles">toast articles</a></li>
+
+<li><a href="/departments/toast-news">toast news</a></li>
+
+<li><a href="/departments/toast-links">toast links</a></li>
+
+<li><a href="/departments/toasters">toasters</a></li>
+
+<li><a href="/departments/ask-dr-toast">ask dr toast</a></li>
+
+
+  </ul>
+
+  <ul id="blog-dropdown-mobile" class="dropdown-content">
+    
+<li><a href="/departments/releases">releases</a></li>
+
+<li><a href="/departments/shows">shows</a></li>
+
+<li><a href="/departments/toast-haiku">toast haiku</a></li>
+
+<li><a href="/departments/toast-recipes">toast recipes</a></li>
+
+<li><a href="/departments/toast-articles">toast articles</a></li>
+
+<li><a href="/departments/toast-news">toast news</a></li>
+
+<li><a href="/departments/toast-links">toast links</a></li>
+
+<li><a href="/departments/toasters">toasters</a></li>
+
+<li><a href="/departments/ask-dr-toast">ask dr toast</a></li>
+
+
+  </ul>
+
+  <nav class="grey darken-4" role="navigation">
+    <div class="nav-wrapper container">
+      <a id="logo-container" href="/" class="brand-logo">Dr. Toast</a>
+
+      <ul class="right hide-on-med-and-down">
+        <li><a class="dropdown-button" href="#!" data-activates="music-dropdown">Music</a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="news-dropdown">News</a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="blog-dropdown">Blog</a></li>
+        <li><a href="mailto:drtoast@drtoast.com">Contact</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="side-nav">
+        <li><a class="dropdown-button" href="#!" data-activates="music-dropdown-mobile">Music<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="news-dropdown-mobile">News<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="blog-dropdown-mobile">Blog<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a href="mailto:drtoast@drtoast.com">Contact</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
-  </div>
-
-  <div class="body">
-
-    <!-- Right Column -->
-    <div class="rightCol">
-      <div class="mod">
-
-
-        <!-- Recent Posts -->
-        <div class="recent widget">
-          <h3>recent posts</h3>
-          <ul>
-            
-            <li><a href="/2013/07/09/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></li>
-            
-            <li><a href="/2013/06/29/dr-toast-live-at-earth-in-reverse">Dr. Toast Live at Earth in Reverse</a></li>
-            
-            <li><a href="/2013/05/26/dr-toast-live-at-priceless-2013">Dr. Toast Live at Priceless 2013</a></li>
-            
-            <li><a href="/2013/05/25/dr-toast-live-at-be-inspired">Dr. Toast Live at Be Inspired</a></li>
-            
-            <li><a href="/2013/05/10/dr-toast-live-at-spring-training-2012">Dr. Toast Live at Spring Training 2012</a></li>
-            
-          </ul>
-        </div>
-
-        <!-- Twitter -->
-        <div class="widget">
-          <a class="twitter-timeline" href="https://twitter.com/drtoast" data-widget-id="351402308850036737">Tweets by @drtoast</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-        </div>
-
-        <!-- Facebook -->
-        <div class="widget">
-          <h3>facebook</h3>
-          <div class="facebook">
-  <a href="http://www.facebook.com/drtoastmusic" title="Dr. Toast" target="_TOP">
-    <img src="http://badge.facebook.com/badge/10662747580.1387.320699057.png" alt="Dr. Toast" style="border: 0px;" />
-  </a>
-  <br>
-  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fdrtoastmusic&amp;layout=standard&amp;show_faces=true&amp;width=180&amp;action=like&amp;colorscheme=light&amp;height=120" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:120px;" allowTransparency="true"></iframe>
-</div>
-
-
-        </div>
-
-        <!-- Flickr -->
-        <!--<div class="widget">-->
-          <!--<h3>photos</h3>-->
-          <!--<div id="flickr_badge_uber_wrapper"><div id="flickr_badge_wrapper">
-<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user_tag&user=74504321%40N00&tag=drtoast"></script>
-</div></div>
-
--->
-        <!--</div>-->
-
-        <!-- Categories -->
-        <div class="categories widget">
-          <h3>categories</h3>
-          <ul>
-            
-            <li><a href="/departments/releases">releases</a></li>
-            
-            <li><a href="/departments/shows">shows</a></li>
-            
-            <li><a href="/departments/toast-haiku">toast haiku</a></li>
-            
-            <li><a href="/departments/toast-recipes">toast recipes</a></li>
-            
-            <li><a href="/departments/toast-articles">toast articles</a></li>
-            
-            <li><a href="/departments/toast-news">toast news</a></li>
-            
-            <li><a href="/departments/toast-links">toast links</a></li>
-            
-            <li><a href="/departments/toasters">toasters</a></li>
-            
-            <li><a href="/departments/ask-dr-toast">ask dr toast</a></li>
-            
-          </ul>
-        </div>
-
-        <!-- Links -->
-        <div class="links widget">
-          <h3>elsewhere</h3>
-          <ul>
-            <li><a href="http://music.drtoast.com">music.drtoast.com</a></li>
-            <li><a href="http://soundcloud.com/drtoast">soundcloud.com/drtoast</a></li>
-            <li><a href="http://twitter.com/drtoast">twitter.com/drtoast</a></li>
-            <li><a href="http://facebook.com/drtoastmusic">facebook.com/drtoastmusic</a></li>
-            <li><a href="http://www.songkick.com/artists/496021-dr-toast">songkick.com</a></li>
-            <li><a href="http://www.last.fm/music/Dr.+Toast">last.fm</a></li>
-            <li><a href="http://flickr.com/photos/drtoast">flickr.com/photos/drtoast</a></li>
-            <li><a href="http://toasthaiku.net">toasthaiku.net</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <!-- main content -->
-    <div class='main'>
-      <div class="line">
-        <div class="unit lastUnit">
-          <div class="mod">
-            <h1 class="category">shows</h1>
-
-    <h3 class='entry-title'><a href="/2013/07/09/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></h3>
-    <span class='entry-meta'>July 9, 2013</span>
-
-    <h3 class='entry-title'><a href="/2013/06/29/dr-toast-live-at-earth-in-reverse">Dr. Toast Live at Earth in Reverse</a></h3>
-    <span class='entry-meta'>June 29, 2013</span>
-
-    <h3 class='entry-title'><a href="/2013/05/26/dr-toast-live-at-priceless-2013">Dr. Toast Live at Priceless 2013</a></h3>
-    <span class='entry-meta'>May 26, 2013</span>
-
-    <h3 class='entry-title'><a href="/2013/05/25/dr-toast-live-at-be-inspired">Dr. Toast Live at Be Inspired</a></h3>
-    <span class='entry-meta'>May 25, 2013</span>
-
-    <h3 class='entry-title'><a href="/2013/05/10/dr-toast-live-at-spring-training-2012">Dr. Toast Live at Spring Training 2012</a></h3>
-    <span class='entry-meta'>May 10, 2013</span>
-
-    <h3 class='entry-title'><a href="/2012/12/01/dr-toast-live-at-artumnal-gathering-2012">Dr. Toast Live at Artumnal Gathering 2012</a></h3>
-    <span class='entry-meta'>December 1, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/10/01/dr-toast-live-at-spectrum-2012">Dr. Toast Live at Spectrum 2012</a></h3>
-    <span class='entry-meta'>October 1, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/09/01/dr-toast-live-at-chillits-2012">Dr. Toast Live at Chillits 2012</a></h3>
-    <span class='entry-meta'>September 1, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/08/01/dr-toast-live-at-burning-man-2012">Dr. Toast Live at Burning Man 2012</a></h3>
-    <span class='entry-meta'>August 1, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/07/01/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></h3>
-    <span class='entry-meta'>July 1, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/06/14/dr-toast-live-priceless-2012">Dr. Toast Live @ Priceless 2012</a></h3>
-    <span class='entry-meta'>June 14, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/06/13/dr-toast-live-the-bluebird-denver">Dr. Toast Live @ The Bluebird Theater, Denver</a></h3>
-    <span class='entry-meta'>June 13, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/06/01/dr-toast-live-spring-training-2012">Dr. Toast Live @ Spring Training 2012</a></h3>
-    <span class='entry-meta'>June 1, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/04/29/dr-toast-live-movement-play">Dr. Toast Live @ Movement Play</a></h3>
-    <span class='entry-meta'>April 29, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/04/26/dr-toast-live-mellow-beats-and-boardgames">Dr. Toast Live @ Mellow Beats and Boardgames</a></h3>
-    <span class='entry-meta'>April 26, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/03/20/dr-toast-live-lucidity-pre-party">Dr. Toast Live @ Lucidity Pre Party</a></h3>
-    <span class='entry-meta'>March 20, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/02/20/dr-toast-live-the-ultimate-dance-experience">Dr. Toast Live @ The Ultimate Dance Experience</a></h3>
-    <span class='entry-meta'>February 20, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/02/20/dr-toast-live-ganucheaus-elements-release-party">Dr. Toast Live @ Ganucheau's "Elements" Release Party</a></h3>
-    <span class='entry-meta'>February 20, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/02/19/dr-toast-live-lucidity-festival">Dr. Toast Live @ Lucidity Festival</a></h3>
-    <span class='entry-meta'>February 19, 2012</span>
-
-    <h3 class='entry-title'><a href="/2012/02/18/dr-toast-live-transported-sf">Dr. Toast Live @ Transported SF</a></h3>
-    <span class='entry-meta'>February 18, 2012</span>
-
-    <h3 class='entry-title'><a href="/2011/10/04/dr-toast-live-sf-moma">Dr. Toast Live @ SF MOMA</a></h3>
-    <span class='entry-meta'>October 4, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/08/24/dr-toast-live-burning-man-2011">Dr. Toast Live @ Burning Man 2011</a></h3>
-    <span class='entry-meta'>August 24, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/08/15/dr-toast-live-plunge">Dr. Toast Live @ Plunge</a></h3>
-    <span class='entry-meta'>August 15, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/08/10/dr-toast-live-california-academy-of-sciences-3">Dr. Toast Live @ California Academy of Sciences</a></h3>
-    <span class='entry-meta'>August 10, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/07/12/dr-toast-live-the-toast-expo">Dr. Toast Live @ The Toast Expo</a></h3>
-    <span class='entry-meta'>July 12, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/07/12/dr-toast-live-equity">Dr. Toast Live @ Equity</a></h3>
-    <span class='entry-meta'>July 12, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/05/20/dr-toast-live-transported-4">Dr. Toast Live @ Transported</a></h3>
-    <span class='entry-meta'>May 20, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/05/17/dr-toast-live-spring-training-2011">Dr. Toast Live @ Spring Training 2011</a></h3>
-    <span class='entry-meta'>May 17, 2011</span>
-
-    <h3 class='entry-title'><a href="/2011/01/04/dr-toast-live-transported-3">Dr. Toast Live @ Transported</a></h3>
-    <span class='entry-meta'>January 4, 2011</span>
-
-    <h3 class='entry-title'><a href="/2010/08/26/dr-toast-live-burning-man-2010">Dr. Toast Live @ Burning Man 2010</a></h3>
-    <span class='entry-meta'>August 26, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/06/17/dr-toast-live-priceless-2010">Dr. Toast Live @ Priceless 2010</a></h3>
-    <span class='entry-meta'>June 17, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/06/17/dr-toast-live-the-big-bounce">Dr. Toast Live @ The Big Bounce</a></h3>
-    <span class='entry-meta'>June 17, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/06/08/dr-toast-live-california-academy-of-sciences-2">Dr. Toast Live @ California Academy of Sciences</a></h3>
-    <span class='entry-meta'>June 8, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/05/04/dr-toast-live-on-the-transported-bus-3">Dr. Toast Live on the Transported Bus</a></h3>
-    <span class='entry-meta'>May 4, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/04/27/dr-toast-live-ecstatic-dance">Dr. Toast Live @ Ecstatic Dance</a></h3>
-    <span class='entry-meta'>April 27, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/03/30/dr-toast-live-puttin-on-the-ritz">Dr. Toast Live @ Puttin' On the Ritz</a></h3>
-    <span class='entry-meta'>March 30, 2010</span>
-
-    <h3 class='entry-title'><a href="/2010/02/09/dr-toast-live-living-room-sessions">Dr. Toast Live @ Living Room Sessions</a></h3>
-    <span class='entry-meta'>February 9, 2010</span>
-
-    <h3 class='entry-title'><a href="/2009/12/06/dr-toast-live-transported-2">Dr. Toast Live @ Transported</a></h3>
-    <span class='entry-meta'>December 6, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/11/17/dr-toast-live-at-artumnal-gathering">Dr. Toast Live at Artumnal Gathering</a></h3>
-    <span class='entry-meta'>November 17, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/08/26/dr-toast-live-burning-man-2009">Dr. Toast Live @ Burning Man 2009</a></h3>
-    <span class='entry-meta'>August 26, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/07/26/dr-toast-live-symbiosis">Dr. Toast Live @ Symbiosis</a></h3>
-    <span class='entry-meta'>July 26, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/07/08/dr-toast-live-sand-by-the-ton">Dr. Toast Live @ Sand by the Ton</a></h3>
-    <span class='entry-meta'>July 8, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/07/02/dr-toast-live-priceless-2009">Dr. Toast Live @ Priceless 2009</a></h3>
-    <span class='entry-meta'>July 2, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/04/09/dr-toast-live-california-academy-of-sciences">Dr. Toast Live @ California Academy of Sciences</a></h3>
-    <span class='entry-meta'>April 9, 2009</span>
-
-    <h3 class='entry-title'><a href="/2009/04/02/dr-toast-live-transported">Dr. Toast Live @ Transported</a></h3>
-    <span class='entry-meta'>April 2, 2009</span>
-
-    <h3 class='entry-title'><a href="/2008/12/21/dr-toast-live-on-the-transported-bus-2">Dr. Toast Live on the Transported Bus</a></h3>
-    <span class='entry-meta'>December 21, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/10/30/dr-toast-live-cubik-and-origami-record-release-party">Dr. Toast Live @ Cubik and Origami Record Release</a></h3>
-    <span class='entry-meta'>October 30, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/10/30/dr-toast-live-fwr">Dr. Toast Live @ FWR</a></h3>
-    <span class='entry-meta'>October 30, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/10/30/dr-toast-live-end-of-an-error">Dr. Toast Live @ End of an Error</a></h3>
-    <span class='entry-meta'>October 30, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/09/30/dr-toast-live-lepidodgera-fundraiser">Dr. Toast Live @ Lepidodgera Fundraiser</a></h3>
-    <span class='entry-meta'>September 30, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/08/19/dr-toast-live-burning-man-false-profit-2008">Dr. Toast Live @ Burning Man: False Profit 2008</a></h3>
-    <span class='entry-meta'>August 19, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/08/19/dr-toast-live-burning-man-relax-o-matic-plushitorium">Dr. Toast Live @ Burning Man: Relax-O-Matic Plushitorium</a></h3>
-    <span class='entry-meta'>August 19, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/08/19/dr-toast-live-burning-man-mutopia">Dr. Toast Live @ Burning Man: Mutopia</a></h3>
-    <span class='entry-meta'>August 19, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/08/12/dr-toast-live-concoction">Dr. Toast Live @ Concoction</a></h3>
-    <span class='entry-meta'>August 12, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/07/03/dr-toast-live-evac">Dr. Toast Live @ EVAC</a></h3>
-    <span class='entry-meta'>July 3, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/07/02/dr-toast-live-friends-and-family-2008">Dr. Toast Live @ Friends and Family 2008</a></h3>
-    <span class='entry-meta'>July 2, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/07/02/dr-toast-live-priceless-2008">Dr. Toast Live @ Priceless 2008</a></h3>
-    <span class='entry-meta'>July 2, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/05/31/dr-toast-live-raindance">Dr. Toast Live @ Raindance</a></h3>
-    <span class='entry-meta'>May 31, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/05/31/dr-toast-live-spring-training">Dr. Toast Live @ Spring Training</a></h3>
-    <span class='entry-meta'>May 31, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/04/22/dr-toast-live-transporteds-1-year-anniversary-dj-bus">Dr. Toast Live @ Transported's 1-Year Anniversary DJ Bus</a></h3>
-    <span class='entry-meta'>April 22, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/04/03/dr-toast-live-beat-church">Dr. Toast Live @ Beat Church</a></h3>
-    <span class='entry-meta'>April 3, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/03/13/dr-toast-live-at-nasa-yuris-night-2008">Dr. Toast Live at NASA (Yuri's Night 2008)</a></h3>
-    <span class='entry-meta'>March 13, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/03/07/the-wave-function-cd-release-party">The Wave Function - CD Release Party</a></h3>
-    <span class='entry-meta'>March 7, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/02/25/dr-toast-live-toast-tea">Dr. Toast Live @ Toast & Tea</a></h3>
-    <span class='entry-meta'>February 25, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/02/20/dr-toast-live-kelly-kemp-co-fundraiser">Dr. Toast Live @ Kelly Kemp & Co Fundraiser</a></h3>
-    <span class='entry-meta'>February 20, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/02/20/dr-toast-live-dirty">Dr. Toast Live @ Dirty</a></h3>
-    <span class='entry-meta'>February 20, 2008</span>
-
-    <h3 class='entry-title'><a href="/2008/01/18/dr-toast-live-delicious-drips">Dr. Toast Live @ Delicious Drips</a></h3>
-    <span class='entry-meta'>January 18, 2008</span>
-
-    <h3 class='entry-title'><a href="/2007/12/14/dr-toast-live-new-years-2008">Dr. Toast Live - New Year's 2008</a></h3>
-    <span class='entry-meta'>December 14, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/10/16/dr-toast-live-the-sloe-down-shine-sf">Dr. Toast Live @ The Sloe Down, Shine SF</a></h3>
-    <span class='entry-meta'>October 16, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/10/16/dr-toast-live-wom">Dr. Toast Live @ Word of Mouth: WoM Twice as Nice</a></h3>
-    <span class='entry-meta'>October 16, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/08/21/dr-toast-live-avant">Dr. Toast Live @ Avant</a></h3>
-    <span class='entry-meta'>August 21, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/08/21/dr-toast-live-burning-man-the-polarium">Dr. Toast Live @ Burning Man: The Polarium</a></h3>
-    <span class='entry-meta'>August 21, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/08/17/dr-toast-live-burning-man">Dr. Toast Live @ Burning Man: False Profit</a></h3>
-    <span class='entry-meta'>August 17, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/08/08/dr-toast-live-on-the-transported-bus">Dr. Toast Live on the Transported Bus</a></h3>
-    <span class='entry-meta'>August 8, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/07/18/dr-toast-live-field-day-2">Dr. Toast Live @ Field Day 2</a></h3>
-    <span class='entry-meta'>July 18, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/07/18/dr-toast-live-summer-of-dub">Dr. Toast Live @ Summer of Dub</a></h3>
-    <span class='entry-meta'>July 18, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/07/18/dr-toast-live-priceless">Dr. Toast Live @ Priceless</a></h3>
-    <span class='entry-meta'>July 18, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/05/24/dr-toast-live-dividend">Dr. Toast live @ DIVIDEND</a></h3>
-    <span class='entry-meta'>May 24, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/03/19/dr-toast-live-at-howweird-street-faire">Dr. Toast Live at Howweird Street Faire</a></h3>
-    <span class='entry-meta'>March 19, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/03/19/dr-toast-live-at-experiment-3-fat-city">Dr. Toast Live at Experiment #3 @ Fat City</a></h3>
-    <span class='entry-meta'>March 19, 2007</span>
-
-    <h3 class='entry-title'><a href="/2007/03/19/dr-toast-live-at-nasa-ames">Dr. Toast live at NASA Ames</a></h3>
-    <span class='entry-meta'>March 19, 2007</span>
-
-    <h3 class='entry-title'><a href="/2006/08/07/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></h3>
-    <span class='entry-meta'>August 7, 2006</span>
-
-    <h3 class='entry-title'><a href="/2006/07/21/dr-toast-live-at-priceless-campout">Dr. Toast Live at Priceless Campout</a></h3>
-    <span class='entry-meta'>July 21, 2006</span>
-
-    <h3 class='entry-title'><a href="/2006/04/20/dr-toast-live-at-slims-in-san-francisco">Dr. Toast - live at Slim's in San Francisco</a></h3>
-    <span class='entry-meta'>April 20, 2006</span>
-
-    <h3 class='entry-title'><a href="/2005/12/02/live-at-downlow">Dr. Toast Live at Downlow</a></h3>
-    <span class='entry-meta'>December 2, 2005</span>
-
-    <h3 class='entry-title'><a href="/2005/11/26/live-at-wonderland-nyc">Dr. Toast Live at Wonderland, NYC</a></h3>
-    <span class='entry-meta'>November 26, 2005</span>
-
-    <h3 class='entry-title'><a href="/2005/11/18/live-at-mighty-breaks">Live at Mighty Breaks</a></h3>
-    <span class='entry-meta'>November 18, 2005</span>
-
-    <h3 class='entry-title'><a href="/2005/11/12/live-at-panda-moan-eum">Live at Panda-moan-eum</a></h3>
-    <span class='entry-meta'>November 12, 2005</span>
-
-    <h3 class='entry-title'><a href="/2005/11/04/live-at-fake-science-launch-party">Live at Fake Science Launch Party</a></h3>
-    <span class='entry-meta'>November 4, 2005</span>
-
-    <h3 class='entry-title'><a href="/2005/09/01/live-at-burning-man">Live at Burning Man</a></h3>
-    <span class='entry-meta'>September 1, 2005</span>
-
-
+  </nav>
+
+  <div class="container">
+  <div class="row">
+    <div class="col s12">
+      <div class="section">
+        <nav class="grey darken-3">
+          <div class="nav-wrapper">
+            <div class="col s12">
+              <a href="/" class="breadcrumb">Blog</a>
+              <a href="/departments/shows" class="breadcrumb breadcrumb--category">shows</a>
+            </div>
           </div>
-        </div>
+        </nav>
       </div>
+
+      <div class="section">
+        <ul class="collection">
+        
+          <li class="collection-item">
+            <a href="/2013/07/09/dr-toast-live-at-equity">Dr. Toast Live at Equity</a>
+            <small>July 9, 2013</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2013/06/29/dr-toast-live-at-earth-in-reverse">Dr. Toast Live at Earth in Reverse</a>
+            <small>June 29, 2013</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2013/05/26/dr-toast-live-at-priceless-2013">Dr. Toast Live at Priceless 2013</a>
+            <small>May 26, 2013</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2013/05/25/dr-toast-live-at-be-inspired">Dr. Toast Live at Be Inspired</a>
+            <small>May 25, 2013</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2013/05/10/dr-toast-live-at-spring-training-2012">Dr. Toast Live at Spring Training 2012</a>
+            <small>May 10, 2013</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/12/01/dr-toast-live-at-artumnal-gathering-2012">Dr. Toast Live at Artumnal Gathering 2012</a>
+            <small>December 1, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/10/01/dr-toast-live-at-spectrum-2012">Dr. Toast Live at Spectrum 2012</a>
+            <small>October 1, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/09/01/dr-toast-live-at-chillits-2012">Dr. Toast Live at Chillits 2012</a>
+            <small>September 1, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/08/01/dr-toast-live-at-burning-man-2012">Dr. Toast Live at Burning Man 2012</a>
+            <small>August 1, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/07/01/dr-toast-live-at-equity">Dr. Toast Live at Equity</a>
+            <small>July 1, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/06/14/dr-toast-live-priceless-2012">Dr. Toast Live @ Priceless 2012</a>
+            <small>June 14, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/06/13/dr-toast-live-the-bluebird-denver">Dr. Toast Live @ The Bluebird Theater, Denver</a>
+            <small>June 13, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/06/01/dr-toast-live-spring-training-2012">Dr. Toast Live @ Spring Training 2012</a>
+            <small>June 1, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/04/29/dr-toast-live-movement-play">Dr. Toast Live @ Movement Play</a>
+            <small>April 29, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/04/26/dr-toast-live-mellow-beats-and-boardgames">Dr. Toast Live @ Mellow Beats and Boardgames</a>
+            <small>April 26, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/03/20/dr-toast-live-lucidity-pre-party">Dr. Toast Live @ Lucidity Pre Party</a>
+            <small>March 20, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/02/20/dr-toast-live-the-ultimate-dance-experience">Dr. Toast Live @ The Ultimate Dance Experience</a>
+            <small>February 20, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/02/20/dr-toast-live-ganucheaus-elements-release-party">Dr. Toast Live @ Ganucheau's "Elements" Release Party</a>
+            <small>February 20, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/02/19/dr-toast-live-lucidity-festival">Dr. Toast Live @ Lucidity Festival</a>
+            <small>February 19, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2012/02/18/dr-toast-live-transported-sf">Dr. Toast Live @ Transported SF</a>
+            <small>February 18, 2012</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/10/04/dr-toast-live-sf-moma">Dr. Toast Live @ SF MOMA</a>
+            <small>October 4, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/08/24/dr-toast-live-burning-man-2011">Dr. Toast Live @ Burning Man 2011</a>
+            <small>August 24, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/08/15/dr-toast-live-plunge">Dr. Toast Live @ Plunge</a>
+            <small>August 15, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/08/10/dr-toast-live-california-academy-of-sciences-3">Dr. Toast Live @ California Academy of Sciences</a>
+            <small>August 10, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/07/12/dr-toast-live-the-toast-expo">Dr. Toast Live @ The Toast Expo</a>
+            <small>July 12, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/07/12/dr-toast-live-equity">Dr. Toast Live @ Equity</a>
+            <small>July 12, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/05/20/dr-toast-live-transported-4">Dr. Toast Live @ Transported</a>
+            <small>May 20, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/05/17/dr-toast-live-spring-training-2011">Dr. Toast Live @ Spring Training 2011</a>
+            <small>May 17, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2011/01/04/dr-toast-live-transported-3">Dr. Toast Live @ Transported</a>
+            <small>January 4, 2011</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/08/26/dr-toast-live-burning-man-2010">Dr. Toast Live @ Burning Man 2010</a>
+            <small>August 26, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/06/17/dr-toast-live-priceless-2010">Dr. Toast Live @ Priceless 2010</a>
+            <small>June 17, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/06/17/dr-toast-live-the-big-bounce">Dr. Toast Live @ The Big Bounce</a>
+            <small>June 17, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/06/08/dr-toast-live-california-academy-of-sciences-2">Dr. Toast Live @ California Academy of Sciences</a>
+            <small>June 8, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/05/04/dr-toast-live-on-the-transported-bus-3">Dr. Toast Live on the Transported Bus</a>
+            <small>May 4, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/04/27/dr-toast-live-ecstatic-dance">Dr. Toast Live @ Ecstatic Dance</a>
+            <small>April 27, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/03/30/dr-toast-live-puttin-on-the-ritz">Dr. Toast Live @ Puttin' On the Ritz</a>
+            <small>March 30, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2010/02/09/dr-toast-live-living-room-sessions">Dr. Toast Live @ Living Room Sessions</a>
+            <small>February 9, 2010</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/12/06/dr-toast-live-transported-2">Dr. Toast Live @ Transported</a>
+            <small>December 6, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/11/17/dr-toast-live-at-artumnal-gathering">Dr. Toast Live at Artumnal Gathering</a>
+            <small>November 17, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/08/26/dr-toast-live-burning-man-2009">Dr. Toast Live @ Burning Man 2009</a>
+            <small>August 26, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/07/26/dr-toast-live-symbiosis">Dr. Toast Live @ Symbiosis</a>
+            <small>July 26, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/07/08/dr-toast-live-sand-by-the-ton">Dr. Toast Live @ Sand by the Ton</a>
+            <small>July 8, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/07/02/dr-toast-live-priceless-2009">Dr. Toast Live @ Priceless 2009</a>
+            <small>July 2, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/04/09/dr-toast-live-california-academy-of-sciences">Dr. Toast Live @ California Academy of Sciences</a>
+            <small>April 9, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2009/04/02/dr-toast-live-transported">Dr. Toast Live @ Transported</a>
+            <small>April 2, 2009</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/12/21/dr-toast-live-on-the-transported-bus-2">Dr. Toast Live on the Transported Bus</a>
+            <small>December 21, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/10/30/dr-toast-live-cubik-and-origami-record-release-party">Dr. Toast Live @ Cubik and Origami Record Release</a>
+            <small>October 30, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/10/30/dr-toast-live-fwr">Dr. Toast Live @ FWR</a>
+            <small>October 30, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/10/30/dr-toast-live-end-of-an-error">Dr. Toast Live @ End of an Error</a>
+            <small>October 30, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/09/30/dr-toast-live-lepidodgera-fundraiser">Dr. Toast Live @ Lepidodgera Fundraiser</a>
+            <small>September 30, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/08/19/dr-toast-live-burning-man-false-profit-2008">Dr. Toast Live @ Burning Man: False Profit 2008</a>
+            <small>August 19, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/08/19/dr-toast-live-burning-man-relax-o-matic-plushitorium">Dr. Toast Live @ Burning Man: Relax-O-Matic Plushitorium</a>
+            <small>August 19, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/08/19/dr-toast-live-burning-man-mutopia">Dr. Toast Live @ Burning Man: Mutopia</a>
+            <small>August 19, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/08/12/dr-toast-live-concoction">Dr. Toast Live @ Concoction</a>
+            <small>August 12, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/07/03/dr-toast-live-evac">Dr. Toast Live @ EVAC</a>
+            <small>July 3, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/07/02/dr-toast-live-friends-and-family-2008">Dr. Toast Live @ Friends and Family 2008</a>
+            <small>July 2, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/07/02/dr-toast-live-priceless-2008">Dr. Toast Live @ Priceless 2008</a>
+            <small>July 2, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/05/31/dr-toast-live-raindance">Dr. Toast Live @ Raindance</a>
+            <small>May 31, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/05/31/dr-toast-live-spring-training">Dr. Toast Live @ Spring Training</a>
+            <small>May 31, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/04/22/dr-toast-live-transporteds-1-year-anniversary-dj-bus">Dr. Toast Live @ Transported's 1-Year Anniversary DJ Bus</a>
+            <small>April 22, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/04/03/dr-toast-live-beat-church">Dr. Toast Live @ Beat Church</a>
+            <small>April 3, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/03/13/dr-toast-live-at-nasa-yuris-night-2008">Dr. Toast Live at NASA (Yuri's Night 2008)</a>
+            <small>March 13, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/03/07/the-wave-function-cd-release-party">The Wave Function - CD Release Party</a>
+            <small>March 7, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/02/25/dr-toast-live-toast-tea">Dr. Toast Live @ Toast & Tea</a>
+            <small>February 25, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/02/20/dr-toast-live-kelly-kemp-co-fundraiser">Dr. Toast Live @ Kelly Kemp & Co Fundraiser</a>
+            <small>February 20, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/02/20/dr-toast-live-dirty">Dr. Toast Live @ Dirty</a>
+            <small>February 20, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2008/01/18/dr-toast-live-delicious-drips">Dr. Toast Live @ Delicious Drips</a>
+            <small>January 18, 2008</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/12/14/dr-toast-live-new-years-2008">Dr. Toast Live - New Year's 2008</a>
+            <small>December 14, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/10/16/dr-toast-live-the-sloe-down-shine-sf">Dr. Toast Live @ The Sloe Down, Shine SF</a>
+            <small>October 16, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/10/16/dr-toast-live-wom">Dr. Toast Live @ Word of Mouth: WoM Twice as Nice</a>
+            <small>October 16, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/08/21/dr-toast-live-avant">Dr. Toast Live @ Avant</a>
+            <small>August 21, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/08/21/dr-toast-live-burning-man-the-polarium">Dr. Toast Live @ Burning Man: The Polarium</a>
+            <small>August 21, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/08/17/dr-toast-live-burning-man">Dr. Toast Live @ Burning Man: False Profit</a>
+            <small>August 17, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/08/08/dr-toast-live-on-the-transported-bus">Dr. Toast Live on the Transported Bus</a>
+            <small>August 8, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/07/18/dr-toast-live-field-day-2">Dr. Toast Live @ Field Day 2</a>
+            <small>July 18, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/07/18/dr-toast-live-summer-of-dub">Dr. Toast Live @ Summer of Dub</a>
+            <small>July 18, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/07/18/dr-toast-live-priceless">Dr. Toast Live @ Priceless</a>
+            <small>July 18, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/05/24/dr-toast-live-dividend">Dr. Toast live @ DIVIDEND</a>
+            <small>May 24, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/03/19/dr-toast-live-at-howweird-street-faire">Dr. Toast Live at Howweird Street Faire</a>
+            <small>March 19, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/03/19/dr-toast-live-at-experiment-3-fat-city">Dr. Toast Live at Experiment #3 @ Fat City</a>
+            <small>March 19, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2007/03/19/dr-toast-live-at-nasa-ames">Dr. Toast live at NASA Ames</a>
+            <small>March 19, 2007</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2006/08/07/dr-toast-live-at-equity">Dr. Toast Live at Equity</a>
+            <small>August 7, 2006</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2006/07/21/dr-toast-live-at-priceless-campout">Dr. Toast Live at Priceless Campout</a>
+            <small>July 21, 2006</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2006/04/20/dr-toast-live-at-slims-in-san-francisco">Dr. Toast - live at Slim's in San Francisco</a>
+            <small>April 20, 2006</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2005/12/02/live-at-downlow">Dr. Toast Live at Downlow</a>
+            <small>December 2, 2005</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2005/11/26/live-at-wonderland-nyc">Dr. Toast Live at Wonderland, NYC</a>
+            <small>November 26, 2005</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2005/11/18/live-at-mighty-breaks">Live at Mighty Breaks</a>
+            <small>November 18, 2005</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2005/11/12/live-at-panda-moan-eum">Live at Panda-moan-eum</a>
+            <small>November 12, 2005</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2005/11/04/live-at-fake-science-launch-party">Live at Fake Science Launch Party</a>
+            <small>November 4, 2005</small>
+          </li>
+        
+          <li class="collection-item">
+            <a href="/2005/09/01/live-at-burning-man">Live at Burning Man</a>
+            <small>September 1, 2005</small>
+          </li>
+        
+      </ul>
     </div>
-
-  </div>
-
-
-  <div class="foot">
-    <p>Copyright &copy; 2013 Dr. Toast</p>
   </div>
 </div>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-546935-1");
-pageTracker._trackPageview();
-</script>
-<!-- Google Analytics end -->
+
+  <footer class="page-footer grey darken-2">
+    <div class="footer-copyright">
+      <div class="container">
+      Copyright &copy; 2016 Dr. Toast
+      </div>
+    </div>
+  </footer>
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="/js/materialize.min.js"></script>
+  <script src="/js/init.js"></script>
+
+  <!-- ready -->
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+  </script>
+
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-546935-1");
+    pageTracker._trackPageview();
+  </script>
+  <!-- Google Analytics end -->
 
 </body>
 </html>

@@ -1,288 +1,201 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <meta name="author" content="Dr. Toast" />
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href="/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>Dr. Toast</title>
-   <meta name="author" content="Dr. Toast" />
-
-    <!-- <link rel="stylesheet" type="text/css" media="all"  href="/css/template.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/grids.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/content.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/mod.css" />-->
-    <!-- <link rel="stylesheet" type="text/css" media="all" href="/css/mod_skins.css" />-->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
-
 </head>
+
 <body>
+  <ul id="music-dropdown" class="dropdown-content">
+    <li><a href="https://music.drtoast.com">Bandcamp</a></li>
+<li><a href="https://soundcloud.com/drtoast">Soundcloud</a></li>
+<li><a href="https://itunes.apple.com/us/artist/dr.-toast/id278022074">iTunes</a></li>
+<li><a href="https://open.spotify.com/artist/2SPTxueEd9AnNTBnOJqLWs">Spotify</a></li>
 
-<div class="page">
+  </ul>
 
-  <div class="head">
-    <div class="header">
-      <!-- <h1>Dr. Toast</h1>-->
-      <div class="navigation">
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="http://music.drtoast.com">Listen</a></li>
-          <li><a href="/departments/shows">Shows</a></li>
-          <li><a href="mailto:drtoast@drtoast.com">Contact</a></li>
-        </ul>
-      </div>
+  <ul id="music-dropdown-mobile" class="dropdown-content">
+    <li><a href="https://music.drtoast.com">Bandcamp</a></li>
+<li><a href="https://soundcloud.com/drtoast">Soundcloud</a></li>
+<li><a href="https://itunes.apple.com/us/artist/dr.-toast/id278022074">iTunes</a></li>
+<li><a href="https://open.spotify.com/artist/2SPTxueEd9AnNTBnOJqLWs">Spotify</a></li>
+
+  </ul>
+
+  <ul id="news-dropdown" class="dropdown-content">
+    <li><a href="https://facebook.com/drtoastmusic">Facebook</a></li>
+<li><a href="https://twitter.com/drtoast">Twitter</a></li>
+<li><a href="/departments/shows">Shows</a></li>
+
+  </ul>
+
+  <ul id="news-dropdown-mobile" class="dropdown-content">
+    <li><a href="https://facebook.com/drtoastmusic">Facebook</a></li>
+<li><a href="https://twitter.com/drtoast">Twitter</a></li>
+<li><a href="/departments/shows">Shows</a></li>
+
+  </ul>
+
+  <ul id="blog-dropdown" class="dropdown-content">
+    
+<li><a href="/departments/releases">releases</a></li>
+
+<li><a href="/departments/shows">shows</a></li>
+
+<li><a href="/departments/toast-haiku">toast haiku</a></li>
+
+<li><a href="/departments/toast-recipes">toast recipes</a></li>
+
+<li><a href="/departments/toast-articles">toast articles</a></li>
+
+<li><a href="/departments/toast-news">toast news</a></li>
+
+<li><a href="/departments/toast-links">toast links</a></li>
+
+<li><a href="/departments/toasters">toasters</a></li>
+
+<li><a href="/departments/ask-dr-toast">ask dr toast</a></li>
+
+
+  </ul>
+
+  <ul id="blog-dropdown-mobile" class="dropdown-content">
+    
+<li><a href="/departments/releases">releases</a></li>
+
+<li><a href="/departments/shows">shows</a></li>
+
+<li><a href="/departments/toast-haiku">toast haiku</a></li>
+
+<li><a href="/departments/toast-recipes">toast recipes</a></li>
+
+<li><a href="/departments/toast-articles">toast articles</a></li>
+
+<li><a href="/departments/toast-news">toast news</a></li>
+
+<li><a href="/departments/toast-links">toast links</a></li>
+
+<li><a href="/departments/toasters">toasters</a></li>
+
+<li><a href="/departments/ask-dr-toast">ask dr toast</a></li>
+
+
+  </ul>
+
+  <nav class="grey darken-4" role="navigation">
+    <div class="nav-wrapper container">
+      <a id="logo-container" href="/" class="brand-logo">Dr. Toast</a>
+
+      <ul class="right hide-on-med-and-down">
+        <li><a class="dropdown-button" href="#!" data-activates="music-dropdown">Music</a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="news-dropdown">News</a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="blog-dropdown">Blog</a></li>
+        <li><a href="mailto:drtoast@drtoast.com">Contact</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="side-nav">
+        <li><a class="dropdown-button" href="#!" data-activates="music-dropdown-mobile">Music<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="news-dropdown-mobile">News<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="blog-dropdown-mobile">Blog<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a href="mailto:drtoast@drtoast.com">Contact</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
-  </div>
+  </nav>
 
-  <div class="body">
-
-    <!-- Right Column -->
-    <div class="rightCol">
-      <div class="mod">
-
-
-        <!-- Recent Posts -->
-        <div class="recent widget">
-          <h3>recent posts</h3>
-          <ul>
-            
-            <li><a href="/2013/07/09/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></li>
-            
-            <li><a href="/2013/06/29/dr-toast-live-at-earth-in-reverse">Dr. Toast Live at Earth in Reverse</a></li>
-            
-            <li><a href="/2013/05/26/dr-toast-live-at-priceless-2013">Dr. Toast Live at Priceless 2013</a></li>
-            
-            <li><a href="/2013/05/25/dr-toast-live-at-be-inspired">Dr. Toast Live at Be Inspired</a></li>
-            
-            <li><a href="/2013/05/10/dr-toast-live-at-spring-training-2012">Dr. Toast Live at Spring Training 2012</a></li>
-            
-          </ul>
-        </div>
-
-        <!-- Twitter -->
-        <div class="widget">
-          <a class="twitter-timeline" href="https://twitter.com/drtoast" data-widget-id="351402308850036737">Tweets by @drtoast</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-        </div>
-
-        <!-- Facebook -->
-        <div class="widget">
-          <h3>facebook</h3>
-          <div class="facebook">
-  <a href="http://www.facebook.com/drtoastmusic" title="Dr. Toast" target="_TOP">
-    <img src="http://badge.facebook.com/badge/10662747580.1387.320699057.png" alt="Dr. Toast" style="border: 0px;" />
-  </a>
-  <br>
-  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fdrtoastmusic&amp;layout=standard&amp;show_faces=true&amp;width=180&amp;action=like&amp;colorscheme=light&amp;height=120" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:120px;" allowTransparency="true"></iframe>
+  <div class="parallax-container">
+  <div class="parallax"><img src="images/dr-toast-priceless-hands-crop.jpg"></div>
 </div>
 
+<div class="container">
+  <div class="section">
 
+    <!--   Icon Section   -->
+    <div class="row">
+      <div class="col s12 m4">
+        <div class="icon-block">
+          <h5 class="center">Gravity is Quiet</h5>
+          <img class="responsive-img" src="/uploads/2011/07/dr-toast-gravity-is-quiet-600x600.jpg" alt="Album cover for Gravity is Quiet" title="Gravity is Quiet"/>
+          <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1900524021/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://music.drtoast.com/album/gravity-is-quiet">Gravity is Quiet by Dr. Toast</a></iframe>
+          <div class="collection">
+            <a class="collection-item" href="https://itunes.apple.com/us/album/gravity-is-quiet/id452858981">Download from iTunes</a>
+            <a class="collection-item" href="https://www.amazon.com/Gravity-is-Quiet/dp/B005EX3GTK/">Download from Amazon</a>
+            <a class="collection-item" href="https://drtoast.bandcamp.com/album/gravity-is-quiet">Download from Bandcamp (name your price)</a>
+          </div>
         </div>
 
-        <!-- Flickr -->
-        <!--<div class="widget">-->
-          <!--<h3>photos</h3>-->
-          <!--<div id="flickr_badge_uber_wrapper"><div id="flickr_badge_wrapper">
-<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user_tag&user=74504321%40N00&tag=drtoast"></script>
-</div></div>
-
--->
-        <!--</div>-->
-
-        <!-- Categories -->
-        <div class="categories widget">
-          <h3>categories</h3>
-          <ul>
-            
-            <li><a href="/departments/releases">releases</a></li>
-            
-            <li><a href="/departments/shows">shows</a></li>
-            
-            <li><a href="/departments/toast-haiku">toast haiku</a></li>
-            
-            <li><a href="/departments/toast-recipes">toast recipes</a></li>
-            
-            <li><a href="/departments/toast-articles">toast articles</a></li>
-            
-            <li><a href="/departments/toast-news">toast news</a></li>
-            
-            <li><a href="/departments/toast-links">toast links</a></li>
-            
-            <li><a href="/departments/toasters">toasters</a></li>
-            
-            <li><a href="/departments/ask-dr-toast">ask dr toast</a></li>
-            
-          </ul>
-        </div>
-
-        <!-- Links -->
-        <div class="links widget">
-          <h3>elsewhere</h3>
-          <ul>
-            <li><a href="http://music.drtoast.com">music.drtoast.com</a></li>
-            <li><a href="http://soundcloud.com/drtoast">soundcloud.com/drtoast</a></li>
-            <li><a href="http://twitter.com/drtoast">twitter.com/drtoast</a></li>
-            <li><a href="http://facebook.com/drtoastmusic">facebook.com/drtoastmusic</a></li>
-            <li><a href="http://www.songkick.com/artists/496021-dr-toast">songkick.com</a></li>
-            <li><a href="http://www.last.fm/music/Dr.+Toast">last.fm</a></li>
-            <li><a href="http://flickr.com/photos/drtoast">flickr.com/photos/drtoast</a></li>
-            <li><a href="http://toasthaiku.net">toasthaiku.net</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <!-- main content -->
-    <div class='main'>
-      <div class="line">
-        <div class="unit lastUnit">
-          <div class="mod">
-            <div class="posts">
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2013/07/09/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></h3>
-      <span class='entry-meta'>posted July 9, 2013 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Wednesday, July 10, 2013,  7:45pm</strong> - Post-Priceless Equity Happy Hour, with the False Profit All-Star Team: Alxndr, benchun, Dr. Toast, Evolutionista, Ganucheau, Obi-J, Palindrome. 6-11pm (Dr. Toast at 7:45). Free!
-[<a href="http://www.false-profit.com/2013/07/10/post-priceless-equity-happy-hour/">info</a>, <a href="https://www.facebook.com/events/139525316251767/">facebook</a>]</p>
-
-<p><img src="/uploads/2013/07/baroo.png" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2013/06/29/dr-toast-live-at-earth-in-reverse">Dr. Toast Live at Earth in Reverse</a></h3>
-      <span class='entry-meta'>posted June 29, 2013 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Sunday, June 30, 2013,  7:30pm-10pm</strong> - Dr. Toast performs at this free, online-only event at Turntable.fm along with artists such as Com Truise, Mux Mool, Ochre, Boxcutter, Thriftworks, Heathered Pearls, and more! [<a href="https://www.facebook.com/events/576183322425759/">facebook</a>]</p>
-
-<p><img src="/uploads/2013/06/dr-toast-live-at-earth-in-reverse.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2013/05/26/dr-toast-live-at-priceless-2013">Dr. Toast Live at Priceless 2013</a></h3>
-      <span class='entry-meta'>posted May 26, 2013 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Saturday, July 06, 2013, 6:00am</strong> - Once again, False Profit will hold the annual Priceless camp-out in early July. Join us in celebration with our unique brand of art, activities, and music for our eighth (omg) year in a row throwing down on the Feather River. Dr. Toast plays at Sunrise at the main stage on Saturday morning, and with Ganucheau as our “Bookends” collaboration at the Forest stage (time TBD).
-[<a href="http://priceless.false-profit.com/">info</a>, <a href="https://www.facebook.com/events/168776789954141">facebook</a>]</p>
-
-<p><img src="/uploads/2013/05/baroot13.png" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2013/05/25/dr-toast-live-at-be-inspired">Dr. Toast Live at Be Inspired</a></h3>
-      <span class='entry-meta'>posted May 25, 2013 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Sunday, May 26, 2013, 10:30pm</strong> - Dr. Toast performs as part of “San Francisco’s first annual celebration of visuals” across 6 stages of music with multiple projection-mapping installations. Music, art, face painting, tea service, mutant art bus, silent disco, etc! Location: Public Works, 161 Erie St, San Francisco, 9pm-5am.
-[<a href="https://www.facebook.com/events/385121188251856/">facebook</a>, <a href="http://www.eventbrite.com/event/6037136237">tickets</a>]</p>
-
-<p><img src="/uploads/2013/05/be-inspired-flyer.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2013/05/10/dr-toast-live-at-spring-training-2012">Dr. Toast Live at Spring Training 2012</a></h3>
-      <span class='entry-meta'>posted May 10, 2013 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Sunday, May 19, 2013, 1:00-2:00pm</strong> - Spring is here, and that means False Profit’s annual Spring Training in the sun at Joaquin Miller Park in Oakland, California. Dr. Toast will be performing at 1pm right between the waterfall and the fountain. Also featuring Alxndr, benchun, Brunch (Ganucheau &amp; Daps), DJOOLZ, Dream Shovel, and Evolutionista. Free!
-[<a href="http://www.false-profit.com/2013/05/16/spring-training-2013/">info</a>, <a href="https://www.facebook.com/events/248442225298084/">facebook</a>]</p>
-
-<p><img src="/uploads/2013/05/spring-training-2013.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2012/12/01/dr-toast-live-at-artumnal-gathering-2012">Dr. Toast Live at Artumnal Gathering 2012</a></h3>
-      <span class='entry-meta'>posted December 1, 2012 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Saturday, December 1, 2012, 10:30pm</strong> - Dr. Toast is honored to again perform at the <a href="http://blackrockarts.org/">Black Rock Arts Foundation</a>’s annual gala fundraiser, the Artumnal Gathering. Live music, art auction, and food! Location: The Bentley Reserve, 400 Sansome St, San Francisco.
-[<a href="http://blackrockarts.org/events/artumnal-gathering-2012">info</a>, <a href="https://www.facebook.com/events/281493565295121/">facebook</a>]</p>
-
-<p><img src="/uploads/2012/12/Artumnal-2012-Hi-Res-Web.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2012/10/01/dr-toast-live-at-spectrum-2012">Dr. Toast Live at Spectrum 2012</a></h3>
-      <span class='entry-meta'>posted October 1, 2012 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Sunday, October 21, 2012, 8pm</strong> - Dr. Toast performs with Ganucheau at this annual gala fundraiser for the <a href="http://accessinst.org/">Access Institute</a>, a San Francisco-based affordable mental healthcare provider. Food, cocktails, and a silent art auction!
-[<a href="http://spectrum-sf.org/">info</a>, <a href="http://spectrum-sf.org/tickets/">tickets</a>]</p>
-
-<p><img src="/uploads/2012/10/spectrum-art-auction.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2012/09/01/dr-toast-live-at-chillits-2012">Dr. Toast Live at Chillits 2012</a></h3>
-      <span class='entry-meta'>posted September 1, 2012 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Sunday, September 30, 2012, 2:00-3:30am</strong> - Dr. Toast performs at this legendary and intimate festival in California. Relax by the river at the Rancho Cicada retreat to the sounds of a great assortment of talented ambient and chill DJs and producers, including my collaborator Ganucheau!
-[<a href="http://www.ranchocicadaretreat.com/">location</a>, <a href="http://en.wikipedia.org/wiki/Chillits">info</a>]</p>
-
-<p><img src="/uploads/2012/09/chillits2012.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2012/08/01/dr-toast-live-at-burning-man-2012">Dr. Toast Live at Burning Man 2012</a></h3>
-      <span class='entry-meta'>posted August 1, 2012 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Wednesday, August 29, 2012, 06:00am</strong> - Dr. Toast continues the time-honored tradition of performing a special sunrise set Wednesday morning at the end of False Profit’s Tuesday Party. Location: Black Rock City, Nevada, at 5:00 and Esplanade.
-[<a href="http://www.false-profit.com/2012/08/28/tuesday-night-2012/">info</a>, <a href="https://www.facebook.com/events/274156189353014/">facebook</a>]</p>
-
-<p><img src="/uploads/2012/08/baroo.jpg" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-    <div class='entry'>
-      <h3 class='entry-title'><a href="/2012/07/01/dr-toast-live-at-equity">Dr. Toast Live at Equity</a></h3>
-      <span class='entry-meta'>posted July 1, 2012 | <a class='category' href='/departments/music/'>music</a>, <a class='category' href='/departments/shows/'>shows</a></span>
-      <p><p><strong>Wednesday, July 11, 2012, 6:30pm</strong> - Dr. Toast helps bring the rebirth of False Profit’s Equity Happy hour at Asiento! Accompanied by all your favorite False Profit DJs including Broxtronix, benchun, Djoolz, Obi-J, and watsonix. 6-9pm, 2730 21st Street @ Bryant, San Francisco, absolutely free!
-[<a href="http://www.false-profit.com/2012/07/11/equity-reloaded/">info</a>, <a href="https://www.facebook.com/events/173621076103607/">facebook</a>]</p>
-
-<p><img src="/uploads/2012/07/new-equity-graphic3.png" alt="flyer" /></p>
-
-</p>
-    </div>
-  
-</div>
-
-
-<!-- Pagination links -->
-<div class="pagination">
-  
-    <a href="/page2" class="next ">&lt; older posts</a>
-  
-
-  
-</div>
-
+        <div class="icon-block">
+          <h5 class="center">False Sunrise EP</h5>
+          <img class="responsive-img" src="/uploads/2011/07/dr-toast-false-sunrise-600x600.jpg" alt="Album cover for False Sunrise" title="False Sunrise"/>
+          <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3592098802/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://music.drtoast.com/album/false-sunrise">False Sunrise by Dr. Toast</a></iframe>
+          <div class="collection">
+            <a class="collection-item" href="https://drtoast.bandcamp.com/album/false-sunrise">Download from Bandcamp (name your price)</a>
           </div>
         </div>
       </div>
+
+      <div class="col s12 m4">
+        <div class="icon-block">
+          <h5 class="center">The Wave Function</h5>
+          <img class="responsive-img" src="/uploads/2008/03/dr-toast-the-wave-function-400x400p.jpg" alt="Album cover for The Wave Function" title="The Wave Function"/>
+          <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1705923449/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://music.drtoast.com/album/the-wave-function">The Wave Function by Dr. Toast</a></iframe>
+          <div class="collection">
+            <a class="collection-item" href="https://itunes.apple.com/us/album/the-wave-function/id278079838">iTunes</a>
+            <a class="collection-item" href="https://www.amazon.com/The-Wave-Function/dp/B001BMPA9C/">Amazon</a>
+            <a class="collection-item" href="https://drtoast.bandcamp.com/album/the-wave-function">Bandcamp (name your price)</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col s12 m4">
+        <a class="twitter-timeline" href="https://twitter.com/drtoast" data-widget-id="351402308850036737">Tweets by @drtoast</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      </div>
     </div>
-
-  </div>
-
-
-  <div class="foot">
-    <p>Copyright &copy; 2013 Dr. Toast</p>
   </div>
 </div>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-546935-1");
-pageTracker._trackPageview();
-</script>
-<!-- Google Analytics end -->
+
+  <footer class="page-footer grey darken-2">
+    <div class="footer-copyright">
+      <div class="container">
+      Copyright &copy; 2016 Dr. Toast
+      </div>
+    </div>
+  </footer>
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="/js/materialize.min.js"></script>
+  <script src="/js/init.js"></script>
+
+  <!-- ready -->
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+  </script>
+
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-546935-1");
+    pageTracker._trackPageview();
+  </script>
+  <!-- Google Analytics end -->
 
 </body>
 </html>

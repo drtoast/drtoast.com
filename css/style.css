@@ -1,0 +1,39 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.parallax-container {
+  height: 400px;
+}
+
+a.breadcrumb--category {
+  text-transform: capitalize;
+}
+
+.dropdown-content {
+  min-width: 150px;
+}
+
+a, .dropdown-content li>a {
+  color: #ef6c00; /* orange darken-3 */
+}
+
+img[alt=flyer], .aligncenter {
+  clear: both;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}

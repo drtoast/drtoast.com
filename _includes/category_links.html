@@ -1,0 +1,3 @@
+{% for category in site.category_list %}
+<li><a href="/departments/{{ category }}">{{ category | replace:'-', ' ' }}</a></li>
+{% endfor %}
