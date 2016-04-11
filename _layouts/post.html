@@ -9,7 +9,7 @@ layout: default
         <nav class="grey darken-3">
           <div class="nav-wrapper">
             <div class="col s12">
-              <a href="/categories" class="breadcrumb">Blog</a>
+              <a href="/departments" class="breadcrumb">Blog</a>
               <a href="/departments/{{ page.categories[0] }}" class="breadcrumb breadcrumb--category">{{ page.categories[0] | replace:'-',' ' }}</a>
             </div>
           </div>
@@ -18,7 +18,7 @@ layout: default
 
       <div class="section">
         <h5>{{ page.title }}</h5>
-        <small>posted {{ page.date | date: "%B %-d, %Y" }} in {{ page.categories | category_links }}</small>
+        <small>posted {{ page.date | date: "%B %-d, %Y" }}</small>
         <p>{{ content }}</p>
       </div>
     </div>

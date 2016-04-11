@@ -1,19 +1,4 @@
 markdown:    kramdown
 permalink:   /:year/:month/:day/:title
 multiviews:  true
-paginate:    10
 exclude:     ['newpost', 'README.md', 'Gemfile*']
-gems: [jekyll-paginate]
-
-# plugins
-category_dir: departments
-category_list:
-- releases
-- shows
-- toast-haiku
-- toast-recipes
-- toast-articles
-- toast-news
-- toast-links
-- toasters
-- ask-dr-toast
