@@ -306,7 +306,9 @@ Redirect 301 /crumbs/522 http://www.drtoast.com/2011/10/04/dr-toast-live-sf-moma
 
 Options +MultiViews
 
+# Remove trailing slash
+RewriteRule ^(.+)/$ http://%{HTTP_HOST}/$1 [R=301,L]
+
 # External redirect any /post-slug.html to /post-slug
 RewriteCond %{THE_REQUEST} [A-Z]+\s([^\s]+)\.html\s
 RewriteRule .* %1 [R=301,L]
-
