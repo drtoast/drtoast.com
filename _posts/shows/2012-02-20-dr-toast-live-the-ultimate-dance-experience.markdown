@@ -4,7 +4,6 @@ title: Dr. Toast Live @ The Ultimate Dance Experience
 date: 2012-02-20 20:28:33.976752000 -08:00
 categories:
 - shows
-- music
 ---
 
 **Friday, March 23, 2012 8:30pm-1:00am** - Featuring Dr. Toast, [The Polish Ambassador][tpa] ([new track out on False Profit Records][tpa-release]), and [Sharu][].

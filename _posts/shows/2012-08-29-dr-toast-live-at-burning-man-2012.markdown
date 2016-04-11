@@ -4,7 +4,6 @@ title: Dr. Toast Live at Burning Man 2012
 date: 2012-08-01 06:00:00.000000000 -07:00
 categories:
 - shows
-- music
 ---
 
 **Wednesday, August 29, 2012, 06:00am** - Dr. Toast continues the time-honored tradition of performing a special sunrise set Wednesday morning at the end of False Profit's Tuesday Party. Location: Black Rock City, Nevada, at 5:00 and Esplanade.

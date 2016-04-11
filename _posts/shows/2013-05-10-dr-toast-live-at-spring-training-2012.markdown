@@ -4,7 +4,6 @@ title: Dr. Toast Live at Spring Training 2012
 date: 2013-05-10 15:54:27.941066000 -07:00
 categories:
 - shows
-- music
 ---
 
 **Sunday, May 19, 2013, 1:00-2:00pm** - Spring is here, and that means False Profit's annual Spring Training in the sun at Joaquin Miller Park in Oakland, California. Dr. Toast will be performing at 1pm right between the waterfall and the fountain. Also featuring Alxndr, benchun, Brunch (Ganucheau & Daps), DJOOLZ, Dream Shovel, and Evolutionista. Free!

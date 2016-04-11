@@ -3,7 +3,6 @@ layout: post
 title: Dr. Toast Live @ Transported SF
 categories:
 - shows
-- music
 ---
 
 **Thursday, February 23, 2012, 8pm-11:30pm** - Dr. Toast and F'kir team up again for a chill bus excursion to destinations unknown! Join 40 other friendly folks on a biodiesel bus with a soundsystem as we travel throughout the bay area to surprise outdoor locations, where we unload, dance, then climb back aboard and head to our next spot. It's $23 and BYOB, and pickup is at Million Fishes gallery at 2501 Bryant St. \[[info][], [facebook][], [tickets][]\]

@@ -4,7 +4,6 @@ title: Dr. Toast Live at Equity
 date: 2013-07-09 20:22:14.383300000 -07:00
 categories:
 - shows
-- music
 ---
 
 **Wednesday, July 10, 2013,  7:45pm** - Post-Priceless Equity Happy Hour, with the False Profit All-Star Team: Alxndr, benchun, Dr. Toast, Evolutionista, Ganucheau, Obi-J, Palindrome. 6-11pm (Dr. Toast at 7:45). Free!
