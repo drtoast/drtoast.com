@@ -6,7 +6,7 @@ require 'time'
 
 class ToastHaiku
 
-  DEPLOY_TO = "drtoast@drtoast.com:drtoast.com"
+  DEPLOY_TO = "drtoast@drtoast.com:drtoast.com/site"
   LINK_TYPES = [:info, :facebook, :tickets]
 
   class Post
@@ -101,7 +101,7 @@ class ToastHaiku
   end
 
   def self.commit
-    run "git add . && git commit -am 'new post' && git push origin master"
+    run "git add . && git commit -m 'new post' && git push origin master"
   end
 
   def self.deploy
@@ -149,4 +149,3 @@ when 'deploy'
 else
   ToastHaiku.usage(ARGV[0])
 end
-

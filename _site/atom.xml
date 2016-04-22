@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
  <title>Dr. Toast</title>
  <link href="http://www.drtoast.com/atom.xml" rel="self"/>
  <link href="http://www.drtoast.com/"/>
- <updated>2016-04-10T23:38:52-07:00</updated>
+ <updated>2016-04-21T22:11:47-07:00</updated>
  <id>http://www.drtoast.com/</id>
  <author>
    <name>Dr. Toast</name>
@@ -3041,9 +3041,9 @@ The ghost of a toast&lt;br&gt;
    <link href="http://www.drtoast.com/2005/08/10/the-warm-chosen-slice"/>
    <updated>2005-08-10T02:31:06-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/the-warm-chosen-slice</id>
-   <content type="html">The warm chosen slice
-His jealous untoasted friends
-Waiting for their turn
+   <content type="html">The warm chosen slice&lt;br&gt;
+His jealous untoasted friends&lt;br&gt;
+Waiting for their turn&lt;br&gt;
 </content>
  </entry>
  
@@ -3052,9 +3052,9 @@ Waiting for their turn
    <link href="http://www.drtoast.com/2005/08/10/superconducting-breakfast"/>
    <updated>2005-08-10T02:30:53-07:00</updated>
    <id>http://www.drtoast.com/2005/08/10/superconducting-breakfast</id>
-   <content type="html">Chilled below zero
-Superconducting breakfast
-With sweet grape jelly
+   <content type="html">Chilled below zero&lt;br&gt;
+Superconducting breakfast&lt;br&gt;
+With sweet grape jelly&lt;br&gt;
 </content>
  </entry>
  
@@ -4034,5 +4034,5 @@ P.S. -- Obviously, since we are all toast addicts, there are no formal toast sup
 </content>
  </entry>
  
- 
+
 </feed>
